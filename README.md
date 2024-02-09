@@ -60,7 +60,7 @@ https://react-bootstrap.netlify.app/
 
 https://vitejs.dev/guide/
 
-https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup
+https://nextjs.org/
 
 ## Responsive design
 https://sizzy.co/
