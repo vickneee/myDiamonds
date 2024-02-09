@@ -25,6 +25,9 @@ https://macromates.com/
 ## Pdf Editors
 https://pdfpie.com/
 
+## Charts & Planning
+https://www.lucidchart.com/
+
 ## Drawio desktop
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10
 
@@ -50,10 +53,17 @@ https://ascii.co.uk/
 ## Colors
 https://meshgradient.com/
 
+https://chroma.dev/
+
 ## Images
 https://www.remove.bg/
 
 https://www.photopea.com/
+
+https://superdesigner.co/
+
+## Patterns
+https://superdesigner.co/
 
 ## Avatars
 https://limitlessdesigns.io/avatar-illustrations/
@@ -89,12 +99,16 @@ https://nextjs.org/
 ## Responsive design
 https://sizzy.co/
 
-## Design Apps
+## Web Design Tools
 https://www.figma.com/
 
 https://react-bootstrap.netlify.app/
 
 https://www.framer.com/
+
+https://openstickers.craftwork.design/
+
+https://superdesigner.co/
 
 ## Figma resources
 
