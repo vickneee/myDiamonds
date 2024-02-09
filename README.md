@@ -22,5 +22,5 @@ https://www.youtube.com/@ZeroToMastery
 
 https://www.youtube.com/@Figma
 
-## Learning
+## Code learning
 https://www.udemy.com/home/my-courses/learning/
