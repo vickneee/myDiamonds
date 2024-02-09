@@ -7,6 +7,8 @@ https://developer.mozilla.org/en-US/community
 
 https://docs.python.org/3/index.html
 
+https://quickref.me/
+
 ## Code Editors & IDEs
 https://code.visualstudio.com/
 
@@ -56,7 +58,12 @@ https://limitlessdesigns.io/avatar-illustrations/
 ## Videos
 https://coverr.co/
 
+## Music 
+https://mixkit.co/free-sound-effects/
+
 ## Components
+https://uiverse.io/
+
 https://www.tilebit.io/all-components?f1ce98a7_page=1
 
 https://semantic-ui.com/
@@ -172,6 +179,15 @@ https://www.framer.com/features/ai/
 https://jenni.ai/
 
 https://otter.ai/
+
+https://www.studyfetch.com/
+
+## Recources
+https://codingheroes.io/resources/
+
+https://zerotomastery.io/resources/
+
+https://designbro.com/blog/resources/freebie-sites-for-founders-makers/
 
 
 
