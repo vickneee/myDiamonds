@@ -72,6 +72,10 @@ https://undetectable.ai/
 
 https://www.framer.com/features/ai/
 
+https://jenni.ai/
+
+https://otter.ai/
+
 ## Text content
 https://www.microcopy.me/
 
