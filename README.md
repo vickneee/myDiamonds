@@ -11,7 +11,7 @@ https://docs.expo.dev/
 
 https://quickref.me/
 
-## HOW TO
+## How To
 https://www.w3schools.com/howto/default.asp
 
 ## Can I Use
