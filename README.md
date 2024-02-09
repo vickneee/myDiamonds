@@ -56,7 +56,6 @@ https://convertio.co/
 https://pdfpie.com/
 
 ## Charts & Planning
-## Charts
 https://chartscss.org/
 
 https://www.lucidchart.com/
