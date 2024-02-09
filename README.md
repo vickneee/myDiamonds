@@ -37,6 +37,9 @@ https://www.photopea.com/
 ## Components
 https://www.tilebit.io/all-components?f1ce98a7_page=1
 
+## Responsive design
+https://sizzy.co/
+
 ## Bugs
 https://jam.dev/
 
