@@ -36,6 +36,9 @@ https://www.remove.bg/
 
 https://www.photopea.com/
 
+## Avatars
+https://limitlessdesigns.io/avatar-illustrations/
+
 ## Videos
 https://coverr.co/
 
