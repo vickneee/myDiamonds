@@ -57,14 +57,20 @@ https://jam.dev/
 https://pythontutor.com/visualize.html#mode=edit
 
 ## Frameworks
-#### React.js
 https://react.dev/learn/start-a-new-react-project
 
-#### Vite.js
+https://react-bootstrap.netlify.app/
+
 https://vitejs.dev/guide/
 
-#### Next.js
 https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup
+
+## Design Apps
+https://www.figma.com/
+
+https://react-bootstrap.netlify.app/
+
+
 
 ## Node.js
 https://nodejs.org/en/download/
