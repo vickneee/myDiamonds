@@ -377,6 +377,10 @@ https://zerotomastery.io/resources/
 
 https://designbro.com/blog/resources/freebie-sites-for-founders-makers/
 
+https://publicapis.dev/category/development
+
+https://github.com/markodenic/web-development-resources?tab=readme-ov-file#table-of-contents
+
 ## Website clone
 https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone
 
