@@ -100,6 +100,8 @@ https://www.photopea.com/
 
 https://superdesigner.co/
 
+https://openstickers.craftwork.design/
+
 ## Icons & Logos
 
 ## Patterns
@@ -118,6 +120,8 @@ https://patternpad.com/editor.html
 https://products.ls.graphics/paaatterns/index.html
 
 https://doodad.dev/
+
+https://superdesigner.co/
 
 ## Animations
 https://keyframes.app/animate
@@ -167,10 +171,6 @@ https://www.figma.com/
 https://react-bootstrap.netlify.app/
 
 https://www.framer.com/
-
-https://openstickers.craftwork.design/
-
-https://superdesigner.co/
 
 ## Figma resources
 
