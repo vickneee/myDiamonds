@@ -201,6 +201,9 @@ https://react-icons.github.io/react-icons/
 
 https://delesign.com/free-designs/graphics/icon
 
+## Avatars
+https://limitlessdesigns.io/avatar-illustrations/
+
 ## Patterns
 https://css-doodle.com/
 
@@ -220,16 +223,6 @@ https://doodad.dev/
 
 https://superdesigner.co/
 
-## Animations
-https://keyframes.app/animate
-
-https://animatedbackgrounds.me/
-
-https://animate.style/
-
-## Avatars
-https://limitlessdesigns.io/avatar-illustrations/
-
 ## QR Code generator
 https://markodenic.com/tools/qr-code-generator/
 
@@ -246,13 +239,13 @@ https://www.tilebit.io/
 
 https://semantic-ui.com/
 
+#### Buttons
+https://markodenic.com/tools/buttons-generator/?ref=producthunt
+
 #### React.js components
 https://github.com/brillout/awesome-react-components?tab=readme-ov-file
 
 https://github.com/rcaferati/react-awesome-slider
-
-## Buttons
-https://markodenic.com/tools/buttons-generator/?ref=producthunt
 
 ## Bugs
 https://jam.dev/
@@ -281,16 +274,16 @@ https://jestjs.io/
 #### End-To-End test
 https://www.cypress.io/
 
-## Style
-https://eslint.org/
-
-https://prettier.io/
+## Test Driven Development
+https://www.lambdatest.com/learning-hub/test-driven-development
 
 ## Clean Code
 https://github.com/dev-marko/clean-code-book
 
-## Test Driven Development
-https://www.lambdatest.com/learning-hub/test-driven-development
+## Style
+https://eslint.org/
+
+https://prettier.io/
 
 ## Optimization
 https://pagespeed.web.dev/
@@ -303,9 +296,6 @@ https://render.com/
 https://vercel.com/
 
 https://walpuri.vercel.app/
-
-## Validation
-https://validator.w3.org/
 
 ## Code learning
 https://fitech.io/fi/
@@ -404,6 +394,13 @@ https://shouldiprefix.com/
 https://www.w3schools.com/cssref/css_selectors.php
 
 https://flexboxfroggy.com/
+
+## Animations
+https://keyframes.app/animate
+
+https://animatedbackgrounds.me/
+
+https://animate.style/
 
 #### Flexbox
 https://flexbox.malven.co/
