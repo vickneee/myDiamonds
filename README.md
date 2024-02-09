@@ -47,9 +47,6 @@ https://www.tilebit.io/all-components?f1ce98a7_page=1
 
 https://semantic-ui.com/
 
-## Responsive design
-https://sizzy.co/
-
 ## Bugs
 https://jam.dev/
 
@@ -64,6 +61,9 @@ https://react-bootstrap.netlify.app/
 https://vitejs.dev/guide/
 
 https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup
+
+## Responsive design
+https://sizzy.co/
 
 ## Design Apps
 https://www.figma.com/
