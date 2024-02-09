@@ -23,6 +23,9 @@ https://macromates.com/
 ## Pdf Editors
 https://pdfpie.com/
 
+## Drawio desktop
+https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10
+
 ## Files
 https://convertio.co/
 
