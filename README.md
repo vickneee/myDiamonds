@@ -57,6 +57,8 @@ https://meshgradient.com/
 
 https://chroma.dev/
 
+https://doodad.dev/
+
 ## Images
 https://www.remove.bg/
 
@@ -65,6 +67,8 @@ https://www.photopea.com/
 https://superdesigner.co/
 
 ## Patterns
+https://css-doodle.com/
+
 https://superdesigner.co/
 
 https://bgjar.com/
@@ -76,6 +80,8 @@ https://background-generator.com/
 https://patternpad.com/editor.html
 
 https://products.ls.graphics/paaatterns/index.html
+
+https://doodad.dev/
 
 ## Avatars
 https://limitlessdesigns.io/avatar-illustrations/
