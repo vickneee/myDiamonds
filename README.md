@@ -9,6 +9,9 @@ https://docs.python.org/3/index.html
 
 https://quickref.me/
 
+## HOW TO
+https://www.w3schools.com/howto/default.asp
+
 ## Frameworks
 https://react.dev/learn/start-a-new-react-project
 
