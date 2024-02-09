@@ -50,10 +50,14 @@ https://jam.dev/
 https://pythontutor.com/visualize.html#mode=edit
 
 ## Frameworks
-#### Vite
+#### React.js
+https://react.dev/learn/start-a-new-react-project
+
+#### Vite.js
 https://vitejs.dev/guide/
 
-#### Next
+#### Next.js
+https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup
 
 ## Deployment
 
