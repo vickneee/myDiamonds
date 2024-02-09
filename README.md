@@ -313,3 +313,8 @@ https://www.sqltutorial.org/
 ## NPM
 
 ## API
+
+## Figma
+https://www.youtube.com/watch?v=d0FhMca_wv0
+
+https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
