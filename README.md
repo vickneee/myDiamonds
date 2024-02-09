@@ -70,7 +70,7 @@ https://www.figma.com/
 
 https://react-bootstrap.netlify.app/
 
-
+https://www.framer.com/
 
 ## Node.js
 https://nodejs.org/en/download/
