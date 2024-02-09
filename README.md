@@ -241,7 +241,7 @@ https://trello.com/
 
 https://www.atlassian.com/software/jira
 
-## Recources
+## Resources
 https://codingheroes.io/resources/
 
 https://zerotomastery.io/resources/
