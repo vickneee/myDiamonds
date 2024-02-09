@@ -76,7 +76,7 @@ https://jenni.ai/
 
 https://otter.ai/
 
-## Text content
+## Text
 https://www.microcopy.me/
 
 ## Images
