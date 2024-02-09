@@ -118,6 +118,8 @@ https://picsum.photos/
 
 https://unsplash.com/
 
+https://www.freepik.com/
+
 https://www.remove.bg/
 
 https://www.photopea.com/
@@ -132,6 +134,8 @@ https://delesign.com/free-designs/graphics/illustration
 
 https://icons8.com/illustrations
 
+https://undraw.co/illustrations
+
 https://www.oldbookillustrations.com/artists/potter-beatrix/
 
 #### Edit Photo
@@ -141,6 +145,12 @@ https://www.photoroom.com/tools/
 https://promo.com/tools/image-resizer/
 
 https://imgupscaler.com/
+
+#### Al Image Upscaler
+https://www.upscayl.org/
+
+#### AI Image Enlarger
+https://bigjpg.com/
 
 #### Image Compressor
 https://squoosh.app/
@@ -166,11 +176,19 @@ https://generated.photos/
 
 https://lexica.art/
 
+https://prompthero.com/ai-models/text-to-image
+
 #### Profile Picture Maker
 https://pfpmaker.com/
 
 #### Get Waves
 https://getwaves.io/
+
+#### Create Beautiful Images of your Code
+https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32
+
+## Screen Capture
+https://getkap.co/
 
 ## Videos
 https://www.pexels.com/videos/
@@ -356,6 +374,8 @@ https://jenni.ai/
 https://otter.ai/
 
 https://www.studyfetch.com/
+
+https://runwayml.com/ai-magic-tools/
 
 ## Resources
 https://codingheroes.io/resources/
