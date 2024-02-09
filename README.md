@@ -1,4 +1,4 @@
-# Development resources
+# Amazing Development resources 🤫
 
 ## Documentation
 
