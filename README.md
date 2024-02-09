@@ -2,7 +2,7 @@
 
 ## Documentation
 
-| Documentation   | LastName |
+| Documentation   |  
 | ----------- | --------- |
 | [W3S](https://www.w3schools.com/)      | 
 | [React](https://react.dev/)        |
