@@ -27,6 +27,8 @@ https://pdfpie.com/
 https://convertio.co/
 
 ## Text
+https://loremipsum.io/generator/
+
 https://www.microcopy.me/
 
 ## Images
