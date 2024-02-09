@@ -98,6 +98,8 @@ https://fontpairings.bypeople.com/
 https://typescale.com/?size
 
 ## Colors
+https://color.adobe.com/create/color-wheel
+
 https://meshgradient.com/
 
 https://chroma.dev/
@@ -109,7 +111,9 @@ https://keyframes.app/colors
 ## Shadows
 https://keyframes.app/shadows
 
-## Images
+## Images & Photos
+https://www.pexels.com/
+
 https://picsum.photos/
 
 https://unsplash.com/
@@ -128,13 +132,42 @@ https://delesign.com/free-designs/graphics/illustration
 
 https://icons8.com/illustrations
 
-https://lexica.art/
+https://www.oldbookillustrations.com/artists/potter-beatrix/
+
+#### Edit Photo
+https://www.photoroom.com/tools/
 
 #### Image ReSizer
 https://promo.com/tools/image-resizer/
 
+https://imgupscaler.com/
+
+#### Image Compressor
+https://squoosh.app/
+
+https://compressor.io/
+
+https://tinypng.com/
+
+https://www.shrink.media/
+
 #### Background remover
 https://www.remove.bg/g/developers
+
+https://www.erase.bg/
+
+#### Online Al Photo Editor
+https://pixlr.com/
+
+#### Online Al Photo Generator
+https://pixlr.com/image-generator/
+
+https://generated.photos/
+
+https://lexica.art/
+
+#### Profile Picture Maker
+https://pfpmaker.com/
 
 #### Get Waves
 https://getwaves.io/
