@@ -1,6 +1,13 @@
 # Development resources
 
 ## Documentation
+
+| ## Documentation   | LastName |
+| ----------- | -------- |
+| [W3S](https://www.w3schools.com/)      | Doe      |
+| [React](https://react.dev/)        | Doe      |
+| [Expo ](https://docs.expo.dev/)      | Denic    |
+
 https://www.w3schools.com/
 
 https://react.dev/
