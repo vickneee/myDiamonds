@@ -34,6 +34,9 @@ https://www.remove.bg/
 
 https://www.photopea.com/
 
+## Videos
+https://coverr.co/
+
 ## Components
 https://www.tilebit.io/all-components?f1ce98a7_page=1
 
