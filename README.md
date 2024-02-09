@@ -85,6 +85,9 @@ https://www.photopea.com/
 
 https://superdesigner.co/
 
+## Charts
+https://chartscss.org/
+
 ## Patterns
 https://css-doodle.com/
 
@@ -105,6 +108,8 @@ https://doodad.dev/
 ## Animations
 https://keyframes.app/animate
 
+https://animatedbackgrounds.me/
+
 ## Avatars
 https://limitlessdesigns.io/avatar-illustrations/
 
@@ -118,6 +123,12 @@ https://coverr.co/
 https://mixkit.co/free-sound-effects/
 
 ## Components
+https://getbootstrap.com/
+
+https://tailwindcss.com/
+
+https://mui.com/material-ui/
+
 https://uiverse.io/
 
 https://www.tilebit.io/
