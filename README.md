@@ -5,6 +5,8 @@ https://www.w3schools.com/
 
 https://developer.mozilla.org/en-US/community
 
+https://docs.python.org/3/index.html
+
 ## Code Editors & IDEs
 https://code.visualstudio.com/
 
