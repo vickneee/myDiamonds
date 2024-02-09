@@ -9,6 +9,17 @@ https://docs.python.org/3/index.html
 
 https://quickref.me/
 
+## Frameworks
+https://react.dev/learn/start-a-new-react-project
+
+https://vitejs.dev/guide/
+
+https://nextjs.org/
+
+https://nextjs.org/docs/getting-started/installation
+
+https://nextjs.org/docs/pages/api-reference/create-next-app
+
 ## Code Editors & IDEs
 https://code.visualstudio.com/
 
@@ -146,15 +157,6 @@ https://jam.dev/
 ## Visualize code
 https://pythontutor.com/visualize.html#mode=edit
 
-## Frameworks
-https://react.dev/learn/start-a-new-react-project
-
-https://react-bootstrap.netlify.app/
-
-https://vitejs.dev/guide/
-
-https://nextjs.org/
-
 ## Responsive design
 https://sizzy.co/
 
@@ -172,6 +174,22 @@ https://superdesigner.co/
 ## Figma resources
 
 ## Testing tools
+
+#### React testing library
+https://testing-library.com/docs/react-testing-library/intro/
+
+Jest](https://jestjs.io/
+
+#### End-To-End test
+[Cypress]https://www.cypress.io/
+
+## Style
+[EsLint]https://eslint.org/
+
+[Prettier](https://prettier.io/
+
+## Clean Code
+[Clean Code]https://github.com/dev-marko/clean-code-book
 
 ## Deployment
 https://app.netlify.com/
