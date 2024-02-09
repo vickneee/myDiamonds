@@ -43,6 +43,8 @@ https://codeanywhere.com/
 https://www.w3schools.com/tryit/
 
 ## Git
+https://git-scm.com/
+
 https://ohshitgit.com/
 
 https://learngitbranching.js.org/
