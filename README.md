@@ -178,18 +178,24 @@ https://superdesigner.co/
 #### React testing library
 https://testing-library.com/docs/react-testing-library/intro/
 
-Jest](https://jestjs.io/
+https://jestjs.io/
 
 #### End-To-End test
-[Cypress]https://www.cypress.io/
+https://www.cypress.io/
 
 ## Style
-[EsLint]https://eslint.org/
+https://eslint.org/
 
-[Prettier](https://prettier.io/
+https://prettier.io/
 
 ## Clean Code
-[Clean Code]https://github.com/dev-marko/clean-code-book
+https://github.com/dev-marko/clean-code-book
+
+## Test Driven Development
+https://www.lambdatest.com/learning-hub/test-driven-development
+
+## Optimization
+https://pagespeed.web.dev/
 
 ## Deployment
 https://app.netlify.com/
@@ -197,6 +203,8 @@ https://app.netlify.com/
 https://render.com/
 
 https://vercel.com/
+
+https://walpuri.vercel.app/
 
 ## Code learning
 https://fitech.io/fi/
