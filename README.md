@@ -299,6 +299,9 @@ https://www.atlassian.com/software/jira
 ## React.js
 https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
 
+## React.js TypeScript
+https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=94
+
 ## React Native
 
 ## Node.js
