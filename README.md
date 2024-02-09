@@ -180,6 +180,7 @@ https://www.framer.com/
 #### React testing library
 https://testing-library.com/docs/react-testing-library/intro/
 
+#### Jest
 https://jestjs.io/
 
 #### End-To-End test
