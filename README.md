@@ -53,6 +53,8 @@ https://pythontutor.com/visualize.html#mode=edit
 #### Vite
 https://vitejs.dev/guide/
 
+#### Next
+
 ## Deployment
 
 ## Code learning
