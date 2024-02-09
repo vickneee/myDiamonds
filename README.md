@@ -318,6 +318,8 @@ https://www.mysql.com/
 
 https://www.sqltutorial.org/
 
+https://github.com/pawelsalawa/sqlitestudio/releases
+
 ## NPM
 
 ## API
