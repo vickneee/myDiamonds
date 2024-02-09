@@ -302,6 +302,10 @@ https://www.atlassian.com/software/jira
 ## Node.js
 https://nodejs.org/en/download/
 
+## Express.js
+
+## NEXT.js
+
 ## MongoDB
 https://www.mongodb.com/
 
@@ -313,6 +317,8 @@ https://www.sqltutorial.org/
 ## NPM
 
 ## API
+
+## MERN
 
 ## Figma
 https://www.youtube.com/watch?v=d0FhMca_wv0
