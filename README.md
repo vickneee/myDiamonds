@@ -107,6 +107,10 @@ https://keyframes.app/colors
 https://keyframes.app/shadows
 
 ## Images
+https://picsum.photos/
+
+https://unsplash.com/
+
 https://www.remove.bg/
 
 https://www.photopea.com/
@@ -114,6 +118,16 @@ https://www.photopea.com/
 https://superdesigner.co/
 
 https://openstickers.craftwork.design/
+
+https://lexica.art/
+
+## Videos
+https://www.pexels.com/videos/
+
+https://coverr.co/
+
+## Music 
+https://mixkit.co/free-sound-effects/
 
 ## Icons & Logos
 https://react-icons.github.io/react-icons/
@@ -149,12 +163,6 @@ https://limitlessdesigns.io/avatar-illustrations/
 
 ## QR Code generator
 https://markodenic.com/tools/qr-code-generator/
-
-## Videos
-https://coverr.co/
-
-## Music 
-https://mixkit.co/free-sound-effects/
 
 ## Components
 https://getbootstrap.com/
@@ -391,6 +399,9 @@ https://mern.js.org/
 
 ## Postman
 https://www.postman.com/
+
+## SwaggerHub
+https://swagger.io/tools/swaggerhub/
 
 ## Figma
 https://www.youtube.com/watch?v=d0FhMca_wv0
