@@ -64,7 +64,7 @@ https://mixkit.co/free-sound-effects/
 ## Components
 https://uiverse.io/
 
-https://www.tilebit.io/all-components?f1ce98a7_page=1
+https://www.tilebit.io/
 
 https://semantic-ui.com/
 
