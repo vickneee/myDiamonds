@@ -6,13 +6,8 @@
 | ----------- | -------- |
 | [W3S](https://www.w3schools.com/)      | Doe      |
 | [React](https://react.dev/)        | Doe      |
-| [Expo ](https://docs.expo.dev/)      | Denic    |
-
-https://www.w3schools.com/
-
-https://react.dev/
-
-https://docs.expo.dev/
+| [Expo](https://docs.expo.dev/)      | Denic    |
+| [Python](https://docs.python.org/3/index.html)
 
 https://docs.python.org/3/index.html
 
