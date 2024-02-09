@@ -20,13 +20,13 @@ https://www.sublimetext.com/
 
 https://macromates.com/
 
-## Pdf Editor
+## Pdf Editors
 https://pdfpie.com/
 
 ## Files
 https://convertio.co/
 
-## Text
+## Texts
 https://loremipsum.io/generator/
 
 https://www.microcopy.me/
@@ -74,8 +74,17 @@ https://www.framer.com/
 
 ## Figma resources
 
+
+
 ## Node.js
 https://nodejs.org/en/download/
+
+## Databases
+https://www.mongodb.com/
+
+https://www.mysql.com/
+
+https://www.sqltutorial.org/
 
 ## Testing tools
 
