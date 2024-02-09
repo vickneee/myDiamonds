@@ -103,6 +103,11 @@ https://www.udemy.com/
 
 https://www.codecademy.com/catalog
 
+## Challenges
+https://www.codewell.cc/challenges
+
+https://www.frontendmentor.io/challenges
+
 ## Youtube channels
 https://www.youtube.com/@Codevolution
 
