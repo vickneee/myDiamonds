@@ -1,5 +1,18 @@
 # Development resources
 
+## Code Editors & IDEs
+https://code.visualstudio.com/
+
+https://visualstudio.microsoft.com/downloads/
+
+https://www.jetbrains.com/webstorm/
+
+https://www.jetbrains.com/pycharm/
+
+https://www.sublimetext.com/
+
+https://macromates.com/
+
 ## Youtube channels
 https://www.youtube.com/@Codevolution
 
@@ -59,18 +72,7 @@ https://www.framer.com/features/ai/
 
 ## Deployment
 
-## Code Editors & IDEs
-https://code.visualstudio.com/
 
-https://visualstudio.microsoft.com/downloads/
-
-https://www.jetbrains.com/webstorm/
-
-https://www.jetbrains.com/pycharm/
-
-https://www.sublimetext.com/
-
-https://macromates.com/
 
 
 
