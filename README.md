@@ -310,6 +310,9 @@ https://nodejs.org/en/download/
 ## MongoDB
 https://www.mongodb.com/
 
+## Mongoose
+https://mongoosejs.com/
+
 ## SQL & MySQL
 https://www.mysql.com/
 
