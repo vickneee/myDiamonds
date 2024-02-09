@@ -95,11 +95,11 @@ https://app.netlify.com/
 https://vercel.com/
 
 ## Code learning
-https://www.mooc.fi/en/courses/
-
 https://fitech.io/fi/
 
-https://www.udemy.com/home/my-courses/learning/
+https://www.mooc.fi/en/courses/
+
+https://www.udemy.com/
 
 https://www.codecademy.com/catalog
 
