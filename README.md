@@ -495,4 +495,4 @@ https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
 | [Expo](https://docs.expo.dev/)      |
 | [Python](https://docs.python.org/3/index.html)
 
-[⬆ back to top](# Amazing Development resources)
+[⬆ back to top](#amazing-development-resources)
