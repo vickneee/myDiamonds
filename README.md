@@ -1,8 +1,5 @@
 # Development resources
 
-## Visualize code
-https://pythontutor.com/visualize.html#mode=edit
-
 ## Youtube channels
 https://www.youtube.com/@Codevolution
 
@@ -30,3 +27,6 @@ https://fitech.io/fi/
 https://www.udemy.com/home/my-courses/learning/
 
 https://www.codecademy.com/catalog
+
+## Visualize code
+https://pythontutor.com/visualize.html#mode=edit
