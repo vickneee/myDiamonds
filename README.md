@@ -115,11 +115,18 @@ https://www.remove.bg/
 
 https://www.photopea.com/
 
+https://mixkit.co/free-stock-art/
+
 https://superdesigner.co/
 
 https://openstickers.craftwork.design/
 
+https://delesign.com/free-designs/graphics/illustration
+
 https://lexica.art/
+
+#### Get Waves
+https://getwaves.io/
 
 ## Videos
 https://www.pexels.com/videos/
@@ -131,6 +138,8 @@ https://mixkit.co/free-sound-effects/
 
 ## Icons & Logos
 https://react-icons.github.io/react-icons/
+
+https://delesign.com/free-designs/graphics/icon
 
 ## Patterns
 https://css-doodle.com/
