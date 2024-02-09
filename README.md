@@ -85,6 +85,8 @@ https://www.photopea.com/
 
 https://superdesigner.co/
 
+## Icons & Logos
+
 ## Charts
 https://chartscss.org/
 
@@ -169,20 +171,7 @@ https://superdesigner.co/
 
 ## Figma resources
 
-
-
-## Node.js
-https://nodejs.org/en/download/
-
-## Databases
-https://www.mongodb.com/
-
-https://www.mysql.com/
-
-https://www.sqltutorial.org/
-
 ## Testing tools
-
 
 ## Deployment
 https://app.netlify.com/
@@ -201,9 +190,6 @@ https://www.udemy.com/
 https://www.codecademy.com/catalog
 
 https://exercism.org/tracks
-
-## Website clone
-https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone
 
 ## Challenges
 https://www.codewell.cc/challenges
@@ -260,17 +246,45 @@ https://otter.ai/
 
 https://www.studyfetch.com/
 
-## Communiacation
-https://trello.com/
-
-https://www.atlassian.com/software/jira
-
 ## Resources
 https://codingheroes.io/resources/
 
 https://zerotomastery.io/resources/
 
 https://designbro.com/blog/resources/freebie-sites-for-founders-makers/
+
+## Website clone
+https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone
+
+## Templates
+
+## Communiacation
+https://trello.com/
+
+https://www.atlassian.com/software/jira
+
+## CSS
+
+## JS
+
+## React
+
+## React Native
+
+## Node.js
+https://nodejs.org/en/download/
+
+## MongoDB
+https://www.mongodb.com/
+
+## SQL & MySQL
+https://www.mysql.com/
+
+https://www.sqltutorial.org/
+
+## NPM
+
+## API
 
 
 
