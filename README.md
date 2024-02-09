@@ -494,3 +494,5 @@ https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
 | [React](https://react.dev/)        |
 | [Expo](https://docs.expo.dev/)      |
 | [Python](https://docs.python.org/3/index.html)
+
+[⬆ back to top](# Amazing Development resources)
