@@ -142,6 +142,8 @@ https://keyframes.app/animate
 
 https://animatedbackgrounds.me/
 
+https://animate.style/
+
 ## Avatars
 https://limitlessdesigns.io/avatar-illustrations/
 
@@ -314,11 +316,27 @@ https://www.atlassian.com/software/jira
 ## CSS
 https://css-tricks.com/snippets/css/using-font-face-in-css/
 
+https://css-tricks.com/line-clampin/
+
+https://enjoycss.com/
+
 https://shouldiprefix.com/
 
 https://www.w3schools.com/cssref/css_selectors.php
 
 https://flexboxfroggy.com/
+
+#### Flexbox
+https://flexbox.malven.co/
+
+https://loading.io/flexbox/
+
+#### Grid
+https://grid.malven.co/
+
+https://grid.layoutit.com/
+
+https://layoutit.com/build
 
 ## JS
 
