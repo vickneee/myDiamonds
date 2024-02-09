@@ -395,7 +395,7 @@ https://www.w3schools.com/cssref/css_selectors.php
 
 https://flexboxfroggy.com/
 
-## Animations
+#### CSS Animations
 https://keyframes.app/animate
 
 https://animatedbackgrounds.me/
