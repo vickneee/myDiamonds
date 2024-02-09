@@ -14,6 +14,7 @@ https://www.sublimetext.com/
 https://macromates.com/
 
 ## Pdf Editor
+https://pdfpie.com/
 
 ## Youtube channels
 https://www.youtube.com/@Codevolution
