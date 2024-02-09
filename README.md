@@ -60,6 +60,9 @@ https://vitejs.dev/guide/
 https://nextjs.org/learn-pages-router/basics/create-nextjs-app/setup
 
 ## Deployment
+https://app.netlify.com/
+
+https://vercel.com/
 
 ## Code learning
 https://www.mooc.fi/en/courses/
