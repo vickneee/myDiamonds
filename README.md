@@ -49,8 +49,8 @@ https://jam.dev/
 ## Visualize code
 https://pythontutor.com/visualize.html#mode=edit
 
-# Frameworks
-## Vite
+## Frameworks
+### Vite
 https://vitejs.dev/guide/
 
 ## Deployment
