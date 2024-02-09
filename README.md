@@ -76,6 +76,9 @@ https://jenni.ai/
 
 https://otter.ai/
 
+## Bugs
+https://jam.dev/
+
 ## Text
 https://www.microcopy.me/
 
