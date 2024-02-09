@@ -319,6 +319,10 @@ https://www.sqltutorial.org/
 ## API
 
 ## MERN
+https://mern.js.org/
+
+## Postman
+https://www.postman.com/
 
 ## Figma
 https://www.youtube.com/watch?v=d0FhMca_wv0
