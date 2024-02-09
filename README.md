@@ -19,9 +19,12 @@ https://www.youtube.com/@ZeroToMastery
 
 https://www.youtube.com/@Figma
 
-## Code learning
+## Documentation
 https://www.w3schools.com/
 
+https://developer.mozilla.org/en-US/community
+
+## Code learning
 https://www.mooc.fi/en/courses/
 
 https://fitech.io/fi/
@@ -58,6 +61,8 @@ https://www.framer.com/features/ai/
 
 ## Code Editors & IDEs
 https://code.visualstudio.com/
+
+https://visualstudio.microsoft.com/downloads/
 
 https://www.jetbrains.com/webstorm/
 
