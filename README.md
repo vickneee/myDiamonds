@@ -49,19 +49,22 @@ https://ohshitgit.com/
 
 https://learngitbranching.js.org/
 
+## Files
+https://convertio.co/
+
 ## Pdf Editors
 https://pdfpie.com/
 
 ## Charts & Planning
-https://app.diagrams.net/
+## Charts
+https://chartscss.org/
 
 https://www.lucidchart.com/
 
+https://app.diagrams.net/
+
 ## Drawio desktop
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10
-
-## Files
-https://convertio.co/
 
 ## Texts
 https://loremipsum.io/generator/
@@ -99,9 +102,6 @@ https://www.photopea.com/
 https://superdesigner.co/
 
 ## Icons & Logos
-
-## Charts
-https://chartscss.org/
 
 ## Patterns
 https://css-doodle.com/
