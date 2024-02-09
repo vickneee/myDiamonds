@@ -168,8 +168,6 @@ https://sizzy.co/
 ## Web Design Tools
 https://www.figma.com/
 
-https://react-bootstrap.netlify.app/
-
 https://www.framer.com/
 
 ## Figma resources
@@ -312,11 +310,3 @@ https://www.sqltutorial.org/
 ## NPM
 
 ## API
-
-
-
-
-
-
-
-
