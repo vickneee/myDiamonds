@@ -1,5 +1,10 @@
 # Development resources
 
+## Documentation
+https://www.w3schools.com/
+
+https://developer.mozilla.org/en-US/community
+
 ## Code Editors & IDEs
 https://code.visualstudio.com/
 
@@ -15,6 +20,34 @@ https://macromates.com/
 
 ## Pdf Editor
 https://pdfpie.com/
+
+## Files
+https://convertio.co/
+
+## Text
+https://www.microcopy.me/
+
+## Images
+https://www.remove.bg/
+
+https://www.photopea.com/
+
+## Bugs
+https://jam.dev/
+
+## Visualize code
+https://pythontutor.com/visualize.html#mode=edit
+
+## Deployment
+
+## Code learning
+https://www.mooc.fi/en/courses/
+
+https://fitech.io/fi/
+
+https://www.udemy.com/home/my-courses/learning/
+
+https://www.codecademy.com/catalog
 
 ## Youtube channels
 https://www.youtube.com/@Codevolution
@@ -34,26 +67,6 @@ https://www.youtube.com/@FluxAcademy
 https://www.youtube.com/@ZeroToMastery
 
 https://www.youtube.com/@Figma
-
-## Documentation
-https://www.w3schools.com/
-
-https://developer.mozilla.org/en-US/community
-
-## Bugs
-https://jam.dev/
-
-## Code learning
-https://www.mooc.fi/en/courses/
-
-https://fitech.io/fi/
-
-https://www.udemy.com/home/my-courses/learning/
-
-https://www.codecademy.com/catalog
-
-## Visualize code
-https://pythontutor.com/visualize.html#mode=edit
 
 ## AI tools
 https://topai.tools/s/IntelliJ-AI-coding-tool
@@ -82,18 +95,6 @@ https://jenni.ai/
 
 https://otter.ai/
 
-## Text
-https://www.microcopy.me/
-
-## Images
-https://www.remove.bg/
-
-https://www.photopea.com/
-
-## Files
-https://convertio.co/
-
-## Deployment
 
 
 
