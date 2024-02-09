@@ -2,6 +2,7 @@
 
 ## Index
 [Documentation](#documentation)
+[How To](#how-to)
 
 ## Documentation
 
