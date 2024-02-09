@@ -3,11 +3,11 @@
 ## Documentation
 https://www.w3schools.com/
 
-https://docs.python.org/3/index.html
+[https://react.dev/learn](https://react.dev/)
 
 https://docs.expo.dev/
 
-https://quickref.me/
+https://docs.python.org/3/index.html
 
 https://markdown.land/
 
