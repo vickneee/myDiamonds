@@ -37,6 +37,9 @@ https://www.w3schools.com/
 
 https://developer.mozilla.org/en-US/community
 
+## Bugs
+https://jam.dev/
+
 ## Code learning
 https://www.mooc.fi/en/courses/
 
@@ -75,9 +78,6 @@ https://www.framer.com/features/ai/
 https://jenni.ai/
 
 https://otter.ai/
-
-## Bugs
-https://jam.dev/
 
 ## Text
 https://www.microcopy.me/
