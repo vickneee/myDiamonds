@@ -72,6 +72,8 @@ https://react-bootstrap.netlify.app/
 
 https://www.framer.com/
 
+## Figma resources
+
 ## Node.js
 https://nodejs.org/en/download/
 
