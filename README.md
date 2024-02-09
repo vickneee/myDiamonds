@@ -26,6 +26,8 @@ https://macromates.com/
 https://pdfpie.com/
 
 ## Charts & Planning
+https://app.diagrams.net/
+
 https://www.lucidchart.com/
 
 ## Drawio desktop
