@@ -3,7 +3,7 @@
 ## Documentation
 https://www.w3schools.com/
 
-[https://react.dev/learn](https://react.dev/)
+https://react.dev/
 
 https://docs.expo.dev/
 
