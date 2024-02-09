@@ -10,7 +10,7 @@ https://www.youtube.com/@WebDevSimplified
 
 https://www.youtube.com/@DaveGrayTeachesCode
 
-https://www.youtube.com/@codewithyousaf)https://www.youtube.com/@codewithyousaf
+https://www.youtube.com/@codewithyousaf
 
 https://www.youtube.com/@PedroTechnologies
 
@@ -21,3 +21,6 @@ https://www.youtube.com/@FluxAcademy
 https://www.youtube.com/@ZeroToMastery
 
 https://www.youtube.com/@Figma
+
+## Learning
+https://www.udemy.com/home/my-courses/learning/
