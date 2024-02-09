@@ -22,6 +22,15 @@ https://www.sublimetext.com/
 
 https://macromates.com/
 
+## Online Code Editors
+https://codepen.io/
+
+https://replit.com/site/ide
+
+https://codeanywhere.com/
+
+https://www.w3schools.com/tryit/
+
 ## Pdf Editors
 https://pdfpie.com/
 
@@ -226,6 +235,11 @@ https://jenni.ai/
 https://otter.ai/
 
 https://www.studyfetch.com/
+
+## Communiacation
+https://trello.com/
+
+https://www.atlassian.com/software/jira
 
 ## Recources
 https://codingheroes.io/resources/
