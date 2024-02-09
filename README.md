@@ -3,7 +3,7 @@
 ## Documentation
 
 | Documentation   |  
-| ----------- | --------- |
+| ----------- | 
 | [W3S](https://www.w3schools.com/)      | 
 | [React](https://react.dev/)        |
 | [Expo](https://docs.expo.dev/)      |
