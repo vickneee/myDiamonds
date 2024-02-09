@@ -3,13 +3,11 @@
 ## Documentation
 
 | Documentation   | LastName |
-| ----------- | -------- |
-| [W3S](https://www.w3schools.com/)      | Doe      |
-| [React](https://react.dev/)        | Doe      |
-| [Expo](https://docs.expo.dev/)      | Denic    |
+| ----------- | --------- |
+| [W3S](https://www.w3schools.com/)      | 
+| [React](https://react.dev/)        |
+| [Expo](https://docs.expo.dev/)      |
 | [Python](https://docs.python.org/3/index.html)
-
-https://docs.python.org/3/index.html
 
 ## How To
 https://www.w3schools.com/howto/default.asp
