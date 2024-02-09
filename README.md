@@ -296,7 +296,8 @@ https://www.atlassian.com/software/jira
 
 ## JS
 
-## React
+## React.js
+https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
 
 ## React Native
 
