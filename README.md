@@ -36,6 +36,15 @@ https://www.microcopy.me/
 
 https://www.diffchecker.com/
 
+## Fonts
+https://fonts.google.com/
+
+https://cdnjs.com/libraries/font-awesome/6.5.1
+
+https://fontjoy.com/
+
+https://ascii.co.uk/
+
 ## Images
 https://www.remove.bg/
 
@@ -96,6 +105,8 @@ https://www.sqltutorial.org/
 
 ## Deployment
 https://app.netlify.com/
+
+https://render.com/
 
 https://vercel.com/
 
