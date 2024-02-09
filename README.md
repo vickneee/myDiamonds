@@ -14,6 +14,9 @@ https://quickref.me/
 ## HOW TO
 https://www.w3schools.com/howto/default.asp
 
+## Can I Use
+https://caniuse.com/
+
 ## Frameworks
 https://react.dev/learn/start-a-new-react-project
 
@@ -46,6 +49,8 @@ https://replit.com/site/ide
 https://codeanywhere.com/
 
 https://www.w3schools.com/tryit/
+
+https://html-css-js.com/
 
 ## Git
 https://git-scm.com/
@@ -85,6 +90,9 @@ https://cdnjs.com/libraries/font-awesome/6.5.1
 https://fontjoy.com/
 
 https://ascii.co.uk/
+
+## TypeScale
+https://typescale.com/?size
 
 ## Colors
 https://meshgradient.com/
@@ -159,6 +167,11 @@ https://www.tilebit.io/
 
 https://semantic-ui.com/
 
+#### React.js components
+https://github.com/brillout/awesome-react-components?tab=readme-ov-file
+
+https://github.com/rcaferati/react-awesome-slider
+
 ## Buttons
 https://markodenic.com/tools/buttons-generator/?ref=producthunt
 
@@ -211,6 +224,9 @@ https://render.com/
 https://vercel.com/
 
 https://walpuri.vercel.app/
+
+## Validation
+https://validator.w3.org/
 
 ## Code learning
 https://fitech.io/fi/
@@ -296,6 +312,13 @@ https://trello.com/
 https://www.atlassian.com/software/jira
 
 ## CSS
+https://css-tricks.com/snippets/css/using-font-face-in-css/
+
+https://shouldiprefix.com/
+
+https://www.w3schools.com/cssref/css_selectors.php
+
+https://flexboxfroggy.com/
 
 ## JS
 
@@ -305,6 +328,8 @@ https://www.atlassian.com/software/jira
 https://create-react-app.dev/
 
 https://react.dev/learn
+
+https://legacy.reactjs.org/docs/react-component.html
 
 https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
 
