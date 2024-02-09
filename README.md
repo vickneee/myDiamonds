@@ -384,7 +384,7 @@ https://www.atlassian.com/software/jira
 
 [MarkDown](https://markdown.land/)
 
-[MarkDown Preview]https://freecodetools.org/markdown-preview/
+[MarkDown Preview](https://freecodetools.org/markdown-preview/)
 
 ## CSS
 https://css-tricks.com/snippets/css/using-font-face-in-css/
