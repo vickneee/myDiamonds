@@ -67,8 +67,6 @@ https://www.sublimetext.com/
 
 https://macromates.com/
 
-https://github.blog/2022-06-08-sunsetting-atom/
-
 
 
 
