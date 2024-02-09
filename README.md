@@ -67,8 +67,21 @@ https://superdesigner.co/
 ## Patterns
 https://superdesigner.co/
 
+https://bgjar.com/
+
+https://bansal.io/pattern-css
+
+https://background-generator.com/
+
+https://patternpad.com/editor.html
+
+https://products.ls.graphics/paaatterns/index.html
+
 ## Avatars
 https://limitlessdesigns.io/avatar-illustrations/
+
+## QR Code generator
+https://markodenic.com/tools/qr-code-generator/
 
 ## Videos
 https://coverr.co/
@@ -82,6 +95,9 @@ https://uiverse.io/
 https://www.tilebit.io/
 
 https://semantic-ui.com/
+
+## Buttons
+https://markodenic.com/tools/buttons-generator/?ref=producthunt
 
 ## Bugs
 https://jam.dev/
