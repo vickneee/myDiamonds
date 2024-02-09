@@ -91,6 +91,9 @@ https://fontjoy.com/
 
 https://ascii.co.uk/
 
+#### Font Pairing & Typeface Combinations
+https://fontpairings.bypeople.com/
+
 ## TypeScale
 https://typescale.com/?size
 
@@ -123,7 +126,15 @@ https://openstickers.craftwork.design/
 
 https://delesign.com/free-designs/graphics/illustration
 
+https://icons8.com/illustrations
+
 https://lexica.art/
+
+#### Image ReSizer
+https://promo.com/tools/image-resizer/
+
+#### Background remover
+https://www.remove.bg/g/developers
 
 #### Get Waves
 https://getwaves.io/
