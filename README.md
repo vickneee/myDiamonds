@@ -73,6 +73,11 @@ https://chroma.dev/
 
 https://doodad.dev/
 
+https://keyframes.app/colors
+
+## Shadows
+https://keyframes.app/shadows
+
 ## Images
 https://www.remove.bg/
 
@@ -96,6 +101,9 @@ https://patternpad.com/editor.html
 https://products.ls.graphics/paaatterns/index.html
 
 https://doodad.dev/
+
+## Animations
+https://keyframes.app/animate
 
 ## Avatars
 https://limitlessdesigns.io/avatar-illustrations/
