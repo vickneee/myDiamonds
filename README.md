@@ -123,7 +123,7 @@ https://www.youtube.com/@ZeroToMastery
 https://www.youtube.com/@Figma
 
 ## AI tools
-https://topai.tools/s/IntelliJ-AI-coding-tool
+https://topai.tools/
 
 https://chat.openai.com/
 
