@@ -1,5 +1,8 @@
 # Amazing Development resources 🤫
 
+## Index
+[Documentation](#documentation)
+
 ## Documentation
 
 | Websites   | 
