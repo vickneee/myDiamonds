@@ -434,6 +434,8 @@ https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rx
 https://www.ag-grid.com/react-data-grid/getting-started/
 
 ## TypeScript + React.js
+https://www.youtube.com/watch?v=EcCTIExsqmI
+
 https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 
 ## React Native
