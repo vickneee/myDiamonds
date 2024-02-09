@@ -34,6 +34,8 @@ https://loremipsum.io/generator/
 
 https://www.microcopy.me/
 
+https://www.diffchecker.com/
+
 ## Images
 https://www.remove.bg/
 
