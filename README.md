@@ -70,9 +70,6 @@ https://app.diagrams.net/
 #### Drawio desktop
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10
 
-## React.js Data Grid
-https://www.ag-grid.com/react-data-grid/getting-started/
-
 ## Texts
 https://loremipsum.io/generator/
 
@@ -310,6 +307,9 @@ https://create-react-app.dev/
 https://react.dev/learn
 
 https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
+
+#### React.js Data Grid
+https://www.ag-grid.com/react-data-grid/getting-started/
 
 ## TypeScript + React.js
 https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
