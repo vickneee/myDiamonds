@@ -26,8 +26,6 @@ https://nextjs.org/
 
 https://nextjs.org/docs/getting-started/installation
 
-https://nextjs.org/docs/pages/api-reference/create-next-app
-
 ## Code Editors & IDEs
 https://code.visualstudio.com/
 
