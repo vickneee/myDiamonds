@@ -7,6 +7,8 @@ https://developer.mozilla.org/en-US/community
 
 https://docs.python.org/3/index.html
 
+https://docs.expo.dev/
+
 https://quickref.me/
 
 ## HOW TO
@@ -306,6 +308,8 @@ https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-
 
 ## React Native
 https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1
+
+https://expo.dev/
 
 ## Node.js
 https://nodejs.org/en/download/
