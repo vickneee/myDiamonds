@@ -449,7 +449,7 @@ https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=lin
 ## Templates
 | Websites|
 | ---------------|
-|[Best websites to get Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)|
+|[Best websites to get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)|
 |[⬆ back to top](#index)|
 
 ## Communiacation
