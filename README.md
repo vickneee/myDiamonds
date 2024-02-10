@@ -447,7 +447,10 @@ https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=lin
 [⬆ back to top](#index)
 
 ## Templates
-[⬆ back to top](#index)
+| Websites|
+| ---------------|
+|[Best websites to get Templates](https://markodenic.com/best-websites-to-get-html-css-templates/)|
+|[⬆ back to top](#index)|
 
 ## Communiacation
 https://trello.com/
@@ -527,11 +530,12 @@ https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-
 [⬆ back to top](#index)
 
 ## React Native
-https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1
+| Websites|
+| ---------------|
+|https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1|
+|https://expo.dev/|
 
-https://expo.dev/
-
-[⬆ back to top](#index)
+|[⬆ back to top](#index)|
 
 ## Node.js
 https://nodejs.org/en/download/
