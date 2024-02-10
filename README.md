@@ -3,7 +3,7 @@
 ## Index
 - [Documentation](#documentation)
 - [How To](#how-to)
-- [Hosting](#hosting)
+- [Can I Use](#can-i-use)
 - [Learning Platforms](#learning-platforms)
 - [Coding Challenge Platforms](#coding-challenge-platforms)
 - [Freelancing platforms](#freelancing-platforms)
@@ -18,10 +18,10 @@
 | [Python](https://docs.python.org/3/index.html)
 
 ## How To
-https://www.w3schools.com/howto/default.asp
+[W3S How To](https://www.w3schools.com/howto/default.asp)
 
 ## Can I Use
-https://caniuse.com/
+[Can I Use](https://caniuse.com/)
 
 ## Frameworks
 https://react.dev/learn/start-a-new-react-project
