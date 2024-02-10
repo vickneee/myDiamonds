@@ -521,21 +521,27 @@ https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rx
 [⬆ back to top](#index)
 
 #### React.js Data Grid
-https://www.ag-grid.com/react-data-grid/getting-started/
-[⬆ back to top](#index)
+| Websites|
+| ---------------|
+| [React Data Grid](https://www.ag-grid.com/react-data-grid/getting-started/) |
+| [⬆ back to top](#index) |
 
 ## TypeScript + React.js
-https://www.youtube.com/watch?v=EcCTIExsqmI
+| Websites|
+| ---------------|
+| [TypeScript YT](https://www.youtube.com/watch?v=EcCTIExsqmI) |
+| [TypeScript YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
+| [⬆ back to top](#index) |
+
 
 https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
-[⬆ back to top](#index)
 
 ## React Native
 | Websites|
 | ---------------|
-|[React Native Tutorials](https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1)|
-|[Expo](https://expo.dev/)|
-|[⬆ back to top](#index)|
+| [React Native Tutorials YT](https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1) |
+| [Expo](https://expo.dev/) |
+| [⬆ back to top](#index) |
 
 ## Node.js
 https://nodejs.org/en/download/
@@ -571,10 +577,12 @@ https://github.com/pawelsalawa/sqlitestudio/releases
 [⬆ back to top](#index)
 
 ## MERN
-https://mern.js.org/
-
-https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE
-[⬆ back to top](#index)
+| Websites|
+| ---------------|
+| https://mern.js.org/ |
+| https://www.youtube.com/watch?v=ZVyIIyZJutM&t=2s |
+| https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE |
+| [⬆ back to top](#index) |
 
 ## Postman
 https://www.postman.com/
