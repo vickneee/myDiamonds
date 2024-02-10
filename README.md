@@ -502,12 +502,49 @@ If you like it, give a ⭐ to this small project.
 | [MERN YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
 | [⬆ back to top](#table-of-contents) |
 
+## MongoDB:
+| Websites |
+| --------------- |
+| [React]() |
+| [React](https://www.mongodb.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Mongoose:
+| Websites |
+| --------------- |
+| [React](https://mongoosejs.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## MySQL:
+| Websites |
+| --------------- |
+| [React](https://www.mysql.com/) |
+| [React](https://github.com/pawelsalawa/sqlitestudio/releases/) |
+| [⬆ back to top](#table-of-contents) |
+
 ## Music:
 | Websites |
 | --------------- |
 | [Mixkit Free Sound Effects](https://mixkit.co/free-sound-effects/) |
 | [⬆ back to top](#table-of-contents) |
 
+## Next.js:
+| Websites |
+| --------------- |
+| [React]() |
+| [⬆ back to top](#table-of-contents) |
+
+## Node.js:
+| Websites |
+| --------------- |
+| [React](https://nodejs.org/en/download/) |
+| [⬆ back to top](#table-of-contents) |
+
+## NPM:
+| Websites |
+| --------------- |
+| [React]() |
+| [⬆ back to top](#table-of-contents) |
 
 ## Other Good Resources:
 | Websites |
@@ -524,7 +561,6 @@ If you like it, give a ⭐ to this small project.
 | [Pandoc](https://github.com/jgm/pandoc) |
 | [Pandoc Manual.pdf](https://pandoc.org/MANUAL.pdf) |
 | [⬆ back to top](#table-of-contents) |
-
 
 ## Profile Picture Maker:
 | Websites |
@@ -580,13 +616,18 @@ If you like it, give a ⭐ to this small project.
 | [React](https://sizzy.co/) |
 | [⬆ back to top](#table-of-contents) |
 
-
 ## Shadows:
 | Websites |
 | --------------- |
 | [React](https://keyframes.app/shadows/) |
 | [⬆ back to top](#table-of-contents) |
 
+## SQL:
+| Websites |
+| --------------- |
+| [React](https://www.sqltutorial.org/) |
+| [React](https://github.com/pawelsalawa/sqlitestudio/releases/) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Testing - End-To-End test:
 | Websites |
@@ -626,13 +667,11 @@ If you like it, give a ⭐ to this small project.
 | [React](https://typescale.com/?size/) |
 | [⬆ back to top](#table-of-contents) |
 
-
 ## TypeScript:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#table-of-contents) |
-
 
 ## UI Components:
 | Websites |
@@ -645,7 +684,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://semantic-ui.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-
 ## Videos:
 | Websites |
 | --------------- |
@@ -653,14 +691,11 @@ If you like it, give a ⭐ to this small project.
 | [Coverr Videos](https://coverr.co/) |
 | [⬆ back to top](#table-of-contents) |
 
-
 ## Visualize Code:
 | Websites |
 | --------------- |
 | [React](https://pythontutor.com/visualize.html#mode=edit/) |
 | [⬆ back to top](#table-of-contents) |
-
-
 
 ## Web Design Tools:
 | Websites |
@@ -689,91 +724,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.youtube.com/@Figma/) |
 | [⬆ back to top](#table-of-contents) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Node.js:
-| Websites |
-| --------------- |
-| [React](https://nodejs.org/en/download/) |
-| [⬆ back to top](#table-of-contents) |
-
-
-
-## Next.js:
-| Websites |
-| --------------- |
-| [React]() |
-| [⬆ back to top](#table-of-contents) |
-
-## MongoDB:
-| Websites |
-| --------------- |
-| [React]() |
-| [React](https://www.mongodb.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Mongoose:
-| Websites |
-| --------------- |
-| [React](https://mongoosejs.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-## SQL:
-| Websites |
-| --------------- |
-| [React](https://www.sqltutorial.org/) |
-| [React](https://github.com/pawelsalawa/sqlitestudio/releases/) |
-| [⬆ back to top](#table-of-contents) |
-
-## MySQL:
-| Websites |
-| --------------- |
-| [React](https://www.mysql.com/) |
-| [React](https://github.com/pawelsalawa/sqlitestudio/releases/) |
-| [⬆ back to top](#table-of-contents) |
-
-## NPM:
-| Websites |
-| --------------- |
-| [React]() |
-| [⬆ back to top](#table-of-contents) |
-
-
-
-
-
-
-
-
-## End of Page
+## End of Page [⬆ back to top](#index)
 
 Made with ❤ by Victoria
-
-[awesome-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
-
-[⬆ back to top](#index)
