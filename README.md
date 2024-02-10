@@ -84,11 +84,10 @@ https://chartscss.org/
 https://www.lucidchart.com/
 
 https://app.diagrams.net/
-[⬆ back to top](#index)
 
 #### Drawio desktop
 https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10
-[⬆ back to top](#index)
+ [⬆ back to top](#index)
 
 ## Texts
 https://loremipsum.io/generator/
