@@ -495,15 +495,8 @@ https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
 
 ## End of Page
 
-| Documentation   |  
-| ----------- | 
-| [W3S](https://www.w3schools.com/)      | 
-| [React](https://react.dev/)        |
-| [Expo](https://docs.expo.dev/)      |
-| [Python](https://docs.python.org/3/index.html)
-
-[⬆ back to top](#documentation)
-
 ![Awesome][awesome-badge] by Victoria
 
 [awesome-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
+
+[⬆ back to top](#documentation)
