@@ -283,10 +283,11 @@ https://semantic-ui.com/
 [⬆ back to top](#index)
 
 #### Buttons
-[Buttons generator](https://markodenic.com/tools/buttons-generator/?ref=producthunt)
-
-[Shiny CSS buttons](https://paulund.co.uk/how-to-create-shiny-css-buttons)
-[⬆ back to top](#index)
+| Websites|
+| ---------------|
+|[Buttons generator](https://markodenic.com/tools/buttons-generator/?ref=producthunt)|
+|[Shiny CSS buttons](https://paulund.co.uk/how-to-create-shiny-css-buttons)|
+|[⬆ back to top](#index)|
 
 #### React.js components
 https://github.com/brillout/awesome-react-components?tab=readme-ov-file
