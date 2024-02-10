@@ -25,6 +25,42 @@ If you like it, give a ⭐ to this small project.
 - [MERN](#mern)
 - [End](#end-of-page)
 
+## Animation:
+| Websites |
+| --------------- |
+| [Animate.css](https://animate.style/) |
+| [Animista](https://animista.net/) |
+| [GreenSock](https://greensock.com/) |
+| [LottieFiles](https://lottiefiles.com/) |
+| [Superanimations](https://superanimations.herokuapp.com/) |
+| [⬆ back to top](#index) |
+
+## API Testing:
+| Websites |
+| --------------- |
+| [Postman](https://www.postman.com/) |
+| [Reqres](https://reqres.in/) |
+| [SwaggerHub](https://swagger.io/tools/swaggerhub/) |
+| [⬆ back to top](#index) |
+
+## API's:
+| Websites |
+| --------------- |
+| [Public APIs](https://public-apis.xyz/) |
+| [Public APIs](https://publicapis.io/) |
+| [⬆ back to top](#index) |
+
+## Backgrounds:
+| Websites |
+| --------------- |
+| [HeroPatterns](https://www.heropatterns.com/) |
+| [Patternico](https://patternico.com/) |
+| [Patternizer](https://www.patternizer.com/) |
+| [PatternPad](https://www.patternpad.com/) |
+| [PatternTaco](https://www.patterntaco.com/) |
+| [SVG Backgrounds](https://www.svgbackgrounds.com/) |
+| [⬆ back to top](#index) |
+
 ## Docs:
 | Websites |
 | --------------- |
