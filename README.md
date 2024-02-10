@@ -499,7 +499,8 @@ https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
 
 ## End of Page
 
-![Awesome][awesome-badge] by Victoria
+![Awesome][awesome-badge] 
+by Victoria
 
 [awesome-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
 
