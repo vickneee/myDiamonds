@@ -137,7 +137,6 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [Postman](https://www.postman.com/) |
-| [Reqres](https://reqres.in/) |
 | [SwaggerHub](https://swagger.io/tools/swaggerhub/) |
 | [⬆ back to top](#table-of-contents) |
 
