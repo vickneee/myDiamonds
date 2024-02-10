@@ -14,18 +14,25 @@ If you like it, give a ⭐ to this small project.
 - [Animations](#animations)
 - [API Testing](#api-testing)
 - [API's](#apis)
+- [Avatarss](#avatars)
 - [Backgrounds](#backgrounds)
+- [Background Remover](#background-remover)
+- [Buttons](#buttons)
 - [Can I Use](#can-i-use)
 - [Capture Your Screen](#capture-your-screen)
 - [Charts](#charts)
 - [Cheat Sheets](#cheat-sheets)
 - [Code Editors](#code-editors)
+- [Code Editors Online](#code-editors-online)
 - [Coding Challenges](#coding-challenges)
 - [Color Pickers](#color-pickers)
+- [Code Sample To Image](#code-samle-to-image)
 - [CSS](#css)
 - [CSS Frameworks](#css-frameworks)
 - [CSS Flexbox](#css-flexbox)
 - [CSS Grid](#css-grid)
+- [Docs](#docs)
+- [Drawio Desktop](#drawio-desktop)
 
   
 - [Frameworks](#frameworks)
@@ -66,6 +73,12 @@ If you like it, give a ⭐ to this small project.
 | [Public APIs](https://publicapis.io/) |
 | [⬆ back to top](#table-of-contents) |
 
+## Avatars:
+| Websites |
+| --------------- |
+| [Avatar Illustrations](https://limitlessdesigns.io/avatar-illustrations/) |
+| [⬆ back to top](#table-of-contents) |
+
 ## Backgrounds:
 | Websites |
 | --------------- |
@@ -75,6 +88,22 @@ If you like it, give a ⭐ to this small project.
 | [PatternPad](https://www.patternpad.com/) |
 | [PatternTaco](https://www.patterntaco.com/) |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) |
+| [Get Waves Backgroud](https://getwaves.io/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Background Remover:
+| Websites |
+| --------------- |
+| [Remove BG](https://www.remove.bg/) |
+| [Remove BG Developers](https://www.remove.bg/g/developers/) |
+| [Erase BG](https://www.erase.bg/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Buttons:
+| Websites |
+| --------------- |
+| [Buttons generator](https://markodenic.com/tools/buttons-generator/?ref=producthunt) |
+| [Shiny CSS buttons](https://paulund.co.uk/how-to-create-shiny-css-buttons) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Can I Use:
@@ -115,6 +144,16 @@ If you like it, give a ⭐ to this small project.
 | [React](https://macromates.com/) |
 | [⬆ back to top](#table-of-contents) |
 
+## Code Editors Online:
+| Websites |
+| --------------- |
+| [React](https://codepen.io/) |
+| [React](https://replit.com/site/ide) |
+| [React](https://codeanywhere.com/) |
+| [React](https://www.w3schools.com/tryit/) |
+| [React](https://html-css-js.com/) |
+| [⬆ back to top](#table-of-contents) |
+
 ## Coding Challenges:
 | Websites |
 | --------------- |
@@ -133,6 +172,12 @@ If you like it, give a ⭐ to this small project.
 | [Meshgradient](https://meshgradient.com/) |
 | [Flat UI Colors](https://flatuicolors.com/) |
 | [Material Palette](https://www.materialpalette.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Code Sample To Image:
+| Websites |
+| --------------- |
+| [Code Sample To Image - Ray](https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## CSS:
@@ -181,6 +226,13 @@ If you like it, give a ⭐ to this small project.
 |[Python Docs](https://docs.python.org/3/index.html) |
 | [⬆ back to top](#table-of-contents) |
 
+## Drawio Desktop:
+| Websites |
+| --------------- |
+| [React](https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10) |
+| [⬆ back to top](#table-of-contents) |
+
+
 
 
 ## How To:
@@ -188,7 +240,6 @@ If you like it, give a ⭐ to this small project.
 | --------------- |
 | [W3S How To](https://www.w3schools.com/howto/default.asp) |
 | [⬆ back to top](#table-of-contents) |
-
 
 ## Frameworks:
 | Websites |
@@ -199,15 +250,6 @@ If you like it, give a ⭐ to this small project.
 |[Next.js Installation](https://nextjs.org/docs/getting-started/installation) |
 | [⬆ back to top](#table-of-contents) |
 
-## Online Code Editors:
-| Websites |
-| --------------- |
-| [React](https://codepen.io/) |
-| [React](https://replit.com/site/ide) |
-| [React](https://codeanywhere.com/) |
-| [React](https://www.w3schools.com/tryit/) |
-| [React](https://html-css-js.com/) |
-| [⬆ back to top](#table-of-contents) |
 
 ## Git:
 | Websites |
@@ -227,14 +269,6 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [React](https://pdfpie.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-
-
-## Drawio Desktop:
-| Websites |
-| --------------- |
-| [React](https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Texts:
@@ -303,13 +337,13 @@ If you like it, give a ⭐ to this small project.
 | [React](https://imgupscaler.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-## AI Image Upscaler:
+## Image Upscaler:
 | Websites |
 | --------------- |
 | [React](https://www.upscayl.org/) |
 | [⬆ back to top](#table-of-contents) |
 
-## AI Image Enlarger:
+## Image Enlarger:
 | Websites |
 | --------------- |
 | [React](https://bigjpg.com/) |
@@ -324,21 +358,15 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.shrink.media/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Background Remover:
-| Websites |
-| --------------- |
-| [Remove BG](https://www.remove.bg/) |
-| [Remove BG Developers](https://www.remove.bg/g/developers/) |
-| [Erase BG](https://www.erase.bg/) |
-| [⬆ back to top](#table-of-contents) |
 
-## Online Al Photo Editor:
+
+## Photo Editors Online:
 | Websites |
 | --------------- |
 | [Pixlr](https://pixlr.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Online Al Photo Generator:
+## Photo Generator Online:
 | Websites |
 | --------------- |
 | [Image Generator Pixlr](https://pixlr.com/image-generator/) |
@@ -353,11 +381,6 @@ If you like it, give a ⭐ to this small project.
 | [Pfpmaker](https://pfpmaker.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Get Waves Background:
-| Websites |
-| --------------- |
-| [Get Waves Backgroud](https://getwaves.io/) |
-| [⬆ back to top](#table-of-contents) |
 
 ## Code Sample To Image:
 | Websites |
@@ -394,11 +417,7 @@ If you like it, give a ⭐ to this small project.
 | [React]() |
 | [⬆ back to top](#table-of-contents) |
 
-## Avatars:
-| Websites |
-| --------------- |
-| [Avatar Illustrations](https://limitlessdesigns.io/avatar-illustrations/) |
-| [⬆ back to top](#table-of-contents) |
+
 
 ## Patterns:
 | Websites |
@@ -413,7 +432,7 @@ If you like it, give a ⭐ to this small project.
 | [Doodad](https://doodad.dev/) |
 | [⬆ back to top](#table-of-contents) |
 
-## QR Code generator:
+## QR Code Generator:
 | Websites |
 | --------------- |
 | [React](https://markodenic.com/tools/qr-code-generator/) |
@@ -430,12 +449,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://semantic-ui.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Buttons:
-| Websites |
-| --------------- |
-| [Buttons generator](https://markodenic.com/tools/buttons-generator/?ref=producthunt) |
-| [Shiny CSS buttons](https://paulund.co.uk/how-to-create-shiny-css-buttons) |
-| [⬆ back to top](#table-of-contents) |
+
 
 ## React UI Components:
 | Websites |
