@@ -30,9 +30,9 @@ If you like it, give a ⭐ to this small project.
 ## Animation:
 | Websites |
 | --------------- |
-| [React](https://keyframes.app/animate/) |
-| [React](https://animatedbackgrounds.me/) |
-| [Animate.css](https://animate.style/) |
+| [Keyframes](https://keyframes.app/animate/) |
+| [Animatedbackgrounds](https://animatedbackgrounds.me/) |
+| [Animate](https://animate.style/) |
 | [Animista](https://animista.net/) |
 | [GreenSock](https://greensock.com/) |
 | [LottieFiles](https://lottiefiles.com/) |
@@ -65,6 +65,76 @@ If you like it, give a ⭐ to this small project.
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) |
 | [⬆ back to top](#index) |
 
+## Can I Use:
+| Websites |
+| --------------- |
+| [Can I Use](https://caniuse.com/) |
+| [⬆ back to top](#index) |
+
+## Cheat Sheets:
+| Websites |
+| --------------- |
+| [Devhints](https://devhints.io/) |
+| [OverAPI](https://overapi.com/) |
+| [⬆ back to top](#index) |
+
+## Code Editors:
+| Websites |
+| --------------- |
+| [React](https://code.visualstudio.com/) |
+| [React](https://visualstudio.microsoft.com/downloads/) |
+| [React](https://www.jetbrains.com/webstorm/) |
+| [React](https://www.jetbrains.com/pycharm/) |
+| [React](https://www.sublimetext.com/) |
+| [React](https://macromates.com/) |
+| [⬆ back to top](#index) |
+
+## Coding Challenges:
+| Websites |
+| --------------- |
+| [React](https://www.codewell.cc/challenges/) |
+| [React](https://www.frontendmentor.io/challenges/) |
+| [React](https://coderbyte.com/) |
+| [⬆ back to top](#index) |
+
+## Color Pickers:
+| Websites |
+| --------------- |
+| [Coolors](https://coolors.co/) |
+| [Adobe Color](https://color.adobe.com/) |
+| [Chroma](https://chroma.dev/) |
+| [Doodad](https://doodad.dev/) |
+| [Meshgradient](https://meshgradient.com/) |
+| [Flat UI Colors](https://flatuicolors.com/) |
+| [Material Palette](https://www.materialpalette.com/) |
+| [⬆ back to top](#index) |
+
+## CSS:
+| Websites |
+| --------------- |
+| [CSS-Tricks](https://css-tricks.com/) |
+| [EnjoyCSS](https://enjoycss.com/) |
+| [shouldiprefix](https://shouldiprefix.com/) |
+| [W3Schools CSS ref](https://www.w3schools.com/cssref/) |
+| [MDN Web Docs CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |
+| [⬆ back to top](#index) |
+
+## CSS Flexbox:
+| Websites |
+| --------------- |
+| [Flexbox Malven](https://flexbox.malven.co/) |
+| [Loading Flexbox](https://loading.io/flexbox/) |
+| [Flexboxfroggy](https://flexboxfroggy.com/) |
+| [⬆ back to top](#index) |
+
+## CSS Grid:
+| Websites |
+| --------------- |
+| [Grid Malven](https://grid.malven.co/) |
+| [Grid Layoutit](https://grid.layoutit.com/) |
+| [Layoutit](https://layoutit.com/build/) |
+| [⬆ back to top](#index) |
+
 ## Docs:
 | Websites |
 | --------------- |
@@ -81,11 +151,6 @@ If you like it, give a ⭐ to this small project.
 | [W3S How To](https://www.w3schools.com/howto/default.asp) |
 | [⬆ back to top](#index) |
 
-## Can I Use:
-| Websites |
-| --------------- |
-| [Can I Use](https://caniuse.com/) |
-| [⬆ back to top](#index) |
 
 ## Frameworks:
 | Websites |
@@ -94,17 +159,6 @@ If you like it, give a ⭐ to this small project.
 |[Vite](https://vitejs.dev/guide/) |
 |[Next.js](https://nextjs.org/) |
 |[Next.js Installation](https://nextjs.org/docs/getting-started/installation) |
-| [⬆ back to top](#index) |
-
-## Code Editors:
-| Websites |
-| --------------- |
-| [React](https://code.visualstudio.com/) |
-| [React](https://visualstudio.microsoft.com/downloads/) |
-| [React](https://www.jetbrains.com/webstorm/) |
-| [React](https://www.jetbrains.com/pycharm/) |
-| [React](https://www.sublimetext.com/) |
-| [React](https://macromates.com/) |
 | [⬆ back to top](#index) |
 
 ## Online Code Editors:
@@ -180,15 +234,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://typescale.com/?size/) |
 | [⬆ back to top](#index) |
 
-## Colors:
-| Websites |
-| --------------- |
-| [React](https://color.adobe.com/create/color-wheel/) |
-| [React](https://meshgradient.com/) |
-| [React](https://chroma.dev/) |
-| [React](https://doodad.dev/) |
-| [React](https://keyframes.app/colors/) |
-| [⬆ back to top](#index) |
 
 ## Shadows:
 | Websites |
@@ -226,7 +271,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://imgupscaler.com/) |
 | [⬆ back to top](#index) |
 
-## Al Image Upscaler:
+## AI Image Upscaler:
 | Websites |
 | --------------- |
 | [React](https://www.upscayl.org/) |
@@ -464,13 +509,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://exercism.org/tracks/) |
 | [⬆ back to top](#index) |
 
-## Coding Challenges:
-| Websites |
-| --------------- |
-| [React](https://www.codewell.cc/challenges/) |
-| [React](https://www.frontendmentor.io/challenges/) |
-| [React](https://coderbyte.com/) |
-| [⬆ back to top](#index) |
 
 ## Youtube Channels:
 | Websites |
@@ -539,33 +577,6 @@ If you like it, give a ⭐ to this small project.
 | --------------- |
 | [MarkDown](https://markdown.land/) |
 | [MarkDown Preview](https://freecodetools.org/markdown-preview/) |
-| [⬆ back to top](#index) |
-
-## CSS:
-| Websites |
-| --------------- |
-| [React](https://css-tricks.com/snippets/css/using-font-face-in-css/) |
-| [React](https://css-tricks.com/line-clampin/) |
-| [React](https://enjoycss.com/) |
-| [React](https://shouldiprefix.com/) |
-| [React](https://www.w3schools.com/cssref/css_selectors.php/) |
-| [React](https://flexboxfroggy.com/) |
-| [⬆ back to top](#index) |
-
-
-## CSS Flexbox:
-| Websites |
-| --------------- |
-| [React](https://flexbox.malven.co/) |
-| [React](https://loading.io/flexbox/) |
-| [⬆ back to top](#index) |
-
-## CSS Grid:
-| Websites |
-| --------------- |
-| [React](https://grid.malven.co/) |
-| [React](https://grid.layoutit.com/) |
-| [React](https://layoutit.com/build/) |
 | [⬆ back to top](#index) |
 
 ## JavaScript:
