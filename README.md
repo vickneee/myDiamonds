@@ -40,23 +40,66 @@ If you like it, give a ⭐ to this small project.
 - [Docs](#docs)
 - [Drawio Desktop](#drawio-desktop)
 - [Express](#express)
-- [Favicon Generator](favicon-generator)
+- [Favicon Generator](#favicon-generator)
 - [Figma](#figma)
 - [Files Converters Editors](#files-converters-editors)
 - [Fonts](#fonts)
-- [Frontend Frameworks](frontend-frameworks)
-
-
-
-  
+- [Frontend Frameworks](#frontend-frameworks)
+- [Git](#git)
+- [Hosting](#hosting)
+- [How To](#how-to)
+- [How To Clone a Website](#how-to-clone-a-website)
+- [Icons](#icons)
+- [Illustrations](#illustrations)
+- [Image Resizer](#image-resizer)
+- [Image Compressors](#image-compressors)
+- [Image Editors](#image-editors)
+- [Image Generator Online](#image-generator-online)
+- [Image Optimization](#image-optimization)
+- [Image Sources](#image-sources)
+- [JavaScript](#javascript)
+- [JavaScript Frameworks](#javascript-frameworks)
+- [JSON Tools](#json-tools)
 - [Learning Platforms](#learning-platforms)
-
-- [React Data Grid](#react-data-grid)
-- [React TypeScript](#react-typescript)
-- [React Native](#react-native)
-- [Youtube Channels](#youtube-channels)
+- [Logos](#logos)
+- [Markdown](#markdown)
+- [Markdown Editors](#markdown-editors)
 - [MERN](#mern)
-- [End](#end-of-page)
+- [MongoDB](#mongodb)
+- [Mongoose](#mongoose)
+- [MySQL](#mysql)
+- [Mockup Tools](#mockup-tools)
+- [Next.js](#next-js)
+- [Node.js](#node-js)
+- [Other Good Resources](#other-good-resources)
+- [Pandoc The Universal Markup Converter](#pandoc-the-universal-markup-converter)
+- [Performance Optimization](#performance-optimization)
+- [Prototyping](#prototyping)
+- [QR Code Generator](#qr-code-generator)
+- [React](#react)
+- [React Data Grid](#react-data-grid)
+- [React Native](#react-native)
+- [React Typescript](#react-typescript)
+- [Regular Expressions](#regular-expressions)
+- [Responsive Design](#responsive-design)
+- [SEO](#seo)
+- [Shadows](#shadows)
+- [SQL](#sql)
+- [Testing - End-To-End test](#testing-end-to-end-test)
+- [Testing - Jest](#testing-jest)
+- [Testing - React Testing Library](#testing-react-testing-library)
+- [Testing - Test Driven Development](#testing-test-driven-development)
+- [Text Placeholders](#text-placeholders)
+- [Text Diff Checker](#text-diff-checker)
+- [Typography](#typography)
+- [TypeScript](#typescript)
+- [UI Kits Components](#ui-kits-components)
+- [Videos](#videos)
+- [Visualize Code](#visualize-code)
+- [Vite.js](#vite-js)
+- [Web Design Tools](#web-design-tools)
+- [Youtube Channels](#youtube-channels)
+
 
 ## AI Tools:
 | Websites |
@@ -527,8 +570,6 @@ How To Clone a Website
 | [Fiverr Logo Maker](https://www.fiverr.com/logo-maker) |
 | [Looka](https://looka.com/) |
 | [Canva](https://www.canva.com/) |
-
-
 | [⬆ back to top](#table-of-contents) |
 
 ## Markdown:
@@ -602,7 +643,7 @@ How To Clone a Website
 | [DesignBro](https://designbro.com/blog/resources/freebie-sites-for-founders-makers/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Pandoc The Universal Markup Converter
+## Pandoc The Universal Markup Converter:
 | Websites |
 | --------------- |
 | [Pandoc](https://github.com/jgm/pandoc) |
@@ -813,7 +854,6 @@ How To Clone a Website
 | [PedroTechnologies](https://www.youtube.com/@PedroTechnologies/) |
 | [WebDevSimplified](https://www.youtube.com/@WebDevSimplified/) |
 | [ZeroToMastery](https://www.youtube.com/@ZeroToMastery/) |
-
 | [⬆ back to top](#table-of-contents) |
 
 ## End of Page [⬆ back to top](#table-of-contents)
