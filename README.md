@@ -384,9 +384,9 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [ASCII](https://ascii.co.uk/) |
-| [Google Fonts](https://fonts.google.com/) |
 | [Font Awesome](https://cdnjs.com/libraries/font-awesome/6.5.1/) |
 | [Fontjoy](https://fontjoy.com/) |
+| [Google Fonts](https://fonts.google.com/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Frontend Frameworks:
