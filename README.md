@@ -2,13 +2,11 @@
 
 This is a small project about My Web Development resources. 📃
 
-No contributions will be accepted.
-
-If you would like to modify that list, make a fork, and feel free to make your version.
+If you would like to modify that list, make a fork, and feel free to make your version. 📝
 
 If you like that small project, give it a ⭐.
 
-**NB!** This project is still a **work-in-progress** stage. 💻
+Resources will be added from time to time! ✅
 
 ---------------------------
 
