@@ -16,7 +16,7 @@ If you like it, give a ⭐ to this small project.
 - [Can I Use](#can-i-use)
 - [Frameworks](#frameworks)
 - [Buttons](#buttons)
-- [Learning Platforms](#learning)
+- [Learning Platforms](#learning-platforms)
 - [Coding & Design Challenges](#challenges)
 - [React Data Grid](#react-data-grid)
 - [React TypeScript](#react-typescript)
@@ -416,7 +416,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://walpuri.vercel.app/) |
 | [⬆ back to top](#index) |
 
-## Learning Platforms
+## Learning Platforms:
 | Websites |
 | --------------- |
 | [React](https://fitech.io/fi/) |
