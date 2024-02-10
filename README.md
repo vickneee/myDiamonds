@@ -55,21 +55,21 @@ If you like it, give a ⭐ to this small project.
 ## AI Tools:
 | Websites |
 | --------------- |
-| [React](https://topai.tools/) |
-| [React](https://chat.openai.com/) |
-| [React](https://tinywow.com/) |
-| [React](https://pi.ai/onboarding/) |
-| [React](https://www.sincode.ai/) |
-| [React](https://app.durable.co/website-builder/) |
-| [React](https://ai.feathery.io/) |
-| [React](https://www.blackbox.ai/) |
-| [React](https://www.fotor.com/images/create/) |
-| [React](https://undetectable.ai/) |
-| [React](https://www.framer.com/features/ai/) |
-| [React](https://jenni.ai/) |
-| [React](https://otter.ai/) |
-| [React](https://www.studyfetch.com/) |
-| [React](https://runwayml.com/ai-magic-tools/) |
+| [Topai](https://topai.tools/) |
+| [OpenAI](https://chat.openai.com/) |
+| [Tinywow](https://tinywow.com/) |
+| [Pi AI](https://pi.ai/onboarding/) |
+| [SinCode](https://www.sincode.ai/) |
+| [Durable](https://app.durable.co/website-builder/) |
+| [Feathery](https://ai.feathery.io/) |
+| [Blackbox](https://www.blackbox.ai/) |
+| [Fotor](https://www.fotor.com/images/create/) |
+| [Undetectable](https://undetectable.ai/) |
+| [Framer](https://www.framer.com/features/ai/) |
+| [Jenni](https://jenni.ai/) |
+| [Otter](https://otter.ai/) |
+| [Studyfetch](https://www.studyfetch.com/) |
+| [Runwayml](https://runwayml.com/ai-magic-tools/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Animation:
@@ -135,7 +135,7 @@ If you like it, give a ⭐ to this small project.
 ## Bug Report:
 | Websites |
 | --------------- |
-| [React](https://jam.dev/) |
+| [Jam](https://jam.dev/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Buttons:
@@ -160,9 +160,9 @@ If you like it, give a ⭐ to this small project.
 ## Charts:
 | Websites |
 | --------------- |
-| [React](https://chartscss.org/) |
-| [React](https://www.lucidchart.com/) |
-| [React](https://app.diagrams.net/) |
+| [Chartcss](https://chartscss.org/) |
+| [Lucidchart](https://www.lucidchart.com/) |
+| [Diagrams](https://app.diagrams.net/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Cheat Sheets:
@@ -186,11 +186,11 @@ If you like it, give a ⭐ to this small project.
 ## Code Editors Online:
 | Websites |
 | --------------- |
-| [React](https://codepen.io/) |
-| [React](https://replit.com/site/ide) |
-| [React](https://codeanywhere.com/) |
-| [React](https://www.w3schools.com/tryit/) |
-| [React](https://html-css-js.com/) |
+| [CodePen](https://codepen.io/) |
+| [Replit](https://replit.com/site/ide) |
+| [Codeanywhere](https://codeanywhere.com/) |
+| [W3Schools Tryit Editor](https://www.w3schools.com/tryit/) |
+| [HTML-CSS-JS](https://html-css-js.com/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Code Styling:
@@ -203,9 +203,9 @@ If you like it, give a ⭐ to this small project.
 ## Coding Challenges:
 | Websites |
 | --------------- |
-| [React](https://www.codewell.cc/challenges/) |
-| [React](https://www.frontendmentor.io/challenges/) |
-| [React](https://coderbyte.com/) |
+| [Codewell](https://www.codewell.cc/challenges/) |
+| [Frontend Mentor](https://www.frontendmentor.io/challenges/) |
+| [Coderbyte](https://coderbyte.com/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Color Pickers:
