@@ -11,8 +11,10 @@ If you like it, give a ⭐ to this small project.
 ---------------------------
 
 ## Table of Contents
-- [Documentations](#documentations)
-- [How To](#how-to)
+- [Animations](#animations)
+- [API Testing](#api-testing)
+- [API's](#apis)
+- 
 - [Can I Use](#can-i-use)
 - [Frameworks](#frameworks)
 - [Buttons](#buttons)
@@ -28,6 +30,8 @@ If you like it, give a ⭐ to this small project.
 ## Animation:
 | Websites |
 | --------------- |
+| [React](https://keyframes.app/animate/) |
+| [React](https://animatedbackgrounds.me/) |
 | [Animate.css](https://animate.style/) |
 | [Animista](https://animista.net/) |
 | [GreenSock](https://greensock.com/) |
@@ -39,8 +43,8 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [Postman](https://www.postman.com/) |
-| [Reqres](https://reqres.in/) |
 | [SwaggerHub](https://swagger.io/tools/swaggerhub/) |
+| [Reqres](https://reqres.in/) |
 | [⬆ back to top](#index) |
 
 ## API's:
@@ -548,13 +552,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://flexboxfroggy.com/) |
 | [⬆ back to top](#index) |
 
-## Animations:
-| Websites |
-| --------------- |
-| [React](https://keyframes.app/animate/) |
-| [React](https://animatedbackgrounds.me/) |
-| [React](https://animate.style/) |
-| [⬆ back to top](#index) |
 
 ## CSS Flexbox:
 | Websites |
