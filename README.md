@@ -1,10 +1,13 @@
 # Amazing Development resources 🤫
 
 ## Index
-[Documentation](#documentation)
-
-[How To](#how-to)
-
+- [Documentation](#documentation)
+- [How To](#how-to)
+- [Hosting](#hosting)
+- [Learning Platforms](#learning-platforms)
+- [Coding Challenge Platforms](#coding-challenge-platforms)
+- [Freelancing platforms](#freelancing-platforms)
+- [Remote Jobs](#remote-jobs)
 ## Documentation
 
 | Websites   | 
