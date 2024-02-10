@@ -6,7 +6,7 @@ No contributions will be accepted.
 
 If you would like to modify that list, make a fork, and feel free to make your version.
 
-If you like it, give a ⭐ to this small project.
+If you like that small project, give a ⭐ it.
 
 **NB!** This project is still a **work-in-progress** stage. 💻
 
