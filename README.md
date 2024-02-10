@@ -14,12 +14,24 @@ If you like it, give a ⭐ to this small project.
 - [Animations](#animations)
 - [API Testing](#api-testing)
 - [API's](#apis)
-- 
+- [Backgrounds](#backgrounds)
 - [Can I Use](#can-i-use)
+- [Capture Your Screen](#capture-your-screen)
+- [Charts](#charts)
+- [Cheat Sheets](#cheat-sheets)
+- [Code Editors](#code-editors)
+- [Coding Challenges](#coding-challenges)
+- [Color Pickers](#color-pickers)
+- [CSS](#css)
+- [CSS Frameworks](#css-frameworks)
+- [CSS Flexbox](#css-flexbox)
+- [CSS Grid](#css-grid)
+
+  
 - [Frameworks](#frameworks)
 - [Buttons](#buttons)
 - [Learning Platforms](#learning-platforms)
-- [Coding & Design Challenges](#challenges)
+
 - [React Data Grid](#react-data-grid)
 - [React TypeScript](#react-typescript)
 - [React Native](#react-native)
@@ -71,6 +83,20 @@ If you like it, give a ⭐ to this small project.
 | [Can I Use](https://caniuse.com/) |
 | [⬆ back to top](#table-of-contents) |
 
+## Capture Your Screen:
+| Websites |
+| --------------- |
+| [Getkap](https://getkap.co/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Charts:
+| Websites |
+| --------------- |
+| [React](https://chartscss.org/) |
+| [React](https://www.lucidchart.com/) |
+| [React](https://app.diagrams.net/) |
+| [⬆ back to top](#table-of-contents) |
+
 ## Cheat Sheets:
 | Websites |
 | --------------- |
@@ -119,6 +145,16 @@ If you like it, give a ⭐ to this small project.
 | [MDN Web Docs CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | [⬆ back to top](#table-of-contents) |
 
+## CSS Frameworks:
+| Websites |
+| --------------- |
+| [Bootstrap](https://getbootstrap.com/) |
+| [Bulma](https://bulma.io/) |
+| [Foundation](https://get.foundation/) |
+| [Materialize](https://materializecss.com/) |
+| [Tailwind CSS](https://tailwindcss.com/) |
+| [⬆ back to top](#index) |
+
 ## CSS Flexbox:
 | Websites |
 | --------------- |
@@ -144,6 +180,8 @@ If you like it, give a ⭐ to this small project.
 |[Expo Dev](https://docs.expo.dev/) |
 |[Python Docs](https://docs.python.org/3/index.html) |
 | [⬆ back to top](#table-of-contents) |
+
+
 
 ## How To:
 | Websites |
@@ -191,13 +229,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://pdfpie.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Charts:
-| Websites |
-| --------------- |
-| [React](https://chartscss.org/) |
-| [React](https://www.lucidchart.com/) |
-| [React](https://app.diagrams.net/) |
-| [⬆ back to top](#table-of-contents) |
+
 
 ## Drawio Desktop:
 | Websites |
@@ -333,11 +365,7 @@ If you like it, give a ⭐ to this small project.
 | [Code Sample To Image](https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Capture Screen:
-| Websites |
-| --------------- |
-| [Getkap](https://getkap.co/) |
-| [⬆ back to top](#table-of-contents) |
+
 
 ## Videos:
 | Websites |
