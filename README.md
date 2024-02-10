@@ -7,6 +7,7 @@
 - [Frameworks](#frameworks)
 - [Learning Platforms](#learning)
 - [Coding & Design Challenges](#challenges)
+- [End](#end-of-page)
 
 
 ## Documentation
@@ -491,6 +492,8 @@ https://swagger.io/tools/swaggerhub/
 https://www.youtube.com/watch?v=d0FhMca_wv0
 
 https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
+
+## End of Page
 
 | Documentation   |  
 | ----------- | 
