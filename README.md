@@ -69,7 +69,7 @@ If you like it, give a ⭐ to this small project.
 | [Jenni](https://jenni.ai/) |
 | [Otter](https://otter.ai/) |
 | [Studyfetch](https://www.studyfetch.com/) |
-| [Runwayml](https://runwayml.com/ai-magic-tools/) |
+| [Runway](https://runwayml.com/ai-magic-tools/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Animation:
