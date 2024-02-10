@@ -776,7 +776,7 @@ If you like it, give a ⭐ to this small project.
 ## TypeScript:
 | Websites |
 | --------------- |
-| [React]() |
+| [TypeScript Lang](https://www.typescriptlang.org/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## UI Kits Components:
