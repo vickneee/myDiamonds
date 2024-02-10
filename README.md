@@ -76,7 +76,7 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [Keyframes](https://keyframes.app/animate/) |
-| [Animatedbackgrounds](https://animatedbackgrounds.me/) |
+| [Animated Backgrounds](https://animatedbackgrounds.me/) |
 | [Animate](https://animate.style/) |
 | [Animista](https://animista.net/) |
 | [GreenSock](https://greensock.com/) |
