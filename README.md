@@ -14,7 +14,7 @@ If you like it, give a ⭐ to this small project.
 - [Animations](#animations)
 - [API Testing](#api-testing)
 - [API's](#apis)
-- [Avatarss](#avatars)
+- [Avatars](#avatars)
 - [Backgrounds](#backgrounds)
 - [Background Remover](#background-remover)
 - [Buttons](#buttons)
