@@ -6,7 +6,7 @@
 - [Can I Use](#can-i-use)
 - [Learning Platforms](#learning-platforms)
 - [Coding Challenge Platforms](#coding-challenge-platforms)
-- [Freelancing platforms](#freelancing-platforms)
+- [Frameworks](#frameworks)
 - [Remote Jobs](#remote-jobs)
 - 
 ## Documentation
