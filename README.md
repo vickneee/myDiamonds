@@ -257,7 +257,7 @@ If you like it, give a ⭐ to this small project.
 ## Videos
 | Websites |
 | --------------- |
-| [React](https://www.pexels.com/videos/
+| [React](https://www.pexels.com/videos/) |
 | [React](https://coverr.co/) |
 | [⬆ back to top](#index) |
 
