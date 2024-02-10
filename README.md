@@ -532,8 +532,8 @@ https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-
 ## React Native
 | Websites|
 | ---------------|
-|https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1|
-|https://expo.dev/|
+|[React Native Tutorials](https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1)|
+|[Expo](https://expo.dev/)|
 |[⬆ back to top](#index)|
 
 ## Node.js
