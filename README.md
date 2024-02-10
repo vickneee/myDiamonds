@@ -25,7 +25,7 @@ If you like it, give a ⭐ to this small project.
 - [MERN](#mern)
 - [End](#end-of-page)
 
-## Documentations
+## Docs:
 | Websites |
 | --------------- |
 |[W3S](https://www.w3schools.com/) |
@@ -35,19 +35,19 @@ If you like it, give a ⭐ to this small project.
 |[Python Docs](https://docs.python.org/3/index.html) |
 |[MongoDB Docs](https://www.mongodb.com/docs/) |
 
-## How To
+## How To:
 | Websites |
 | --------------- |
 | [W3S How To](https://www.w3schools.com/howto/default.asp) |
 | [⬆ back to top](#index) |
 
-## Can I Use
+## Can I Use:
 | Websites |
 | --------------- |
 | [Can I Use](https://caniuse.com/) |
 | [⬆ back to top](#index) |
 
-## Frameworks
+## Frameworks:
 | Websites |
 | --------------- |
 |[React](https://react.dev/learn/start-a-new-react-project) |
@@ -56,7 +56,7 @@ If you like it, give a ⭐ to this small project.
 |[Next.js Installation](https://nextjs.org/docs/getting-started/installation) |
 | [⬆ back to top](#index) |
 
-## Code Editors & IDEs
+## Code Editors:
 | Websites |
 | --------------- |
 | [React](https://code.visualstudio.com/) |
@@ -67,7 +67,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://macromates.com/) |
 | [⬆ back to top](#index) |
 
-## Online Code Editors
+## Online Code Editors:
 | Websites |
 | --------------- |
 | [React](https://codepen.io/) |
@@ -77,7 +77,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://html-css-js.com/) |
 | [⬆ back to top](#index) |
 
-## Git
+## Git:
 | Websites |
 | --------------- |
 | [React](https://git-scm.com/) |
@@ -85,19 +85,19 @@ If you like it, give a ⭐ to this small project.
 | [React](https://learngitbranching.js.org/) |
 | [⬆ back to top](#index) |
 
-## Files
+## Files:
 | Websites |
 | --------------- |
 | [React](https://convertio.co/) |
 | [⬆ back to top](#index) |
 
-## Pdf Editors
+## Pdf Editors:
 | Websites |
 | --------------- |
 | [React](https://pdfpie.com/) |
 | [⬆ back to top](#index) |
 
-## Charts & Planning
+## Charts:
 | Websites |
 | --------------- |
 | [React](https://chartscss.org/) |
@@ -105,13 +105,13 @@ If you like it, give a ⭐ to this small project.
 | [React](https://app.diagrams.net/) |
 | [⬆ back to top](#index) |
 
-#### Drawio desktop
+#### Drawio Desktop:
 | Websites |
 | --------------- |
 | [React](https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10) |
 | [⬆ back to top](#index) |
 
-## Texts
+## Texts:
 | Websites |
 | --------------- |
 | [React](https://loremipsum.io/generator/) |
@@ -119,7 +119,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.diffchecker.com/) |
 | [⬆ back to top](#index) |
 
-## Fonts
+## Fonts:
 | Websites |
 | --------------- |
 | [React](https://fonts.google.com/) |
@@ -156,14 +156,13 @@ If you like it, give a ⭐ to this small project.
 | [React](https://keyframes.app/shadows/) |
 | [⬆ back to top](#index) |
 
-## Images & Photos
+## Photos:
 | Websites |
 | --------------- |
 | [React](https://www.pexels.com/) |
 | [React](https://picsum.photos/) |
 | [React](https://unsplash.com/) |
 | [React](https://www.freepik.com/) |
-| [React](https://www.remove.bg/) |
 | [React](https://www.photopea.com/) |
 | [React](https://mixkit.co/free-stock-art/) |
 | [React](https://superdesigner.co/) |
@@ -174,32 +173,32 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.oldbookillustrations.com/artists/potter-beatrix/) |
 | [⬆ back to top](#index) |
 
-#### Edit Photo
+#### Edit Photos:
 | Websites |
 | --------------- |
 | [React](https://www.photoroom.com/tools/) |
 | [⬆ back to top](#index) |
 
-#### Image ReSizer
+#### Image Resizer:
 | Websites |
 | --------------- |
 | [React](https://promo.com/tools/image-resizer/) |
 | [React](https://imgupscaler.com/) |
 | [⬆ back to top](#index) |
 
-#### Al Image Upscaler
+#### Al Image Upscaler:
 | Websites |
 | --------------- |
 | [React](https://www.upscayl.org/) |
 | [⬆ back to top](#index) |
 
-#### AI Image Enlarger
+#### AI Image Enlarger:
 | Websites |
 | --------------- |
 | [React](https://bigjpg.com/) |
 | [⬆ back to top](#index) |
 
-#### Image Compressor
+#### Image Compressor:
 | Websites |
 | --------------- |
 | [React](https://squoosh.app/) |
@@ -208,90 +207,97 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.shrink.media/) |
 | [⬆ back to top](#index) |
 
-#### Background remover
+#### Background Remover:
 | Websites |
 | --------------- |
-| [React](https://www.remove.bg/g/developers/) |
-| [React](https://www.erase.bg/) |
+| [Remove BG](https://www.remove.bg/) |
+| [Remove BG Developers](https://www.remove.bg/g/developers/) |
+| [Erase BG](https://www.erase.bg/) |
 | [⬆ back to top](#index) |
 
-#### Online Al Photo Editor
+#### Online Al Photo Editor:
 | Websites |
 | --------------- |
-| [React](https://pixlr.com/) |
+| [Pixlr](https://pixlr.com/) |
 | [⬆ back to top](#index) |
 
-#### Online Al Photo Generator
+#### Online Al Photo Generator:
 | Websites |
 | --------------- |
-| [React](https://pixlr.com/image-generator/) |
-| [React](https://generated.photos/) |
-| [React](https://lexica.art/) |
-| [React](https://prompthero.com/ai-models/text-to-image/) |
+| [Image Generator Pixlr](https://pixlr.com/image-generator/) |
+| [Generated Photos](https://generated.photos/) |
+| [Lexica Art](https://lexica.art/) |
+| [Text To Image](https://prompthero.com/ai-models/text-to-image/) |
 | [⬆ back to top](#index) |
 
-#### Profile Picture Maker
+#### Profile Picture Maker:
 | Websites |
 | --------------- |
-| [React](https://pfpmaker.com/) |
+| [Pfpmaker](https://pfpmaker.com/) |
 | [⬆ back to top](#index) |
 
-#### Get Waves
+#### Get Waves:
 | Websites |
 | --------------- |
-| [React](https://getwaves.io/) |
+| [Get Waves](https://getwaves.io/) |
 | [⬆ back to top](#index) |
 
-#### Create Beautiful Images of your Code
+#### Code To Image:
 | Websites |
 | --------------- |
-| [React](https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32/) |
+| [Code To Image](https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32/) |
 | [⬆ back to top](#index) |
 
-## Screen Capture
+## Screen Capture:
 | Websites |
 | --------------- |
-| [React](https://getkap.co/) |
+| [Getkap](https://getkap.co/) |
 | [⬆ back to top](#index) |
 
-## Videos
+## Videos:
 | Websites |
 | --------------- |
-| [React](https://www.pexels.com/videos/) |
-| [React](https://coverr.co/) |
+| [Pexels Videos](https://www.pexels.com/videos/) |
+| [Coverr Videos](https://coverr.co/) |
 | [⬆ back to top](#index) |
 
-## Music 
+## Music:
 | Websites |
 | --------------- |
-| [React](https://mixkit.co/free-sound-effects/) |
+| [Mixkit Free Sound Effects](https://mixkit.co/free-sound-effects/) |
 | [⬆ back to top](#index) |
 
-## Icons & Logos
+## Icons:
 | Websites |
 | --------------- |
-| [React](https://react-icons.github.io/react-icons/) |
-| [React](https://delesign.com/free-designs/graphics/icon/) |
+| [React Icons](https://react-icons.github.io/react-icons/) |
+| [Delesign Icons](https://delesign.com/free-designs/graphics/icon/) |
 | [⬆ back to top](#index) |
 
-## Avatars
+## Logos:
 | Websites |
 | --------------- |
-| [React](https://limitlessdesigns.io/avatar-illustrations/) |
+| [React]() |
+| [React]() |
+| [⬆ back to top](#index) |
+
+## Avatars:
+| Websites |
+| --------------- |
+| [Avatar Illustrations](https://limitlessdesigns.io/avatar-illustrations/) |
 | [⬆ back to top](#index) |
 
 ## Patterns
 | Websites |
 | --------------- |
-| [React](https://css-doodle.com/) |
-| [React](https://superdesigner.co/) |
-| [React](https://bgjar.com/) |
-| [React](https://bansal.io/pattern-css/) |
-| [React](https://background-generator.com/) |
-| [React](https://patternpad.com/editor.html/) |
-| [React](https://products.ls.graphics/paaatterns/index.html/) |
-| [React](https://doodad.dev/) |
-| [React](https://superdesigner.co/) |
+| [Doodle](https://css-doodle.com/) |
+| [Superdesigner](https://superdesigner.co/) |
+| [Bgjar](https://bgjar.com/) |
+| [Bansal Pattern CSS](https://bansal.io/pattern-css/) |
+| [BackgroundGenerator](https://background-generator.com/) |
+| [Patternpad](https://patternpad.com/editor.html/) |
+| [Paaatterns](https://products.ls.graphics/paaatterns/index.html/) |
+| [Doodad](https://doodad.dev/) |
 | [⬆ back to top](#index) |
 
 ## QR Code generator
