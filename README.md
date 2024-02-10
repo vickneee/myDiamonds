@@ -677,18 +677,6 @@ If you like it, give a ⭐ to this small project.
 | [MERN YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
 | [⬆ back to top](#index) |
 
-## Postman:
-| Websites |
-| --------------- |
-| [React](https://www.postman.com/) |
-| [⬆ back to top](#index) |
-
-## SwaggerHub:
-| Websites |
-| --------------- |
-| [React](https://swagger.io/tools/swaggerhub/) |
-| [⬆ back to top](#index) |
-
 ## Figma:
 | Websites |
 | --------------- |
