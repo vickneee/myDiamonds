@@ -1,4 +1,4 @@
-# Development resources 🤫 ![Awesome][awesome-badge]
+# Development resources 🤫 
 
 ## Index
 - [Documentation](#documentation)
@@ -500,5 +500,7 @@ https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
 | [Python](https://docs.python.org/3/index.html)
 
 [⬆ back to top](#documentation)
+
+![Awesome][awesome-badge] by Victoria
 
 [awesome-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
