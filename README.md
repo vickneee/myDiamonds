@@ -8,6 +8,7 @@
 - [Coding Challenge Platforms](#coding-challenge-platforms)
 - [Freelancing platforms](#freelancing-platforms)
 - [Remote Jobs](#remote-jobs)
+- 
 ## Documentation
 [W3S](https://www.w3schools.com/)      
 [React](https://react.dev/)        
@@ -21,13 +22,13 @@
 [Can I Use](https://caniuse.com/)
 
 ## Frameworks
-https://react.dev/learn/start-a-new-react-project
+[React](https://react.dev/learn/start-a-new-react-project)
 
-https://vitejs.dev/guide/
+[Vite](https://vitejs.dev/guide/)
 
-https://nextjs.org/
+[Next.js](https://nextjs.org/)
 
-https://nextjs.org/docs/getting-started/installation
+[Next.js Installation](https://nextjs.org/docs/getting-started/installation)
 
 ## Code Editors & IDEs
 https://code.visualstudio.com/
