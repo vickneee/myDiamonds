@@ -314,7 +314,7 @@ If you like it, give a ⭐ to this small project.
 | --------------- |
 | [Awwwards](https://www.awwwards.com/) |
 | [Behance](https://www.behance.net/) |
-| [Best websites to get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/) |
+| [Best Templates](https://markodenic.com/best-websites-to-get-html-css-templates/) |
 | [Dribbble](https://dribbble.com/) |
 | [Land-book](https://land-book.com/) |
 | [UI Movement](https://uimovement.com/) |
