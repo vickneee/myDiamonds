@@ -9,13 +9,10 @@
 - [Freelancing platforms](#freelancing-platforms)
 - [Remote Jobs](#remote-jobs)
 ## Documentation
-
-| Websites   | 
-| ----|
-| [W3S](https://www.w3schools.com/)      | 
-| [React](https://react.dev/)        |
-| [Expo](https://docs.expo.dev/)      |
-| [Python](https://docs.python.org/3/index.html)
+[W3S](https://www.w3schools.com/)      
+[React](https://react.dev/)        
+[Expo](https://docs.expo.dev/)      
+[Python](https://docs.python.org/3/index.html)
 
 ## How To
 [W3S How To](https://www.w3schools.com/howto/default.asp)
