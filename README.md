@@ -1,5 +1,9 @@
 # My Development resources 💎
 
+This is a small project about My Development resources. 📃
+
+If you like it, give a ⭐ to it.
+
 ## Index
 - [Documentations](#documentations)
 - [How To](#how-to)
