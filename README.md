@@ -1,4 +1,4 @@
-# Development resources 🤫 
+# Development resources 💎
 
 ## Index
 - [Documentation](#documentation)
