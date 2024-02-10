@@ -495,8 +495,7 @@
 
 ## End of Page
 
-![Awesome][awesome-badge] 
-by Victoria
+Created with ❤️‍🔥 by Victoria
 
 [awesome-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
 
