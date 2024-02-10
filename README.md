@@ -693,6 +693,7 @@ If you like it, give a ⭐ to this small project.
 | [⬆ back to top](#table-of-contents) |
 
 ## Pandoc The Universal Markup Converter
+| Websites |
 | --------------- |
 | [Pandoc](https://github.com/jgm/pandoc) |
 | [Pandoc Manual.pdf]([https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s](https://pandoc.org/MANUAL.pdf)) |
