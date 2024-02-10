@@ -2,9 +2,9 @@
 
 This is a small project about My Development resources. 📃
 
-If you like it, give a ⭐ to it.
+If you like it, give a ⭐ to this small project.
 
-No contributions will be accepted. If you like to modify that list make a fork and feel free to make your own versio. 
+No contributions will be accepted. If you would like to modify that list, make a fork, and feel free to make your version.
 
 ---------------------------
 
