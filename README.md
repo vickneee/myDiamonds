@@ -304,7 +304,7 @@ https://vercel.com/
 
 https://walpuri.vercel.app/
 
-## learning
+## Learning Platforms
 https://fitech.io/fi/
 
 https://www.mooc.fi/en/courses/
