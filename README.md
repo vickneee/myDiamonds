@@ -297,7 +297,7 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [Flexbox Malven](https://flexbox.malven.co/) |
-| [Flexboxfroggy](https://flexboxfroggy.com/) |
+| [Flexbox Froggy](https://flexboxfroggy.com/) |
 | [Loading Flexbox](https://loading.io/flexbox/) |
 | [⬆ back to top](#table-of-contents) |
 
