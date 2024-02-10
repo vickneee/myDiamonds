@@ -41,248 +41,246 @@
 [⬆ back to top](#index)
 
 ## Code Editors & IDEs
-https://code.visualstudio.com/
+| Websites|
+| ---------------|
+| [React]https://code.visualstudio.com/ |
+| [React]https://visualstudio.microsoft.com/downloads/ |
+| [React]https://www.jetbrains.com/webstorm/ |
+| [React]https://www.jetbrains.com/pycharm/ |
+| [React]https://www.sublimetext.com/ |
 
-https://visualstudio.microsoft.com/downloads/
-
-https://www.jetbrains.com/webstorm/
-
-https://www.jetbrains.com/pycharm/
-
-https://www.sublimetext.com/
-
-https://macromates.com/
+[React]https://macromates.com/
 [⬆ back to top](#index)
 
 ## Online Code Editors
-https://codepen.io/
+[React]https://codepen.io/
 
-https://replit.com/site/ide
+[React]https://replit.com/site/ide
 
-https://codeanywhere.com/
+[React]https://codeanywhere.com/
 
-https://www.w3schools.com/tryit/
+[React]https://www.w3schools.com/tryit/
 
-https://html-css-js.com/
+[React]https://html-css-js.com/
 [⬆ back to top](#index)
 
 ## Git
-https://git-scm.com/
+[React]https://git-scm.com/
 
-https://ohshitgit.com/
+[React]https://ohshitgit.com/
 
-https://learngitbranching.js.org/
+[React]https://learngitbranching.js.org/
 [⬆ back to top](#index)
 
 ## Files
-https://convertio.co/
+[React]https://convertio.co/
 [⬆ back to top](#index)
 
 ## Pdf Editors
-https://pdfpie.com/
+[React]https://pdfpie.com/
 [⬆ back to top](#index)
 
 ## Charts & Planning
-https://chartscss.org/
+[React]https://chartscss.org/
 
-https://www.lucidchart.com/
+[React]https://www.lucidchart.com/
 
-https://app.diagrams.net/
+[React]https://app.diagrams.net/
 
 #### Drawio desktop
-https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10
+[React]https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10
  [⬆ back to top](#index)
 
 ## Texts
-https://loremipsum.io/generator/
+[React]https://loremipsum.io/generator/
 
-https://www.microcopy.me/
+[React]https://www.microcopy.me/
 
-https://www.diffchecker.com/
+[React]https://www.diffchecker.com/
 [⬆ back to top](#index)
 
 ## Fonts
-https://fonts.google.com/
+[React]https://fonts.google.com/
 
-https://cdnjs.com/libraries/font-awesome/6.5.1
+[React]https://cdnjs.com/libraries/font-awesome/6.5.1
 
-https://fontjoy.com/
+[React]https://fontjoy.com/
 
-https://ascii.co.uk/
+[React]https://ascii.co.uk/
 [⬆ back to top](#index)
 
 #### Font Pairing & Typeface Combinations
-https://fontpairings.bypeople.com/
+[React]https://fontpairings.bypeople.com/
 [⬆ back to top](#index)
 
 ## TypeScale
-https://typescale.com/?size
+[React]https://typescale.com/?size
 [⬆ back to top](#index)
 
 ## Colors
-https://color.adobe.com/create/color-wheel
+[React]https://color.adobe.com/create/color-wheel
 
-https://meshgradient.com/
+[React]https://meshgradient.com/
 
-https://chroma.dev/
+[React]https://chroma.dev/
 
-https://doodad.dev/
+[React]https://doodad.dev/
 
-https://keyframes.app/colors
+[React]https://keyframes.app/colors
 [⬆ back to top](#index)
 
 ## Shadows
-https://keyframes.app/shadows
+[React]https://keyframes.app/shadows
 [⬆ back to top](#index)
 
 ## Images & Photos
-https://www.pexels.com/
+[React]https://www.pexels.com/
 
-https://picsum.photos/
+[React]https://picsum.photos/
 
-https://unsplash.com/
+[React]https://unsplash.com/
 
-https://www.freepik.com/
+[React]https://www.freepik.com/
 
-https://www.remove.bg/
+[React]https://www.remove.bg/
 
-https://www.photopea.com/
+[React]https://www.photopea.com/
 
-https://mixkit.co/free-stock-art/
+[React]https://mixkit.co/free-stock-art/
 
-https://superdesigner.co/
+[React]https://superdesigner.co/
 
-https://openstickers.craftwork.design/
+[React]https://openstickers.craftwork.design/
 
-https://delesign.com/free-designs/graphics/illustration
+[React]https://delesign.com/free-designs/graphics/illustration
 
-https://icons8.com/illustrations
+[React]https://icons8.com/illustrations
 
-https://undraw.co/illustrations
+[React]https://undraw.co/illustrations
 
-https://www.oldbookillustrations.com/artists/potter-beatrix/
+[React]https://www.oldbookillustrations.com/artists/potter-beatrix/
 [⬆ back to top](#index)
 
 #### Edit Photo
-https://www.photoroom.com/tools/
+[React]https://www.photoroom.com/tools/
 [⬆ back to top](#index)
 
 #### Image ReSizer
-https://promo.com/tools/image-resizer/
+[React]https://promo.com/tools/image-resizer/
 
-https://imgupscaler.com/
+[React]https://imgupscaler.com/
 [⬆ back to top](#index)
 
 #### Al Image Upscaler
-https://www.upscayl.org/
+[React]https://www.upscayl.org/
 [⬆ back to top](#index)
 
 #### AI Image Enlarger
-https://bigjpg.com/
+[React]https://bigjpg.com/
 [⬆ back to top](#index)
 
 #### Image Compressor
-https://squoosh.app/
+[React]https://squoosh.app/
 
-https://compressor.io/
+[React]https://compressor.io/
 
-https://tinypng.com/
+[React]https://tinypng.com/
 
-https://www.shrink.media/
+[React]https://www.shrink.media/
 [⬆ back to top](#index)
 
 #### Background remover
-https://www.remove.bg/g/developers
+[React]https://www.remove.bg/g/developers
 
-https://www.erase.bg/
+[React]https://www.erase.bg/
 [⬆ back to top](#index)
 
 #### Online Al Photo Editor
-https://pixlr.com/
+[React]https://pixlr.com/
 [⬆ back to top](#index)
 
 #### Online Al Photo Generator
-https://pixlr.com/image-generator/
+[React]https://pixlr.com/image-generator/
 
-https://generated.photos/
+[React]https://generated.photos/
 
-https://lexica.art/
+[React]https://lexica.art/
 
-https://prompthero.com/ai-models/text-to-image
+[React]https://prompthero.com/ai-models/text-to-image
 [⬆ back to top](#index)
 
 #### Profile Picture Maker
-https://pfpmaker.com/
+[React]https://pfpmaker.com/
 [⬆ back to top](#index)
 
 #### Get Waves
-https://getwaves.io/
+[React]https://getwaves.io/
 [⬆ back to top](#index)
 
 #### Create Beautiful Images of your Code
-https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32
+[React]https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32
 [⬆ back to top](#index)
 
 ## Screen Capture
-https://getkap.co/
+[React]https://getkap.co/
 [⬆ back to top](#index)
 
 ## Videos
-https://www.pexels.com/videos/
+[React]https://www.pexels.com/videos/
 
-https://coverr.co/
+[React]https://coverr.co/
 [⬆ back to top](#index)
 
 ## Music 
-https://mixkit.co/free-sound-effects/
+[React]https://mixkit.co/free-sound-effects/
 [⬆ back to top](#index)
 
 ## Icons & Logos
-https://react-icons.github.io/react-icons/
+[React]https://react-icons.github.io/react-icons/
 
-https://delesign.com/free-designs/graphics/icon
+[React]https://delesign.com/free-designs/graphics/icon
 [⬆ back to top](#index)
 
 ## Avatars
-https://limitlessdesigns.io/avatar-illustrations/
+[React]https://limitlessdesigns.io/avatar-illustrations/
 [⬆ back to top](#index)
 
 ## Patterns
-https://css-doodle.com/
+[React]https://css-doodle.com/
 
-https://superdesigner.co/
+[React]https://superdesigner.co/
 
-https://bgjar.com/
+[React]https://bgjar.com/
 
-https://bansal.io/pattern-css
+[React]https://bansal.io/pattern-css
 
-https://background-generator.com/
+[React]https://background-generator.com/
 
-https://patternpad.com/editor.html
+[React]https://patternpad.com/editor.html
 
-https://products.ls.graphics/paaatterns/index.html
+[React]https://products.ls.graphics/paaatterns/index.html
 
-https://doodad.dev/
+[React]https://doodad.dev/
 
-https://superdesigner.co/
+[React]https://superdesigner.co/
 [⬆ back to top](#index)
 
 ## QR Code generator
-https://markodenic.com/tools/qr-code-generator/
+[React]https://markodenic.com/tools/qr-code-generator/
 [⬆ back to top](#index)
 
 ## Components
-https://getbootstrap.com/
+[React]https://getbootstrap.com/
 
-https://tailwindcss.com/
+[React]https://tailwindcss.com/
 
-https://mui.com/material-ui/
+[React]https://mui.com/material-ui/
 
-https://uiverse.io/
+[React]https://uiverse.io/
 
-https://www.tilebit.io/
+[React]https://www.tilebit.io/
 
-https://semantic-ui.com/
+[React]https://semantic-ui.com/
 [⬆ back to top](#index)
 
 #### Buttons
@@ -293,158 +291,160 @@ https://semantic-ui.com/
 |[⬆ back to top](#index)|
 
 #### React.js components
-https://github.com/brillout/awesome-react-components?tab=readme-ov-file
+[React]https://github.com/brillout/awesome-react-components?tab=readme-ov-file
 
-https://github.com/rcaferati/react-awesome-slider
+[React]https://github.com/rcaferati/react-awesome-slider
 [⬆ back to top](#index)
 
 ## Bugs
-https://jam.dev/
+[React]https://jam.dev/
 [⬆ back to top](#index)
 
 ## Visualize code
-https://pythontutor.com/visualize.html#mode=edit
+[React]https://pythontutor.com/visualize.html#mode=edit
 [⬆ back to top](#index)
 
 ## Responsive design
-https://sizzy.co/
+[React]https://sizzy.co/
 [⬆ back to top](#index)
 
 ## Web Design Tools
-https://www.figma.com/
+[React]https://www.figma.com/
 
-https://www.framer.com/
+[React]https://www.framer.com/
 [⬆ back to top](#index)
 
 ## Figma resources
+[React]
 [⬆ back to top](#index)
 
 ## Testing tools
 
 #### React testing library
-https://testing-library.com/docs/react-testing-library/intro/
+[React]
+[React]https://testing-library.com/docs/react-testing-library/intro/
 [⬆ back to top](#index)
 
 #### Jest
-https://jestjs.io/
+[React]https://jestjs.io/
 [⬆ back to top](#index)
 
 #### End-To-End test
-https://www.cypress.io/
+[React]https://www.cypress.io/
 [⬆ back to top](#index)
 
 ## Test Driven Development
-https://www.lambdatest.com/learning-hub/test-driven-development
+[React]https://www.lambdatest.com/learning-hub/test-driven-development
 [⬆ back to top](#index)
 
 ## Clean Code
-https://github.com/dev-marko/clean-code-book
+[React]https://github.com/dev-marko/clean-code-book
 [⬆ back to top](#index)
 
 ## Style
-https://eslint.org/
+[React]https://eslint.org/
 
-https://prettier.io/
+[React]https://prettier.io/
 [⬆ back to top](#index)
 
 ## Optimization
-https://pagespeed.web.dev/
+[React]https://pagespeed.web.dev/
 [⬆ back to top](#index)
 
 ## Deployment
-https://app.netlify.com/
+[React]https://app.netlify.com/
 
-https://render.com/
+[React]https://render.com/
 
-https://vercel.com/
+[React]https://vercel.com/
 
-https://walpuri.vercel.app/
+[React]https://walpuri.vercel.app/
 [⬆ back to top](#index)
 
 ## Learning Platforms
-https://fitech.io/fi/
+[React]https://fitech.io/fi/
 
-https://www.mooc.fi/en/courses/
+[React]https://www.mooc.fi/en/courses/
 
-https://www.udemy.com/
+[React]https://www.udemy.com/
 
-https://www.codecademy.com/catalog
+[React]https://www.codecademy.com/catalog
 
-https://exercism.org/tracks
+[React]https://exercism.org/tracks
 [⬆ back to top](#index)
 
 ## Challenges
-https://www.codewell.cc/challenges
+[React]https://www.codewell.cc/challenges
 
-https://www.frontendmentor.io/challenges
+[React]https://www.frontendmentor.io/challenges
 
-https://coderbyte.com/
+[React]https://coderbyte.com/
 [⬆ back to top](#index)
 
 ## Youtube channels
-https://www.youtube.com/@Codevolution
+[React]https://www.youtube.com/@Codevolution
 
-https://www.youtube.com/@WebDevSimplified
+[React]https://www.youtube.com/@WebDevSimplified
 
-https://www.youtube.com/@DaveGrayTeachesCode
+[React]https://www.youtube.com/@DaveGrayTeachesCode
 
-https://www.youtube.com/@codewithyousaf
+[React]https://www.youtube.com/@codewithyousaf
 
-https://www.youtube.com/@PedroTechnologies
+[React]https://www.youtube.com/@PedroTechnologies
 
-https://www.youtube.com/@codewithantonio
+[React]https://www.youtube.com/@codewithantonio
 
-https://www.youtube.com/@FluxAcademy
+[React]https://www.youtube.com/@FluxAcademy
 
-https://www.youtube.com/@ZeroToMastery
+[React]https://www.youtube.com/@ZeroToMastery
 
-https://www.youtube.com/@Figma
+[React]https://www.youtube.com/@Figma
 [⬆ back to top](#index)
 
 ## AI tools
-https://topai.tools/
+[React]https://topai.tools/
 
-https://chat.openai.com/
+[React]https://chat.openai.com/
 
-https://tinywow.com/
+[React]https://tinywow.com/
 
-https://pi.ai/onboarding
+[React]https://pi.ai/onboarding
 
-https://www.sincode.ai/
+[React]https://www.sincode.ai/
 
-https://app.durable.co/website-builder
+[React]https://app.durable.co/website-builder
 
-https://ai.feathery.io/
+[React]https://ai.feathery.io/
 
-https://www.blackbox.ai/
+[React]https://www.blackbox.ai/
 
-https://www.fotor.com/images/create
+[React]https://www.fotor.com/images/create
 
-https://undetectable.ai/
+[React]https://undetectable.ai/
 
-https://www.framer.com/features/ai/
+[React]https://www.framer.com/features/ai/
 
-https://jenni.ai/
+[React]https://jenni.ai/
 
-https://otter.ai/
+[React]https://otter.ai/
 
-https://www.studyfetch.com/
+[React]https://www.studyfetch.com/
 
-https://runwayml.com/ai-magic-tools/
+[React]https://runwayml.com/ai-magic-tools/
 [⬆ back to top](#index)
 
 ## Resources
-https://codingheroes.io/resources/
+[React]https://codingheroes.io/resources/
 
-https://zerotomastery.io/resources/
+[React]https://zerotomastery.io/resources/
 
-https://designbro.com/blog/resources/freebie-sites-for-founders-makers/
+[React]https://designbro.com/blog/resources/freebie-sites-for-founders-makers/
 
-https://publicapis.dev/category/development
+[React]https://publicapis.dev/category/development
 [⬆ back to top](#index)
 
 ## Website clone
-https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone
+[React]https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone
 [⬆ back to top](#index)
 
 ## Templates
@@ -454,70 +454,70 @@ https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=lin
 |[⬆ back to top](#index)|
 
 ## Communiacation
-https://trello.com/
+[React]https://trello.com/
 
-https://www.atlassian.com/software/jira
+[React]https://www.atlassian.com/software/jira
 [⬆ back to top](#index)
 
 ## MarkDown
-
 [MarkDown](https://markdown.land/)
-
 [MarkDown Preview](https://freecodetools.org/markdown-preview/)
 [⬆ back to top](#index)
 
 ## CSS
-https://css-tricks.com/snippets/css/using-font-face-in-css/
+[React]https://css-tricks.com/snippets/css/using-font-face-in-css/
 
-https://css-tricks.com/line-clampin/
+[React]https://css-tricks.com/line-clampin/
 
-https://enjoycss.com/
+[React]https://enjoycss.com/
 
-https://shouldiprefix.com/
+[React]https://shouldiprefix.com/
 
-https://www.w3schools.com/cssref/css_selectors.php
+[React]https://www.w3schools.com/cssref/css_selectors.php
 
-https://flexboxfroggy.com/
+[React]https://flexboxfroggy.com/
 [⬆ back to top](#index)
 
 #### CSS Animations
-https://keyframes.app/animate
+[React]https://keyframes.app/animate
 
-https://animatedbackgrounds.me/
+[React]https://animatedbackgrounds.me/
 
-https://animate.style/
+[React]https://animate.style/
 
 [⬆ back to top](#index)
 
 #### Flexbox
-https://flexbox.malven.co/
+[React]https://flexbox.malven.co/
 
-https://loading.io/flexbox/
+[React]https://loading.io/flexbox/
 [⬆ back to top](#index)
 
 #### Grid
-https://grid.malven.co/
+[React]https://grid.malven.co/
 
-https://grid.layoutit.com/
+[React]https://grid.layoutit.com/
 
-https://layoutit.com/build
+[React]https://layoutit.com/build
 
 [⬆ back to top](#index)
 
 ## JS
+[React]
 [⬆ back to top](#index)
 
 ## TypeScript
+[React]
 [⬆ back to top](#index)
 
 ## React.js
-https://create-react-app.dev/
+[React]https://create-react-app.dev/
 
-https://react.dev/learn
+[React]https://react.dev/learn
 
-https://legacy.reactjs.org/docs/react-component.html
+[React]https://legacy.reactjs.org/docs/react-component.html
 
-https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
+[React]https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
 [⬆ back to top](#index)
 
 #### React Data Grid
@@ -541,36 +541,41 @@ https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rx
 | [⬆ back to top](#index) |
 
 ## Node.js
-https://nodejs.org/en/download/
+[React]https://nodejs.org/en/download/
 [⬆ back to top](#index)
 
 ## Express.js
+[React]
 [⬆ back to top](#index)
 
 ## NEXT.js
+[React]
 [⬆ back to top](#index)
 
 ## MongoDB
-https://www.mongodb.com/
+[React]
+[React]https://www.mongodb.com/
 [⬆ back to top](#index)
 
 ## Mongoose
-https://mongoosejs.com/
+[React]https://mongoosejs.com/
 
 [⬆ back to top](#index)
 
 ## SQL & MySQL
-https://www.mysql.com/
+[React]https://www.mysql.com/
 
-https://www.sqltutorial.org/
+[React]https://www.sqltutorial.org/
 
-https://github.com/pawelsalawa/sqlitestudio/releases
+[React]https://github.com/pawelsalawa/sqlitestudio/releases
 [⬆ back to top](#index)
 
 ## NPM
+[React]
 [⬆ back to top](#index)
 
 ## API
+[React]
 [⬆ back to top](#index)
 
 ## MERN
@@ -582,17 +587,17 @@ https://github.com/pawelsalawa/sqlitestudio/releases
 | [⬆ back to top](#index) |
 
 ## Postman
-https://www.postman.com/
+[React]https://www.postman.com/
 [⬆ back to top](#index)
 
 ## SwaggerHub
-https://swagger.io/tools/swaggerhub/
+[React]https://swagger.io/tools/swaggerhub/
 [⬆ back to top](#index)
 
 ## Figma
-https://www.youtube.com/watch?v=d0FhMca_wv0
+[React]https://www.youtube.com/watch?v=d0FhMca_wv0
 
-https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
+[React]https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
 [⬆ back to top](#index)
 
 ## End of Page
