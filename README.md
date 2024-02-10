@@ -10,7 +10,7 @@ If you like it, give a ⭐ to this small project.
 
 ---------------------------
 
-## Index
+## Table of Contents
 - [Documentations](#documentations)
 - [How To](#how-to)
 - [Can I Use](#can-i-use)
@@ -105,7 +105,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://app.diagrams.net/) |
 | [⬆ back to top](#index) |
 
-#### Drawio Desktop:
+## Drawio Desktop:
 | Websites |
 | --------------- |
 | [React](https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10) |
@@ -128,19 +128,19 @@ If you like it, give a ⭐ to this small project.
 | [React](https://ascii.co.uk/) |
 | [⬆ back to top](#index) |
 
-#### Font Pairing & Typeface Combinations
+## Font Pairing Typeface Combinations:
 | Websites |
 | --------------- |
 | [React](https://fontpairings.bypeople.com/) |
 | [⬆ back to top](#index) |
 
-## TypeScale
+## TypeScale:
 | Websites |
 | --------------- |
 | [React](https://typescale.com/?size/) |
 | [⬆ back to top](#index) |
 
-## Colors
+## Colors:
 | Websites |
 | --------------- |
 | [React](https://color.adobe.com/create/color-wheel/) |
@@ -173,32 +173,32 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.oldbookillustrations.com/artists/potter-beatrix/) |
 | [⬆ back to top](#index) |
 
-#### Edit Photos:
+## Edit Photos:
 | Websites |
 | --------------- |
 | [React](https://www.photoroom.com/tools/) |
 | [⬆ back to top](#index) |
 
-#### Image Resizer:
+## Image Resizer:
 | Websites |
 | --------------- |
 | [React](https://promo.com/tools/image-resizer/) |
 | [React](https://imgupscaler.com/) |
 | [⬆ back to top](#index) |
 
-#### Al Image Upscaler:
+## Al Image Upscaler:
 | Websites |
 | --------------- |
 | [React](https://www.upscayl.org/) |
 | [⬆ back to top](#index) |
 
-#### AI Image Enlarger:
+## AI Image Enlarger:
 | Websites |
 | --------------- |
 | [React](https://bigjpg.com/) |
 | [⬆ back to top](#index) |
 
-#### Image Compressor:
+## Image Compressor:
 | Websites |
 | --------------- |
 | [React](https://squoosh.app/) |
@@ -207,7 +207,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.shrink.media/) |
 | [⬆ back to top](#index) |
 
-#### Background Remover:
+## Background Remover:
 | Websites |
 | --------------- |
 | [Remove BG](https://www.remove.bg/) |
@@ -215,13 +215,13 @@ If you like it, give a ⭐ to this small project.
 | [Erase BG](https://www.erase.bg/) |
 | [⬆ back to top](#index) |
 
-#### Online Al Photo Editor:
+## Online Al Photo Editor:
 | Websites |
 | --------------- |
 | [Pixlr](https://pixlr.com/) |
 | [⬆ back to top](#index) |
 
-#### Online Al Photo Generator:
+## Online Al Photo Generator:
 | Websites |
 | --------------- |
 | [Image Generator Pixlr](https://pixlr.com/image-generator/) |
@@ -230,25 +230,25 @@ If you like it, give a ⭐ to this small project.
 | [Text To Image](https://prompthero.com/ai-models/text-to-image/) |
 | [⬆ back to top](#index) |
 
-#### Profile Picture Maker:
+## Profile Picture Maker:
 | Websites |
 | --------------- |
 | [Pfpmaker](https://pfpmaker.com/) |
 | [⬆ back to top](#index) |
 
-#### Get Waves:
+## Get Waves Background:
 | Websites |
 | --------------- |
-| [Get Waves](https://getwaves.io/) |
+| [Get Waves Backgroud](https://getwaves.io/) |
 | [⬆ back to top](#index) |
 
-#### Code To Image:
+## Code Sample To Image:
 | Websites |
 | --------------- |
-| [Code To Image](https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32/) |
+| [Code Sample To Image](https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32/) |
 | [⬆ back to top](#index) |
 
-## Screen Capture:
+## Capture Screen:
 | Websites |
 | --------------- |
 | [Getkap](https://getkap.co/) |
@@ -287,7 +287,7 @@ If you like it, give a ⭐ to this small project.
 | [Avatar Illustrations](https://limitlessdesigns.io/avatar-illustrations/) |
 | [⬆ back to top](#index) |
 
-## Patterns
+## Patterns:
 | Websites |
 | --------------- |
 | [Doodle](https://css-doodle.com/) |
@@ -300,13 +300,13 @@ If you like it, give a ⭐ to this small project.
 | [Doodad](https://doodad.dev/) |
 | [⬆ back to top](#index) |
 
-## QR Code generator
+## QR Code generator:
 | Websites |
 | --------------- |
 | [React](https://markodenic.com/tools/qr-code-generator/) |
 | [⬆ back to top](#index) |
 
-## Components
+## UI Components:
 | Websites |
 | --------------- |
 | [React](https://getbootstrap.com/) |
@@ -317,14 +317,14 @@ If you like it, give a ⭐ to this small project.
 | [React](https://semantic-ui.com/) |
 | [⬆ back to top](#index) |
 
-#### Buttons
+## Buttons:
 | Websites |
 | --------------- |
 | [Buttons generator](https://markodenic.com/tools/buttons-generator/?ref=producthunt) |
 | [Shiny CSS buttons](https://paulund.co.uk/how-to-create-shiny-css-buttons) |
 | [⬆ back to top](#index)|
 
-#### React.js components
+## React UI components:
 | Websites |
 | --------------- |
 | [React](https://github.com/brillout/awesome-react-components?tab=readme-ov-file/) |
@@ -356,58 +356,56 @@ If you like it, give a ⭐ to this small project.
 [React](https://www.framer.com/) |
 | [⬆ back to top](#index) |
 
-## Figma resources
+## Figma Resources:
 | Websites |
 | --------------- |
 | [React](test) |
 | [⬆ back to top](#index) |
 
-## Testing tools
-
-#### React testing library
+## Testing React Testing Library:
 | Websites |
 | --------------- |
 | [React](https://testing-library.com/docs/react-testing-library/intro/) |
 | [⬆ back to top](#index) |
 
-#### Jest
+## Testing Jest:
 | Websites |
 | --------------- |
 | [React](https://jestjs.io/) |
 | [⬆ back to top](#index) |
 
-#### End-To-End test
+## Testing End-To-End test:
 | Websites |
 | --------------- |
 | [React](https://www.cypress.io/) |
 | [⬆ back to top](#index) |
 
-## Test Driven Development
+## Testing Test Driven Development:
 | Websites |
 | --------------- |
 | [React](https://www.lambdatest.com/learning-hub/test-driven-development/) |
 | [⬆ back to top](#index) |
 
-## Clean Code
+## Clean Code:
 | Websites |
 | --------------- |
 | [React](https://github.com/dev-marko/clean-code-book/) |
 | [⬆ back to top](#index) |
 
-## Style
+## Code Styling:
 | Websites |
 | --------------- |
-| [React](https://eslint.org/) |
-| [React](https://prettier.io/) |
+| [EsLint](https://eslint.org/) |
+| [Prettier](https://prettier.io/) |
 | [⬆ back to top](#index) |
 
-## Optimization
+## Website Optimization:
 | Websites |
 | --------------- |
 | [React](https://pagespeed.web.dev/) |
 | [⬆ back to top](#index) |
 
-## Deployment
+## Deployment:
 | Websites |
 | --------------- |
 | [React](https://app.netlify.com/) |
@@ -426,7 +424,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://exercism.org/tracks/) |
 | [⬆ back to top](#index) |
 
-## Challenges
+## Coding Challenges:
 | Websites |
 | --------------- |
 | [React](https://www.codewell.cc/challenges/) |
@@ -434,7 +432,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://coderbyte.com/) |
 | [⬆ back to top](#index) |
 
-## Youtube channels
+## Youtube Channels:
 | Websites |
 | --------------- |
 | [React](https://www.youtube.com/@Codevolution/) |
@@ -448,7 +446,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.youtube.com/@Figma/) |
 | [⬆ back to top](#index) |
 
-## AI tools
+## AI tools:
 | Websites |
 | --------------- |
 | [React](https://topai.tools/) |
@@ -468,7 +466,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://runwayml.com/ai-magic-tools/) |
 | [⬆ back to top](#index) |
 
-## Resources
+## Other Good Resources:
 | Websites |
 | --------------- |
 | [React](https://codingheroes.io/resources/) |
@@ -477,33 +475,33 @@ If you like it, give a ⭐ to this small project.
 | [React](https://publicapis.dev/category/development/) |
 | [⬆ back to top](#index) |
 
-## Website clone
+## Website Cloning:
 | Websites |
 | --------------- |
 | [Website Clone](https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone/) |
 | [⬆ back to top](#index) |
 
-## Templates
+## HTML/CSS/JavaScript templates:
 | Websites |
 | --------------- |
 | [Best websites to get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/) |
 | [⬆ back to top](#index) |
 
-## Communiacation tools
+## Communiacation Tools:
 | Websites |
 | --------------- |
 | [React](https://trello.com/) |
 | [React](https://www.atlassian.com/software/jira/) |
 | [⬆ back to top](#index) |
 
-## MarkDown
+## MarkDown:
 | Websites |
 | --------------- |
 | [MarkDown](https://markdown.land/) |
 | [MarkDown Preview](https://freecodetools.org/markdown-preview/) |
 | [⬆ back to top](#index) |
 
-## CSS
+## CSS:
 | Websites |
 | --------------- |
 | [React](https://css-tricks.com/snippets/css/using-font-face-in-css/) |
@@ -514,7 +512,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://flexboxfroggy.com/) |
 | [⬆ back to top](#index) |
 
-#### CSS Animations
+#### CSS Animations:
 | Websites |
 | --------------- |
 | [React](https://keyframes.app/animate/) |
@@ -522,14 +520,14 @@ If you like it, give a ⭐ to this small project.
 | [React](https://animate.style/) |
 | [⬆ back to top](#index) |
 
-#### Flexbox
+#### CSS Flexbox:
 | Websites |
 | --------------- |
 | [React](https://flexbox.malven.co/) |
 | [React](https://loading.io/flexbox/) |
 | [⬆ back to top](#index) |
 
-#### Grid
+#### CSS Grid:
 | Websites |
 | --------------- |
 | [React](https://grid.malven.co/) |
@@ -537,19 +535,19 @@ If you like it, give a ⭐ to this small project.
 | [React](https://layoutit.com/build/) |
 | [⬆ back to top](#index) |
 
-## JS
+## JavaScript:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#index) |
 
-## TypeScript
+## TypeScript:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#index) |
 
-## React.js
+## React:
 | Websites |
 | --------------- |
 | [React](https://create-react-app.dev/) |
@@ -558,78 +556,85 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2/) |
 | [⬆ back to top](#index) |
 
-#### React Data Grid
+## React Data Grid:
 | Websites |
 | --------------- |
 | [React Data Grid](https://www.ag-grid.com/react-data-grid/getting-started/) |
 | [⬆ back to top](#index) |
 
-## React Typescript
+## React & Typescript:
 | Websites |
 | --------------- |
 | [React TypeScript tutorials YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
 | [TypeScript YT](https://www.youtube.com/watch?v=EcCTIExsqmI) |
 | [⬆ back to top](#index) |
 
-## React Native
+## React Native:
 | Websites |
 | --------------- |
 | [React Native Tutorials YT](https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1) |
 | [Expo](https://expo.dev/) |
 | [⬆ back to top](#index) |
 
-## Node.js
+## Node:
 | Websites |
 | --------------- |
 | [React](https://nodejs.org/en/download/) |
 | [⬆ back to top](#index) |
 
-## Express.js
+## Express:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#index) |
 
-## NEXT.js
+## NEXT:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#index) |
 
-## MongoDB
+## MongoDB:
 | Websites |
 | --------------- |
 | [React]() |
 | [React](https://www.mongodb.com/) |
 | [⬆ back to top](#index) |
 
-## Mongoose
+## Mongoose:
 | Websites |
 | --------------- |
 | [React](https://mongoosejs.com/) |
 | [⬆ back to top](#index) |
 
-## SQL & MySQL
+
+## SQL:
 | Websites |
 | --------------- |
-| [React](https://www.mysql.com/) |
 | [React](https://www.sqltutorial.org/) |
 | [React](https://github.com/pawelsalawa/sqlitestudio/releases/) |
 | [⬆ back to top](#index) |
 
-## NPM
+## MySQL:
+| Websites |
+| --------------- |
+| [React](https://www.mysql.com/) |
+| [React](https://github.com/pawelsalawa/sqlitestudio/releases/) |
+| [⬆ back to top](#index) |
+
+## NPM:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#index) |
 
-## API
+## APIs:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#index) |
 
-## MERN
+## MERN:
 | Websites |
 | --------------- |
 | [MERN](https://mern.js.org/) |
@@ -637,19 +642,19 @@ If you like it, give a ⭐ to this small project.
 | [MERN YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
 | [⬆ back to top](#index) |
 
-## Postman
+## Postman:
 | Websites |
 | --------------- |
 | [React](https://www.postman.com/) |
 | [⬆ back to top](#index) |
 
-## SwaggerHub
+## SwaggerHub:
 | Websites |
 | --------------- |
 | [React](https://swagger.io/tools/swaggerhub/) |
 | [⬆ back to top](#index) |
 
-## Figma
+## Figma:
 | Websites |
 | --------------- |
 | [React](https://www.youtube.com/watch?v=d0FhMca_wv0/) |
