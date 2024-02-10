@@ -5,9 +5,6 @@
 - [How To](#how-to)
 - [Can I Use](#can-i-use)
 - [Frameworks](#frameworks)
-
-
-
 - [Learning Platforms](#learning)
 - [Coding & Design Challenges](#challenges)
 
