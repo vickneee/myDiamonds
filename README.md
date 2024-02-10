@@ -441,8 +441,6 @@ https://zerotomastery.io/resources/
 https://designbro.com/blog/resources/freebie-sites-for-founders-makers/
 
 https://publicapis.dev/category/development
-
-https://github.com/markodenic/web-development-resources?tab=readme-ov-file#table-of-contents
 [⬆ back to top](#index)
 
 ## Website clone
