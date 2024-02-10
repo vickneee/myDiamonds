@@ -696,7 +696,7 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [Pandoc](https://github.com/jgm/pandoc) |
-| [Pandoc Manual.pdf]([https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s](https://pandoc.org/MANUAL.pdf)) |
+| [Pandoc Manual.pdf](https://pandoc.org/MANUAL.pdf) |
 | [⬆ back to top](#table-of-contents) |
 
 ## End of Page
