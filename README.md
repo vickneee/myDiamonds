@@ -162,7 +162,6 @@ Resources will be added from time to time! ✅
 | [Doodle](https://css-doodle.com/) |
 | [Get Waves](https://getwaves.io/) |
 | [HeroPatterns](https://www.heropatterns.com/) |
-| [Paaatterns](https://products.ls.graphics/paaatterns/index.html/) |
 | [Patternico](https://patternico.com/) |
 | [Patternizer](https://www.patternizer.com/) |
 | [PatternPad](https://www.patternpad.com/) |
