@@ -534,7 +534,6 @@ https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-
 | ---------------|
 |https://www.youtube.com/watch?v=hzzCveeczSQ&list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1|
 |https://expo.dev/|
-
 |[⬆ back to top](#index)|
 
 ## Node.js
