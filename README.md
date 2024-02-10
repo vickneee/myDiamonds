@@ -1,7 +1,7 @@
 # Development resources 💎
 
 ## Index
-- [Documentation](#documentation)
+- [Documentations](#documentations)
 - [How To](#how-to)
 - [Can I Use](#can-i-use)
 - [Frameworks](#frameworks)
@@ -9,13 +9,13 @@
 - [Coding & Design Challenges](#challenges)
 - [End](#end-of-page)
 
-## Documentation
-[W3S](https://www.w3schools.com/) 
-[Devdocs](https://devdocs.io/)
-[React Dev](https://react.dev/)        
-[Expo Dev](https://docs.expo.dev/)      
-[Python Docs](https://docs.python.org/3/index.html) 
-[MongoDB Docs]https://www.mongodb.com/docs/)
+## Documentations
+-[W3S](https://www.w3schools.com/) 
+-[Devdocs](https://devdocs.io/)
+-[React Dev](https://react.dev/)   
+-[Expo Dev](https://docs.expo.dev/)      
+-[Python Docs](https://docs.python.org/3/index.html) 
+-[MongoDB Docs]https://www.mongodb.com/docs/)
 
 ## How To
 [W3S How To](https://www.w3schools.com/howto/default.asp)
