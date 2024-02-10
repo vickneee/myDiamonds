@@ -8,6 +8,8 @@
 - [Buttons](#buttons)
 - [Learning Platforms](#learning)
 - [Coding & Design Challenges](#challenges)
+- [React Data Grid](#react-data-grid)
+- [React TypeScript](#react-typescript)
 - [React Native](#react-native)
 - [Youtube Channels](#youtube-channels)
 - [MERN](#mern)
@@ -520,21 +522,18 @@ https://legacy.reactjs.org/docs/react-component.html
 https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2
 [⬆ back to top](#index)
 
-#### React.js Data Grid
+#### React Data Grid
 | Websites|
 | ---------------|
 | [React Data Grid](https://www.ag-grid.com/react-data-grid/getting-started/) |
 | [⬆ back to top](#index) |
 
-## TypeScript + React.js
+## React Typescript
 | Websites|
 | ---------------|
+| [React TypeScript tutorials YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
 | [TypeScript YT](https://www.youtube.com/watch?v=EcCTIExsqmI) |
-| [TypeScript YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
 | [⬆ back to top](#index) |
-
-
-https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK
 
 ## React Native
 | Websites|
