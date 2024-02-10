@@ -2,7 +2,8 @@
 
 This is a small project about My Web Development resources. 📃
 
-No contributions will be accepted. If you would like to modify that list, make a fork, and feel free to make your version.
+No contributions will be accepted. 
+If you would like to modify that list, make a fork, and feel free to make your version.
 
 If you like it, give a ⭐ to this small project.
 
