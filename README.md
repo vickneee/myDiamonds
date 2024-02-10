@@ -7,6 +7,8 @@
 - [Frameworks](#frameworks)
 - [Learning Platforms](#learning)
 - [Coding & Design Challenges](#challenges)
+- [Youtube Channels](#youtube-channels)
+- [MERN](#mern)
 - [End](#end-of-page)
 
 ## Documentations
