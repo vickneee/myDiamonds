@@ -6,7 +6,7 @@ No contributions will be accepted. If you would like to modify that list, make a
 
 If you like it, give a ⭐ to this small project.
 
-**NB!** This project is still a **work in progress** stage. 
+**NB!** This project is still a **work-in-progress** stage. 
 
 ---------------------------
 
