@@ -39,10 +39,16 @@ If you like it, give a ⭐ to this small project.
 - [Dev Tools](#dev-tools)
 - [Docs](#docs)
 - [Drawio Desktop](#drawio-desktop)
+- [Express](#express)
+- [Favicon Generator](favicon-generator)
+- [Figma](#figma)
+- [Files Converters Editors](#files-converters-editors)
+- [Fonts](#fonts)
+- [Frontend Frameworks](frontend-frameworks)
+
 
 
   
-- [Frameworks](#frameworks)
 - [Learning Platforms](#learning-platforms)
 
 - [React Data Grid](#react-data-grid)
@@ -95,7 +101,6 @@ If you like it, give a ⭐ to this small project.
 ## API's:
 | Websites |
 | --------------- |
-| [Public APIs](https://public-apis.xyz/) |
 | [Public APIs](https://publicapis.io/) |
 | [⬆ back to top](#table-of-contents) |
 
@@ -316,20 +321,19 @@ If you like it, give a ⭐ to this small project.
 | [React]() |
 | [⬆ back to top](#table-of-contents) |
 
+## Favicon Generator:
+| Websites |
+| --------------- |
+| [Favicon.io](https://favicon.io/) |
+| [Real Favicon Generator](https://realfavicongenerator.net/) |
+| [⬆ back to top](#index) |
+
 ## Figma:
 | Websites |
 | --------------- |
 | [React](https://www.youtube.com/watch?v=d0FhMca_wv0/) |
 | [React](https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s) |
 | [⬆ back to top](#table-of-contents) |
-
-
-## Figma Resources:
-| Websites |
-| --------------- |
-| [React](test) |
-| [⬆ back to top](#table-of-contents) |
-
 
 ## Files Converters Editors:
 | Websites |
@@ -347,30 +351,28 @@ If you like it, give a ⭐ to this small project.
 | [React](https://ascii.co.uk/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Font Pairing Typeface Combinations:
+## Frontend Frameworks:
 | Websites |
 | --------------- |
-| [React](https://fontpairings.bypeople.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-
-## Frameworks:
-| Websites |
-| --------------- |
-|[React](https://react.dev/learn/start-a-new-react-project) |
-|[Vite](https://vitejs.dev/guide/) |
-|[Next.js](https://nextjs.org/) |
-|[Next.js Installation](https://nextjs.org/docs/getting-started/installation) |
-| [⬆ back to top](#table-of-contents) |
-
+| [Angular](https://angular.io/) |
+| [React](https://reactjs.org/) |
+| [Vue](https://vuejs.org/) |
+| [⬆ back to top](#index) |
 
 ## Git:
 | Websites |
 | --------------- |
-| [React](https://git-scm.com/) |
+| [Git](https://git-scm.com/) |
+| [GitHub](https://github.com/) |
+| [GitLab](https://about.gitlab.com/) |
+| [Bitbucket](https://bitbucket.org/) |
 | [React](https://ohshitgit.com/) |
 | [React](https://learngitbranching.js.org/) |
-| [⬆ back to top](#table-of-contents) |
+| [⬆ back to top](#index) |
+
+
+
+
 
 ## Hosting:
 | Websites |
@@ -478,7 +480,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.codecademy.com/catalog/) |
 | [React](https://exercism.org/tracks/) |
 | [⬆ back to top](#table-of-contents) |
-
 
 ## Logos:
 | Websites |
@@ -603,69 +604,72 @@ If you like it, give a ⭐ to this small project.
 | [TypeScript YT](https://www.youtube.com/watch?v=EcCTIExsqmI) |
 | [⬆ back to top](#table-of-contents) |
 
-## React UI Components:
-| Websites |
-| --------------- |
-| [React](https://github.com/brillout/awesome-react-components?tab=readme-ov-file/) |
-| [React](https://github.com/rcaferati/react-awesome-slider/) |
-| [⬆ back to top](#table-of-contents) |
-
 ## Responsive Design:
 | Websites |
 | --------------- |
-| [React](https://sizzy.co/) |
+| [Sizzy](https://sizzy.co/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Shadows:
 | Websites |
 | --------------- |
-| [React](https://keyframes.app/shadows/) |
+| [Keyframes Shadows](https://keyframes.app/shadows/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## SQL:
 | Websites |
 | --------------- |
-| [React](https://www.sqltutorial.org/) |
-| [React](https://github.com/pawelsalawa/sqlitestudio/releases/) |
+| [SQL tutorial](https://www.sqltutorial.org/) |
+| [SQLiteStudio](https://sqlitestudio.pl/) |
+| [SQLiteStudio](https://github.com/pawelsalawa/sqlitestudio/releases/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Testing - End-To-End test:
 | Websites |
 | --------------- |
-| [React](https://www.cypress.io/) |
+| [Cypress](https://www.cypress.io/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Testing - Jest:
 | Websites |
 | --------------- |
-| [React](https://jestjs.io/) |
+| [Jest](https://jestjs.io/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Testing - React Testing Library:
 | Websites |
 | --------------- |
-| [React](https://testing-library.com/docs/react-testing-library/intro/) |
+| [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Testing - Test Driven Development:
 | Websites |
 | --------------- |
-| [React](https://www.lambdatest.com/learning-hub/test-driven-development/) |
+| [Lamda Test](https://www.lambdatest.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Texts:
+## Text Placeholders:
 | Websites |
 | --------------- |
-| [React](https://loremipsum.io/generator/) |
-| [React](https://www.microcopy.me/) |
-| [React](https://www.diffchecker.com/) |
+| [Lorem Ipsum](https://loremipsum.io/generator/) |
+| [Microcopy](https://www.microcopy.me/) |
 | [⬆ back to top](#table-of-contents) |
 
-## TypeScale:
+## Text Diff Checker:
 | Websites |
 | --------------- |
+| [Diffchecker](https://www.diffchecker.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Typography:
+| Websites |
+| --------------- |
+| [Font Pair](https://fontpair.co/) |
+| [React](https://fontpairings.bypeople.com/) |
+| [Google Fonts](https://fonts.google.com/) |
+| [Typ.io](http://typ.io/) |
 | [React](https://typescale.com/?size/) |
-| [⬆ back to top](#table-of-contents) |
+| [⬆ back to top](#index) |
 
 ## TypeScript:
 | Websites |
@@ -673,15 +677,24 @@ If you like it, give a ⭐ to this small project.
 | [React]() |
 | [⬆ back to top](#table-of-contents) |
 
-## UI Components:
+## UI Kits Components:
 | Websites |
 | --------------- |
-| [React](https://getbootstrap.com/) |
-| [React](https://tailwindcss.com/) |
-| [React](https://mui.com/material-ui/) |
-| [React](https://uiverse.io/) |
-| [React](https://www.tilebit.io/) |
-| [React](https://semantic-ui.com/) |
+| [Bootswatch](https://bootswatch.com/) |
+| [Get Bootstrap](https://getbootstrap.com/) |
+| [Material UI](https://mui.com/material-ui/) |
+| [Materialize](https://materializecss.com/) |
+| [Material Design Lite](https://getmdl.io/) |
+| [PrimeReact](https://primefaces.org/primereact/) |
+| [React Bootstrap](https://react-bootstrap.github.io/) |
+| [React Toolbox](http://react-toolbox.io/) |
+| [Awesome React Components](https://github.com/brillout/awesome-react-components?tab=readme-ov-file/) |
+| [React Awesome Slider](https://github.com/rcaferati/react-awesome-slider/) |
+| [Semantic UI](https://semantic-ui.com/) |
+| [Tailwinds CSS](https://tailwindcss.com/) |
+| [Tilebit](https://www.tilebit.io/) |
+| [UIkit](https://getuikit.com/) |
+| [Universe](https://uiverse.io/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Videos:
@@ -695,6 +708,12 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [React](https://pythontutor.com/visualize.html#mode=edit/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Vite:
+| Websites |
+| --------------- |
+|[Vite.js](https://vitejs.dev/guide/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Web Design Tools:
