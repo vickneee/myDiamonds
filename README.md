@@ -292,7 +292,7 @@ If you like it, give a ⭐ to this small project.
 | [Foundation](https://get.foundation/) |
 | [Materialize](https://materializecss.com/) |
 | [Tailwind CSS](https://tailwindcss.com/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## CSS Flexbox:
 | Websites |
@@ -327,7 +327,7 @@ If you like it, give a ⭐ to this small project.
 | [CSS Design Patterns](https://css-tricks.com/) |
 | [Design Patterns](https://refactoring.guru/design-patterns) |
 | [JavaScript Design Patterns](https://www.tutorialspoint.com/design_pattern/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Dev Tools:
 | Websites |
@@ -338,7 +338,7 @@ If you like it, give a ⭐ to this small project.
 | [GitHub](https://github.com/) |
 | [Stack Overflow](https://stackoverflow.com/) |
 | [W3Schools](https://www.w3schools.com/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Docs:
 | Websites |
@@ -354,18 +354,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://github.com/jgraph/drawio-desktop/releases/tag/v20.8.10) |
 | [⬆ back to top](#table-of-contents) |
 
-Express
-Favicon Generator
-Figma
-Files Converters Editors
-Fonts
-Frontend Frameworks
-Git
-Hosting
-How To
-How To Clone a Website
-
-
 ## Express:
 | Websites |
 | --------------- |
@@ -377,7 +365,7 @@ How To Clone a Website
 | --------------- |
 | [Favicon.io](https://favicon.io/) |
 | [Real Favicon Generator](https://realfavicongenerator.net/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Figma:
 | Websites |
@@ -408,7 +396,7 @@ How To Clone a Website
 | [Angular](https://angular.io/) |
 | [React](https://reactjs.org/) |
 | [Vue](https://vuejs.org/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Git:
 | Websites |
@@ -419,7 +407,7 @@ How To Clone a Website
 | [GitLab](https://about.gitlab.com/) |
 | [Learn Git Branching](https://learngitbranching.js.org/) |
 | [Oh Shit. Git?!?](https://ohshitgit.com/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Hosting:
 | Websites |
@@ -442,10 +430,6 @@ How To Clone a Website
 | --------------- |
 | [How To Clone a Website](https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone/) |
 | [⬆ back to top](#table-of-contents) |
-
-
-
-
 
 ## Icons:
 | Websites |
@@ -470,7 +454,7 @@ How To Clone a Website
 | [Oldbookillustrations](https://www.oldbookillustrations.com/artists/potter-beatrix/) |
 | [Opensticers](https://openstickers.craftwork.design/) |
 | [Undraw](https://undraw.co/illustrations/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Image Resizer:
 | Websites |
@@ -518,7 +502,7 @@ How To Clone a Website
 | --------------- |
 | [Cloudinary](https://cloudinary.com/) |
 | [Imgix](https://www.imgix.com/) |
-| [⬆ back to top](#index) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Image Sources:
 | Websites |
