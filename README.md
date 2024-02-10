@@ -4,11 +4,14 @@
 - [Documentation](#documentation)
 - [How To](#how-to)
 - [Can I Use](#can-i-use)
-- [Learning Platforms](#learning-platforms)
-- [Coding Challenge Platforms](#coding-challenge-platforms)
 - [Frameworks](#frameworks)
-- [Remote Jobs](#remote-jobs)
-- 
+
+
+
+- [Learning Platforms](#learning)
+- [Coding & Design Challenges](#challenges)
+
+
 ## Documentation
 [W3S](https://www.w3schools.com/)      
 [React](https://react.dev/)        
