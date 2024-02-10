@@ -150,7 +150,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://keyframes.app/colors/) |
 | [⬆ back to top](#index) |
 
-## Shadows
+## Shadows:
 | Websites |
 | --------------- |
 | [React](https://keyframes.app/shadows/) |
@@ -324,32 +324,32 @@ If you like it, give a ⭐ to this small project.
 | [Shiny CSS buttons](https://paulund.co.uk/how-to-create-shiny-css-buttons) |
 | [⬆ back to top](#index)|
 
-## React UI components:
+## React UI Components:
 | Websites |
 | --------------- |
 | [React](https://github.com/brillout/awesome-react-components?tab=readme-ov-file/) |
 | [React](https://github.com/rcaferati/react-awesome-slider/) |
 | [⬆ back to top](#index) |
 
-## Bugs
+## Bugs:
 | Websites |
 | --------------- |
 | [React](https://jam.dev/) |
 | [⬆ back to top](#index) |
 
-## Visualize code
+## Visualize Code:
 | Websites |
 | --------------- |
 | [React](https://pythontutor.com/visualize.html#mode=edit/) |
 | [⬆ back to top](#index) |
 
-## Responsive design
+## Responsive Design:
 | Websites |
 | --------------- |
 | [React](https://sizzy.co/) |
 | [⬆ back to top](#index) |
 
-## Web Design Tools
+## Web Design Tools:
 | Websites |
 | --------------- |
 [React](https://www.figma.com/) |
@@ -362,25 +362,25 @@ If you like it, give a ⭐ to this small project.
 | [React](test) |
 | [⬆ back to top](#index) |
 
-## Testing React Testing Library:
+## Testing - React Testing Library:
 | Websites |
 | --------------- |
 | [React](https://testing-library.com/docs/react-testing-library/intro/) |
 | [⬆ back to top](#index) |
 
-## Testing Jest:
+## Testing - Jest:
 | Websites |
 | --------------- |
 | [React](https://jestjs.io/) |
 | [⬆ back to top](#index) |
 
-## Testing End-To-End test:
+## Testing - End-To-End test:
 | Websites |
 | --------------- |
 | [React](https://www.cypress.io/) |
 | [⬆ back to top](#index) |
 
-## Testing Test Driven Development:
+## Testing - Test Driven Development:
 | Websites |
 | --------------- |
 | [React](https://www.lambdatest.com/learning-hub/test-driven-development/) |
@@ -446,7 +446,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.youtube.com/@Figma/) |
 | [⬆ back to top](#index) |
 
-## AI tools:
+## AI Tools:
 | Websites |
 | --------------- |
 | [React](https://topai.tools/) |
@@ -481,7 +481,7 @@ If you like it, give a ⭐ to this small project.
 | [Website Clone](https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone/) |
 | [⬆ back to top](#index) |
 
-## HTML/CSS/JavaScript templates:
+## HTML/CSS/JavaScript Templates:
 | Websites |
 | --------------- |
 | [Best websites to get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/) |
@@ -494,7 +494,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.atlassian.com/software/jira/) |
 | [⬆ back to top](#index) |
 
-## MarkDown:
+## Markdown:
 | Websites |
 | --------------- |
 | [MarkDown](https://markdown.land/) |
@@ -512,7 +512,7 @@ If you like it, give a ⭐ to this small project.
 | [React](https://flexboxfroggy.com/) |
 | [⬆ back to top](#index) |
 
-#### CSS Animations:
+## Animations:
 | Websites |
 | --------------- |
 | [React](https://keyframes.app/animate/) |
@@ -520,14 +520,14 @@ If you like it, give a ⭐ to this small project.
 | [React](https://animate.style/) |
 | [⬆ back to top](#index) |
 
-#### CSS Flexbox:
+## CSS Flexbox:
 | Websites |
 | --------------- |
 | [React](https://flexbox.malven.co/) |
 | [React](https://loading.io/flexbox/) |
 | [⬆ back to top](#index) |
 
-#### CSS Grid:
+## CSS Grid:
 | Websites |
 | --------------- |
 | [React](https://grid.malven.co/) |
@@ -562,7 +562,7 @@ If you like it, give a ⭐ to this small project.
 | [React Data Grid](https://www.ag-grid.com/react-data-grid/getting-started/) |
 | [⬆ back to top](#index) |
 
-## React & Typescript:
+## React Typescript:
 | Websites |
 | --------------- |
 | [React TypeScript tutorials YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
@@ -606,7 +606,6 @@ If you like it, give a ⭐ to this small project.
 | --------------- |
 | [React](https://mongoosejs.com/) |
 | [⬆ back to top](#index) |
-
 
 ## SQL:
 | Websites |
