@@ -505,7 +505,7 @@ If you like it, give a ⭐ to this small project.
 
 ## End of Page
 
-Created with ❤️‍🔥 by Victoria
+Made with ❤ by Victoria
 
 [awesome-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
 
