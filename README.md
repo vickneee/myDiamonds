@@ -9,7 +9,6 @@
 - [Coding & Design Challenges](#challenges)
 - [End](#end-of-page)
 
-
 ## Documentation
 [W3S](https://www.w3schools.com/)      
 [React](https://react.dev/)        
