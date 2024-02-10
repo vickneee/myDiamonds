@@ -1,4 +1,4 @@
-# Development resources 🤫 ![Awesome][awesome-badge]
+# Development resources 🤫 [Awesome][awesome-badge]
 
 ## Index
 - [Documentation](#documentation)
