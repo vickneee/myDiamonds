@@ -689,7 +689,13 @@ If you like it, give a ⭐ to this small project.
 | Websites |
 | --------------- |
 | [React](https://www.youtube.com/watch?v=d0FhMca_wv0/) |
-| [React](https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s)) |
+| [React](https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s) |
+| [⬆ back to top](#index) |
+
+## Pandoc The Universal Markup Converter
+| --------------- |
+| [Pandoc](https://github.com/jgm/pandoc) |
+| [Pandoc Manual.pdf]([https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s](https://pandoc.org/MANUAL.pdf)) |
 | [⬆ back to top](#index) |
 
 ## End of Page
