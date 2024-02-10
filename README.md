@@ -11,12 +11,14 @@ If you like it, give a ⭐ to this small project.
 ---------------------------
 
 ## Table of Contents
+- [AI Tools](#ai-tools)
 - [Animations](#animations)
 - [API Testing](#api-testing)
 - [API's](#apis)
 - [Avatars](#avatars)
 - [Backgrounds](#backgrounds)
 - [Background Remover](#background-remover)
+- [Bug report](#bug-report)
 - [Buttons](#buttons)
 - [Can I Use](#can-i-use)
 - [Capture Your Screen](#capture-your-screen)
@@ -24,6 +26,7 @@ If you like it, give a ⭐ to this small project.
 - [Cheat Sheets](#cheat-sheets)
 - [Code Editors](#code-editors)
 - [Code Editors Online](#code-editors-online)
+- [Code Styling](#code-styling)
 - [Coding Challenges](#coding-challenges)
 - [Color Pickers](#color-pickers)
 - [Code Sample To Image](#code-samle-to-image)
@@ -31,12 +34,15 @@ If you like it, give a ⭐ to this small project.
 - [CSS Frameworks](#css-frameworks)
 - [CSS Flexbox](#css-flexbox)
 - [CSS Grid](#css-grid)
+- [Design Inspiration](design-inspiration)
+- [Design Patterns](#design-patterns)
+- [Dev Tools](#dev-tools)
 - [Docs](#docs)
 - [Drawio Desktop](#drawio-desktop)
 
+
   
 - [Frameworks](#frameworks)
-- [Buttons](#buttons)
 - [Learning Platforms](#learning-platforms)
 
 - [React Data Grid](#react-data-grid)
@@ -45,6 +51,26 @@ If you like it, give a ⭐ to this small project.
 - [Youtube Channels](#youtube-channels)
 - [MERN](#mern)
 - [End](#end-of-page)
+
+## AI Tools:
+| Websites |
+| --------------- |
+| [React](https://topai.tools/) |
+| [React](https://chat.openai.com/) |
+| [React](https://tinywow.com/) |
+| [React](https://pi.ai/onboarding/) |
+| [React](https://www.sincode.ai/) |
+| [React](https://app.durable.co/website-builder/) |
+| [React](https://ai.feathery.io/) |
+| [React](https://www.blackbox.ai/) |
+| [React](https://www.fotor.com/images/create/) |
+| [React](https://undetectable.ai/) |
+| [React](https://www.framer.com/features/ai/) |
+| [React](https://jenni.ai/) |
+| [React](https://otter.ai/) |
+| [React](https://www.studyfetch.com/) |
+| [React](https://runwayml.com/ai-magic-tools/) |
+| [⬆ back to top](#table-of-contents) |
 
 ## Animation:
 | Websites |
@@ -88,7 +114,14 @@ If you like it, give a ⭐ to this small project.
 | [PatternPad](https://www.patternpad.com/) |
 | [PatternTaco](https://www.patterntaco.com/) |
 | [SVG Backgrounds](https://www.svgbackgrounds.com/) |
-| [Get Waves Backgroud](https://getwaves.io/) |
+| [BackgroundGenerator](https://background-generator.com/) |
+| [Doodle](https://css-doodle.com/) |
+| [Superdesigner](https://superdesigner.co/) |
+| [Bgjar](https://bgjar.com/) |
+| [Bansal Pattern CSS](https://bansal.io/pattern-css/) |
+| [Paaatterns](https://products.ls.graphics/paaatterns/index.html/) |
+| [Doodad](https://doodad.dev/) |
+| [Get Waves](https://getwaves.io/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Background Remover:
@@ -97,6 +130,12 @@ If you like it, give a ⭐ to this small project.
 | [Remove BG](https://www.remove.bg/) |
 | [Remove BG Developers](https://www.remove.bg/g/developers/) |
 | [Erase BG](https://www.erase.bg/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Bug Report:
+| Websites |
+| --------------- |
+| [React](https://jam.dev/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Buttons:
@@ -152,6 +191,13 @@ If you like it, give a ⭐ to this small project.
 | [React](https://codeanywhere.com/) |
 | [React](https://www.w3schools.com/tryit/) |
 | [React](https://html-css-js.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Code Styling:
+| Websites |
+| --------------- |
+| [EsLint](https://eslint.org/) |
+| [Prettier](https://prettier.io/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Coding Challenges:
@@ -216,11 +262,40 @@ If you like it, give a ⭐ to this small project.
 | [Layoutit](https://layoutit.com/build/) |
 | [⬆ back to top](#table-of-contents) |
 
+## Design Inspiration:
+| Websites |
+| --------------- |
+| [Awwwards](https://www.awwwards.com/) |
+| [Behance](https://www.behance.net/) |
+| [Dribbble](https://dribbble.com/) |
+| [Land-book](https://land-book.com/) |
+| [UI Movement](https://uimovement.com/) |
+| [Best websites to get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Design Patterns:
+| Websites |
+| --------------- |
+| [CSS Design Patterns](https://css-tricks.com/) |
+| [Design Patterns](https://refactoring.guru/design-patterns) |
+| [JavaScript Design Patterns](https://www.tutorialspoint.com/design_pattern/) |
+| [⬆ back to top](#index) |
+
+## Dev Tools:
+| Websites |
+| --------------- |
+| [W3Schools](https://www.w3schools.com/) |
+| [Devdocs](https://devdocs.io/) |
+| [Can I Use](https://caniuse.com/) |
+| [CodeSandbox](https://codesandbox.io/) |
+| [GitHub](https://github.com/) |
+| [Stack Overflow](https://stackoverflow.com/) |
+| [W3Schools](https://www.w3schools.com/) |
+| [⬆ back to top](#index) |
+
 ## Docs:
 | Websites |
 | --------------- |
-|[W3S](https://www.w3schools.com/) |
-|[Devdocs](https://devdocs.io/) |
 |[React Dev](https://react.dev/) |   
 |[Expo Dev](https://docs.expo.dev/) |
 |[Python Docs](https://docs.python.org/3/index.html) |
@@ -235,11 +310,49 @@ If you like it, give a ⭐ to this small project.
 
 
 
-## How To:
+## Express:
 | Websites |
 | --------------- |
-| [W3S How To](https://www.w3schools.com/howto/default.asp) |
+| [React]() |
 | [⬆ back to top](#table-of-contents) |
+
+## Figma:
+| Websites |
+| --------------- |
+| [React](https://www.youtube.com/watch?v=d0FhMca_wv0/) |
+| [React](https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## Figma Resources:
+| Websites |
+| --------------- |
+| [React](test) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## Files Converters Editors:
+| Websites |
+| --------------- |
+| [Convertio](https://convertio.co/) |
+| [Pdfpie Pdf Editor](https://pdfpie.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Fonts:
+| Websites |
+| --------------- |
+| [React](https://fonts.google.com/) |
+| [React](https://cdnjs.com/libraries/font-awesome/6.5.1/) |
+| [React](https://fontjoy.com/) |
+| [React](https://ascii.co.uk/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Font Pairing Typeface Combinations:
+| Websites |
+| --------------- |
+| [React](https://fontpairings.bypeople.com/) |
+| [⬆ back to top](#table-of-contents) |
+
 
 ## Frameworks:
 | Websites |
@@ -259,55 +372,37 @@ If you like it, give a ⭐ to this small project.
 | [React](https://learngitbranching.js.org/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Files:
+## Hosting:
 | Websites |
 | --------------- |
-| [React](https://convertio.co/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Pdf Editors:
-| Websites |
-| --------------- |
-| [React](https://pdfpie.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Texts:
-| Websites |
-| --------------- |
-| [React](https://loremipsum.io/generator/) |
-| [React](https://www.microcopy.me/) |
-| [React](https://www.diffchecker.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Fonts:
-| Websites |
-| --------------- |
-| [React](https://fonts.google.com/) |
-| [React](https://cdnjs.com/libraries/font-awesome/6.5.1/) |
-| [React](https://fontjoy.com/) |
-| [React](https://ascii.co.uk/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Font Pairing Typeface Combinations:
-| Websites |
-| --------------- |
-| [React](https://fontpairings.bypeople.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-## TypeScale:
-| Websites |
-| --------------- |
-| [React](https://typescale.com/?size/) |
+| [React](https://app.netlify.com/) |
+| [React](https://render.com/) |
+| [React](https://vercel.com/) |
+| [React](https://walpuri.vercel.app/) |
 | [⬆ back to top](#table-of-contents) |
 
 
-## Shadows:
+## How To:
 | Websites |
 | --------------- |
-| [React](https://keyframes.app/shadows/) |
+| [W3S How To](https://www.w3schools.com/howto/default.asp) |
 | [⬆ back to top](#table-of-contents) |
 
-## Photos:
+## How To Clone a Website:
+| Websites |
+| --------------- |
+| [How To Clone a Website](https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## Icons:
+| Websites |
+| --------------- |
+| [React Icons](https://react-icons.github.io/react-icons/) |
+| [Delesign Icons](https://delesign.com/free-designs/graphics/icon/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Images:
 | Websites |
 | --------------- |
 | [React](https://www.pexels.com/) |
@@ -322,12 +417,6 @@ If you like it, give a ⭐ to this small project.
 | [React](https://icons8.com/illustrations/) |
 | [React](https://undraw.co/illustrations/) |
 | [React](https://www.oldbookillustrations.com/artists/potter-beatrix/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Edit Photos:
-| Websites |
-| --------------- |
-| [React](https://www.photoroom.com/tools/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Image Resizer:
@@ -358,15 +447,14 @@ If you like it, give a ⭐ to this small project.
 | [React](https://www.shrink.media/) |
 | [⬆ back to top](#table-of-contents) |
 
-
-
-## Photo Editors Online:
+## Image Editors Online:
 | Websites |
 | --------------- |
 | [Pixlr](https://pixlr.com/) |
+| [Photoroom](https://www.photoroom.com/tools/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Photo Generator Online:
+## Image Generator Online:
 | Websites |
 | --------------- |
 | [Image Generator Pixlr](https://pixlr.com/image-generator/) |
@@ -375,170 +463,10 @@ If you like it, give a ⭐ to this small project.
 | [Text To Image](https://prompthero.com/ai-models/text-to-image/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Profile Picture Maker:
-| Websites |
-| --------------- |
-| [Pfpmaker](https://pfpmaker.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-
-## Code Sample To Image:
-| Websites |
-| --------------- |
-| [Code Sample To Image](https://ray.so/#darkMode=false&background=true&theme=raindrop&language=javascript&padding=32/) |
-| [⬆ back to top](#table-of-contents) |
-
-
-
-## Videos:
-| Websites |
-| --------------- |
-| [Pexels Videos](https://www.pexels.com/videos/) |
-| [Coverr Videos](https://coverr.co/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Music:
-| Websites |
-| --------------- |
-| [Mixkit Free Sound Effects](https://mixkit.co/free-sound-effects/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Icons:
-| Websites |
-| --------------- |
-| [React Icons](https://react-icons.github.io/react-icons/) |
-| [Delesign Icons](https://delesign.com/free-designs/graphics/icon/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Logos:
+## JavaScript:
 | Websites |
 | --------------- |
 | [React]() |
-| [React]() |
-| [⬆ back to top](#table-of-contents) |
-
-
-
-## Patterns:
-| Websites |
-| --------------- |
-| [Doodle](https://css-doodle.com/) |
-| [Superdesigner](https://superdesigner.co/) |
-| [Bgjar](https://bgjar.com/) |
-| [Bansal Pattern CSS](https://bansal.io/pattern-css/) |
-| [BackgroundGenerator](https://background-generator.com/) |
-| [Patternpad](https://patternpad.com/editor.html/) |
-| [Paaatterns](https://products.ls.graphics/paaatterns/index.html/) |
-| [Doodad](https://doodad.dev/) |
-| [⬆ back to top](#table-of-contents) |
-
-## QR Code Generator:
-| Websites |
-| --------------- |
-| [React](https://markodenic.com/tools/qr-code-generator/) |
-| [⬆ back to top](#table-of-contents) |
-
-## UI Components:
-| Websites |
-| --------------- |
-| [React](https://getbootstrap.com/) |
-| [React](https://tailwindcss.com/) |
-| [React](https://mui.com/material-ui/) |
-| [React](https://uiverse.io/) |
-| [React](https://www.tilebit.io/) |
-| [React](https://semantic-ui.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-
-
-## React UI Components:
-| Websites |
-| --------------- |
-| [React](https://github.com/brillout/awesome-react-components?tab=readme-ov-file/) |
-| [React](https://github.com/rcaferati/react-awesome-slider/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Bugs:
-| Websites |
-| --------------- |
-| [React](https://jam.dev/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Visualize Code:
-| Websites |
-| --------------- |
-| [React](https://pythontutor.com/visualize.html#mode=edit/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Responsive Design:
-| Websites |
-| --------------- |
-| [React](https://sizzy.co/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Web Design Tools:
-| Websites |
-| --------------- |
-[React](https://www.figma.com/) |
-[React](https://www.framer.com/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Figma Resources:
-| Websites |
-| --------------- |
-| [React](test) |
-| [⬆ back to top](#table-of-contents) |
-
-## Testing - React Testing Library:
-| Websites |
-| --------------- |
-| [React](https://testing-library.com/docs/react-testing-library/intro/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Testing - Jest:
-| Websites |
-| --------------- |
-| [React](https://jestjs.io/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Testing - End-To-End test:
-| Websites |
-| --------------- |
-| [React](https://www.cypress.io/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Testing - Test Driven Development:
-| Websites |
-| --------------- |
-| [React](https://www.lambdatest.com/learning-hub/test-driven-development/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Clean Code:
-| Websites |
-| --------------- |
-| [React](https://github.com/dev-marko/clean-code-book/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Code Styling:
-| Websites |
-| --------------- |
-| [EsLint](https://eslint.org/) |
-| [Prettier](https://prettier.io/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Website Optimization:
-| Websites |
-| --------------- |
-| [React](https://pagespeed.web.dev/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Deployment:
-| Websites |
-| --------------- |
-| [React](https://app.netlify.com/) |
-| [React](https://render.com/) |
-| [React](https://vercel.com/) |
-| [React](https://walpuri.vercel.app/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Learning Platforms:
@@ -552,39 +480,34 @@ If you like it, give a ⭐ to this small project.
 | [⬆ back to top](#table-of-contents) |
 
 
-## Youtube Channels:
+## Logos:
 | Websites |
 | --------------- |
-| [React](https://www.youtube.com/@Codevolution/) |
-| [React](https://www.youtube.com/@WebDevSimplified/) |
-| [React](https://www.youtube.com/@DaveGrayTeachesCode/) |
-| [React](https://www.youtube.com/@codewithyousaf/) |
-| [React](https://www.youtube.com/@PedroTechnologies/) |
-| [React](https://www.youtube.com/@codewithantonio/) |
-| [React](https://www.youtube.com/@FluxAcademy/) |
-| [React](https://www.youtube.com/@ZeroToMastery/) |
-| [React](https://www.youtube.com/@Figma/) |
+| [React]() |
+| [React]() |
 | [⬆ back to top](#table-of-contents) |
 
-## AI Tools:
+## Markdown:
 | Websites |
 | --------------- |
-| [React](https://topai.tools/) |
-| [React](https://chat.openai.com/) |
-| [React](https://tinywow.com/) |
-| [React](https://pi.ai/onboarding/) |
-| [React](https://www.sincode.ai/) |
-| [React](https://app.durable.co/website-builder/) |
-| [React](https://ai.feathery.io/) |
-| [React](https://www.blackbox.ai/) |
-| [React](https://www.fotor.com/images/create/) |
-| [React](https://undetectable.ai/) |
-| [React](https://www.framer.com/features/ai/) |
-| [React](https://jenni.ai/) |
-| [React](https://otter.ai/) |
-| [React](https://www.studyfetch.com/) |
-| [React](https://runwayml.com/ai-magic-tools/) |
+| [MarkDown](https://markdown.land/) |
+| [MarkDown Preview](https://freecodetools.org/markdown-preview/) |
 | [⬆ back to top](#table-of-contents) |
+
+## MERN:
+| Websites |
+| --------------- |
+| [MERN](https://mern.js.org/) |
+| [MERN YT](https://www.youtube.com/watch?v=ZVyIIyZJutM&t=2s) |
+| [MERN YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
+| [⬆ back to top](#table-of-contents) |
+
+## Music:
+| Websites |
+| --------------- |
+| [Mixkit Free Sound Effects](https://mixkit.co/free-sound-effects/) |
+| [⬆ back to top](#table-of-contents) |
+
 
 ## Other Good Resources:
 | Websites |
@@ -595,42 +518,24 @@ If you like it, give a ⭐ to this small project.
 | [React](https://publicapis.dev/category/development/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Website Cloning:
+## Pandoc The Universal Markup Converter
 | Websites |
 | --------------- |
-| [Website Clone](https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&utm_medium=organic-social&utm_content=li_05_23_23_website_clone/) |
+| [Pandoc](https://github.com/jgm/pandoc) |
+| [Pandoc Manual.pdf](https://pandoc.org/MANUAL.pdf) |
 | [⬆ back to top](#table-of-contents) |
 
-## HTML/CSS/JavaScript Templates:
+
+## Profile Picture Maker:
 | Websites |
 | --------------- |
-| [Best websites to get HTML/CSS Templates](https://markodenic.com/best-websites-to-get-html-css-templates/) |
+| [Pfpmaker](https://pfpmaker.com/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Communiacation Tools:
+## QR Code Generator:
 | Websites |
 | --------------- |
-| [React](https://trello.com/) |
-| [React](https://www.atlassian.com/software/jira/) |
-| [⬆ back to top](#table-of-contents) |
-
-## Markdown:
-| Websites |
-| --------------- |
-| [MarkDown](https://markdown.land/) |
-| [MarkDown Preview](https://freecodetools.org/markdown-preview/) |
-| [⬆ back to top](#table-of-contents) |
-
-## JavaScript:
-| Websites |
-| --------------- |
-| [React]() |
-| [⬆ back to top](#table-of-contents) |
-
-## TypeScript:
-| Websites |
-| --------------- |
-| [React]() |
+| [React](https://markodenic.com/tools/qr-code-generator/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## React:
@@ -648,13 +553,6 @@ If you like it, give a ⭐ to this small project.
 | [React Data Grid](https://www.ag-grid.com/react-data-grid/getting-started/) |
 | [⬆ back to top](#table-of-contents) |
 
-## React Typescript:
-| Websites |
-| --------------- |
-| [React TypeScript tutorials YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
-| [TypeScript YT](https://www.youtube.com/watch?v=EcCTIExsqmI) |
-| [⬆ back to top](#table-of-contents) |
-
 ## React Native:
 | Websites |
 | --------------- |
@@ -662,19 +560,171 @@ If you like it, give a ⭐ to this small project.
 | [Expo](https://expo.dev/) |
 | [⬆ back to top](#table-of-contents) |
 
-## Node:
+## React Typescript:
 | Websites |
 | --------------- |
-| [React](https://nodejs.org/en/download/) |
+| [React TypeScript tutorials YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
+| [TypeScript YT](https://www.youtube.com/watch?v=EcCTIExsqmI) |
 | [⬆ back to top](#table-of-contents) |
 
-## Express:
+## React UI Components:
+| Websites |
+| --------------- |
+| [React](https://github.com/brillout/awesome-react-components?tab=readme-ov-file/) |
+| [React](https://github.com/rcaferati/react-awesome-slider/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Responsive Design:
+| Websites |
+| --------------- |
+| [React](https://sizzy.co/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## Shadows:
+| Websites |
+| --------------- |
+| [React](https://keyframes.app/shadows/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## Testing - End-To-End test:
+| Websites |
+| --------------- |
+| [React](https://www.cypress.io/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Testing - Jest:
+| Websites |
+| --------------- |
+| [React](https://jestjs.io/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Testing - React Testing Library:
+| Websites |
+| --------------- |
+| [React](https://testing-library.com/docs/react-testing-library/intro/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Testing - Test Driven Development:
+| Websites |
+| --------------- |
+| [React](https://www.lambdatest.com/learning-hub/test-driven-development/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Texts:
+| Websites |
+| --------------- |
+| [React](https://loremipsum.io/generator/) |
+| [React](https://www.microcopy.me/) |
+| [React](https://www.diffchecker.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## TypeScale:
+| Websites |
+| --------------- |
+| [React](https://typescale.com/?size/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## TypeScript:
 | Websites |
 | --------------- |
 | [React]() |
 | [⬆ back to top](#table-of-contents) |
 
-## NEXT:
+
+## UI Components:
+| Websites |
+| --------------- |
+| [React](https://getbootstrap.com/) |
+| [React](https://tailwindcss.com/) |
+| [React](https://mui.com/material-ui/) |
+| [React](https://uiverse.io/) |
+| [React](https://www.tilebit.io/) |
+| [React](https://semantic-ui.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## Videos:
+| Websites |
+| --------------- |
+| [Pexels Videos](https://www.pexels.com/videos/) |
+| [Coverr Videos](https://coverr.co/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+## Visualize Code:
+| Websites |
+| --------------- |
+| [React](https://pythontutor.com/visualize.html#mode=edit/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+
+## Web Design Tools:
+| Websites |
+| --------------- |
+[React](https://www.figma.com/) |
+[React](https://www.framer.com/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Website Optimization:
+| Websites |
+| --------------- |
+| [React](https://pagespeed.web.dev/) |
+| [⬆ back to top](#table-of-contents) |
+
+## Youtube Channels:
+| Websites |
+| --------------- |
+| [React](https://www.youtube.com/@Codevolution/) |
+| [React](https://www.youtube.com/@WebDevSimplified/) |
+| [React](https://www.youtube.com/@DaveGrayTeachesCode/) |
+| [React](https://www.youtube.com/@codewithyousaf/) |
+| [React](https://www.youtube.com/@PedroTechnologies/) |
+| [React](https://www.youtube.com/@codewithantonio/) |
+| [React](https://www.youtube.com/@FluxAcademy/) |
+| [React](https://www.youtube.com/@ZeroToMastery/) |
+| [React](https://www.youtube.com/@Figma/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Node.js:
+| Websites |
+| --------------- |
+| [React](https://nodejs.org/en/download/) |
+| [⬆ back to top](#table-of-contents) |
+
+
+
+## Next.js:
 | Websites |
 | --------------- |
 | [React]() |
@@ -713,33 +763,12 @@ If you like it, give a ⭐ to this small project.
 | [React]() |
 | [⬆ back to top](#table-of-contents) |
 
-## APIs:
-| Websites |
-| --------------- |
-| [React]() |
-| [⬆ back to top](#table-of-contents) |
 
-## MERN:
-| Websites |
-| --------------- |
-| [MERN](https://mern.js.org/) |
-| [MERN YT](https://www.youtube.com/watch?v=ZVyIIyZJutM&t=2s) |
-| [MERN YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
-| [⬆ back to top](#table-of-contents) |
 
-## Figma:
-| Websites |
-| --------------- |
-| [React](https://www.youtube.com/watch?v=d0FhMca_wv0/) |
-| [React](https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s) |
-| [⬆ back to top](#table-of-contents) |
 
-## Pandoc The Universal Markup Converter
-| Websites |
-| --------------- |
-| [Pandoc](https://github.com/jgm/pandoc) |
-| [Pandoc Manual.pdf](https://pandoc.org/MANUAL.pdf) |
-| [⬆ back to top](#table-of-contents) |
+
+
+
 
 ## End of Page
 
