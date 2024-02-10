@@ -501,4 +501,4 @@ https://www.youtube.com/watch?v=HZuk6Wkx_Eg&t=64s
 
 [⬆ back to top](#documentation)
 
-[awesome-badge]: (http://ForTheBadge.com/images/badges/built-with-love.svg)http://ForTheBadge.com/images/badges/built-with-love.svg
+[awesome-badge]: http://ForTheBadge.com/images/badges/built-with-love.svg
