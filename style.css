@@ -16,7 +16,7 @@ body {
 
 .footer {
     display: flex;
-    flex-direction: row-reverse;
+    flex-direction: row;
     align-items: center;
     justify-content: space-between;
     height: 50px;
