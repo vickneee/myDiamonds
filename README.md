@@ -838,6 +838,6 @@ Resources will be added from time to time! ✅
 | [ZeroToMastery](https://www.youtube.com/@ZeroToMastery/) |
 | [⬆ back to top](#table-of-contents) |
 
-## End of Page [⬆ back to top](#table-of-contents)
+## End of Page [⬆ Back to Top](#table-of-contents)
 
 Made with ❤ by Victoria
