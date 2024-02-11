@@ -663,7 +663,7 @@ Resources will be added from time to time! ✅
 | --------------- |
 | [Create React App](https://create-react-app.dev/) |
 | [React Dev](https://react.dev/learn/) |
-| [React YT](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2/) |
+| [React Tutorials YT](https://www.youtube.com/watch?v=QFaFIcGhPoM&list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3&index=2/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## React Data Grid:
@@ -682,7 +682,7 @@ Resources will be added from time to time! ✅
 ## React Typescript:
 | Websites |
 | --------------- |
-| [React TypeScript tutorials YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
+| [React TypeScript Tutorials YT](https://www.youtube.com/watch?v=TiSGujM22OI&list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK) |
 | [TypeScript YT](https://www.youtube.com/watch?v=EcCTIExsqmI) |
 | [⬆ back to top](#table-of-contents) |
 
@@ -696,7 +696,6 @@ Resources will be added from time to time! ✅
 ## Responsive Design:
 | Websites |
 | --------------- |
-| [MediaQueries](https://mediaqueri.es/) |
 | [Responsive Design](https://responsivedesign.is/) |
 | [Sizzy](https://sizzy.co/) |
 | [⬆ back to top](#table-of-contents) |
@@ -828,8 +827,8 @@ Resources will be added from time to time! ✅
 | Websites |
 | --------------- |
 | [Codevolution](https://www.youtube.com/@Codevolution/) |
-| [codewithantonio](https://www.youtube.com/@codewithantonio/) |
-| [codewithyousaf](https://www.youtube.com/@codewithyousaf/) |
+| [codewithantonio](https://www.youtube.com/@Codewithantonio/) |
+| [codewithyousaf](https://www.youtube.com/@Codewithyousaf/) |
 | [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode/) |
 | [Figma](https://www.youtube.com/@Figma/) |
 | [FluxAcademy](https://www.youtube.com/@FluxAcademy/) |
