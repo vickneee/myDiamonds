@@ -16,10 +16,10 @@ body {
 
 .footer {
     display: flex;
-    flex-direction: row;
+    flex-direction: row-reverse;
     align-items: center;
     justify-content: space-between;
-    height: 90px;
+    height: 50px;
 }
 
 thead {
@@ -50,10 +50,20 @@ a {
     font-size: 18px;
 }
 
+.with-love {
+    font-size: 18px;
+    color: #004aad;
+}
+
 a:hover {
     text-decoration: underline;
 }
+
 td {
+    font-size: 18px;
+}
+
+.end-of-page-back-to-top {
     font-size: 18px;
 }
 
