@@ -1,4 +1,4 @@
-# My Web Development resources 💎
+# My Web Development Resources 💎
 
 This is a small project about My Web Development resources. 📃
 
