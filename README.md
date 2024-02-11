@@ -2,8 +2,6 @@
 
 This is a small project about My Web Development resources. 📃
 
-If you would like to modify that list, feel free to make a fork and create your own version for yourself. 📝
-
 If you like that small project, give it a ⭐.
 
 Resources will be added from time to time! ✅
