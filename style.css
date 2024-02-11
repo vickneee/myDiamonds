@@ -23,6 +23,12 @@ body {
     height: 50px;
 }
 
+hr {
+    border: none; /* Remove the default border */
+    height: 2px; /* Set the height of the rule */
+    background-color: #004aad; /* Set the background color */
+}
+
 input {
     margin-top: 10px;
     padding: 10px 10px;
@@ -41,6 +47,10 @@ h1 {
 
 h2 {
     color: #555;
+}
+
+p {
+    line-height: 1.5;
 }
 
 ul {
