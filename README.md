@@ -276,7 +276,7 @@ Resources will be added from time to time! ✅
 | Websites |
 | --------------- |
 | [CSS-Tricks](https://css-tricks.com/) |
-| [EnjoyCSS](https://enjoycss.com/) |
+| [Enjoy CSS](https://enjoycss.com/) |
 | [Shouldiprefix](https://shouldiprefix.com/) |
 | [Mozilla Docs CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) |
 | [W3Schools CSS ref](https://www.w3schools.com/cssref/) |
@@ -827,8 +827,8 @@ Resources will be added from time to time! ✅
 | Websites |
 | --------------- |
 | [Codevolution](https://www.youtube.com/@Codevolution/) |
-| [codewithantonio](https://www.youtube.com/@Codewithantonio/) |
-| [codewithyousaf](https://www.youtube.com/@Codewithyousaf/) |
+| [Codewithantonio](https://www.youtube.com/@Codewithantonio/) |
+| [Codewithyousaf](https://www.youtube.com/@Codewithyousaf/) |
 | [DaveGrayTeachesCode](https://www.youtube.com/@DaveGrayTeachesCode/) |
 | [Figma](https://www.youtube.com/@Figma/) |
 | [FluxAcademy](https://www.youtube.com/@FluxAcademy/) |
