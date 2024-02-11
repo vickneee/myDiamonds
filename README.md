@@ -572,7 +572,7 @@ Resources will be added from time to time! ✅
 | Websites |
 | --------------- |
 | [MERN](https://mern.js.org/) |
-| [MERN Login and Registration YT](https://www.youtube.com/watch?v=ZVyIIyZJutM&t=2s) |
+| [Login and Registration using MERN Stack](https://www.youtube.com/watch?v=ZVyIIyZJutM&t=2s) |
 | [MERN YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
 | [⬆ back to top](#table-of-contents) |
 
