@@ -1,6 +1,6 @@
 # My Web Development Resources 💎
 
-This is a small project about My Web Development resources. 📃
+This is a small project about my web development resources. 📃
 
 If you like that small project, give it a ⭐.
 
