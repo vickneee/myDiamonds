@@ -1,6 +1,6 @@
 # My Web Development Resources 💎
 
-This is a small project about My Web Development resources. 📃
+This is a small project about my web development resources. 📃
 
 If you like that small project, give it a ⭐.
 
@@ -571,7 +571,7 @@ Resources will be added from time to time! ✅
 | --------------- |
 | [MERN](https://mern.js.org/) |
 | [Login and Registration using MERN Stack](https://www.youtube.com/watch?v=ZVyIIyZJutM&t=2s) |
-| [MERN YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
+| [MERN Stack Crash Course Tutorial YT](https://www.youtube.com/watch?v=98BzS5Oz5E4&list=PL4cUxeGkcC9iJ_KkrkBZWZRHVwnzLIoUE) |
 | [⬆ back to top](#table-of-contents) |
 
 ## MongoDB:
@@ -612,7 +612,7 @@ Resources will be added from time to time! ✅
 | Websites |
 | --------------- |
 | [Node.js](https://nodejs.org/en/download/) |
-| [npm](https://www.npmjs.com/) |
+| [NPM](https://www.npmjs.com/) |
 | [⬆ back to top](#table-of-contents) |
 
 ## Other Good Resources:
