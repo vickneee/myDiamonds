@@ -1,4 +1,4 @@
-# My Web Development Resources 💎
+# myDiamonds 💎
 
 This is a small project about my web development resources. 📃
 
