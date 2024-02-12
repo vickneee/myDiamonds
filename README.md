@@ -4,7 +4,7 @@ This is a small project about my web development resources. 📃
 
 If you like that small project, give it a ⭐.
 
-Resources will be added from time to time!❓
+Resources will be added from time to time! ✅
 
 ---------------------------
 
