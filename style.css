@@ -55,8 +55,11 @@ h1 {
     text-align: center;
 }
 
-h2 {
+.head, h2 {
     color: #555;
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 0.8em;
 }
 
 p {
@@ -64,7 +67,7 @@ p {
 }
 
 .btt {
-    margin-top: -13px;
+    margin-top: 0;
 }
 
 ul {
