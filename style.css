@@ -67,6 +67,11 @@ a {
     text-decoration: none;
     color: #004aad;
     font-size: 18px;
+    line-height: 1.6;
+}
+
+a:hover {
+    text-decoration: underline;
 }
 
 .with-love {
@@ -74,16 +79,8 @@ a {
     color: #004aad;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
 .github-logo:hover {
     translate: 1px 1px;
-}
-
-td {
-    font-size: 18px;
 }
 
 .end-of-page-back-to-top {
