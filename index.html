@@ -13,159 +13,130 @@
 <p>Resources will be added from time to time! ✅</p>
 <hr id="table-of-contents"/>
 
-<input type="text" id="searchInput" placeholder="Table of Contents... 💎"><label for="searchInput"></label>
+<input type="text" id="searchInput" placeholder="Search a link... 💎"><label for="searchInput"></label>
+
+<div class="searchResultsContainer">
+    <div id="searchResults">
+        <!-- Search results will be displayed here -->
+        <p>Search results... </p>
+    </div>
+</div>
 
 <h2>Table of Contents</h2>
-<ul id="linkList">
-    <li><a href="#ai-tools">AI Tools</a></li>
-    <li><a href="#animations">Animations</a></li>
-    <li><a href="#api-testing">API Testing</a></li>
-    <li><a href="#apis">API’s</a></li>
-    <li><a href="#avatars">Avatars</a></li>
-    <li><a href="#backgrounds">Backgrounds</a></li>
-    <li><a href="#background-remover">Background Remover</a></li>
-    <li><a href="#bug-report">Bug report</a></li>
-    <li><a href="#buttons">Buttons</a></li>
-    <li><a href="#can-i-use">Can I Use</a></li>
-    <li><a href="#capture-your-screen">Capture Your Screen</a></li>
-    <li><a href="#charts">Charts</a></li>
-    <li><a href="#cheat-sheets">Cheat Sheets</a></li>
-    <li><a href="#code-editors">Code Editors</a></li>
-    <li><a href="#code-editors-online">Code Editors Online</a></li>
-    <li><a href="#code-styling">Code Styling</a></li>
-    <li><a href="#coding-challenges">Coding Challenges</a></li>
-    <li><a href="#color-pickers">Color Pickers</a></li>
-    <li><a href="#code-sample-to-image">Code Sample To Image</a></li>
-    <li><a href="#css">CSS</a></li>
-    <li><a href="#css-frameworks">CSS Frameworks</a></li>
-    <li><a href="#css-flexbox">CSS Flexbox</a></li>
-    <li><a href="#css-grid">CSS Grid</a></li>
-    <li><a href="#css-loaders">CSS Loaders</a></li>
-    <li><a href="#design-inspiration">Design Inspiration</a></li>
-    <li><a href="#design-patterns">Design Patterns</a></li>
-    <li><a href="#dev-tools">Dev Tools</a></li>
-    <li><a href="#docs">Docs</a></li>
-    <li><a href="#drawio-desktop">Drawio Desktop</a></li>
-    <li><a href="#express">Express</a></li>
-    <li><a href="#favicon-generator">Favicon Generator</a></li>
-    <li><a href="#figma">Figma</a></li>
-    <li><a href="#files-converters-editors">Files Converters Editors</a></li>
-    <li><a href="#fonts">Fonts</a></li>
-    <li><a href="#frontend-frameworks">Frontend Frameworks</a></li>
-    <li><a href="#git">Git</a></li>
-    <li><a href="#hosting">Hosting</a></li>
-    <li><a href="#how-to">How To</a></li>
-    <li><a href="#how-to-clone-a-website">How To Clone a Website</a></li>
-    <li><a href="#icons">Icons</a></li>
-    <li><a href="#illustrations">Illustrations</a></li>
-    <li><a href="#image-resizer">Image Resizer</a></li>
-    <li><a href="#image-compressors">Image Compressors</a></li>
-    <li><a href="#image-editors">Image Editors</a></li>
-    <li><a href="#image-generator-online">Image Generator Online</a></li>
-    <li><a href="#image-optimization">Image Optimization</a></li>
-    <li><a href="#image-sources">Image Sources</a></li>
-    <li><a href="#javascript">JavaScript</a></li>
-    <li><a href="#javascript-frameworks">JavaScript Frameworks</a></li>
-    <li><a href="#json-tools">JSON Tools</a></li>
-    <li><a href="#learning-platforms">Learning Platforms</a></li>
-    <li><a href="#logos">Logos</a></li>
-    <li><a href="#markdown">Markdown</a></li>
-    <li><a href="#markdown-editors">Markdown Editors</a></li>
-    <li><a href="#mern">MERN</a></li>
-    <li><a href="#mongodb">MongoDB</a></li>
-    <li><a href="#mongoose">Mongoose</a></li>
-    <li><a href="#mysql">MySQL</a></li>
-    <li><a href="#mockup-tools">Mockup Tools</a></li>
-    <li><a href="#next">Next</a></li>
-    <li><a href="#node">Node</a></li>
-    <li><a href="#other-good-resources">Other Good Resources</a></li>
-    <li><a href="#pandoc-the-universal-markup-converter">Pandoc The Universal Markup Converter</a></li>
-    <li><a href="#performance-optimization">Performance Optimization</a></li>
-    <li><a href="#prototyping">Prototyping</a></li>
-    <li><a href="#python">Python</a></li>
-    <li><a href="#qr-code-generator">QR Code Generator</a></li>
-    <li><a href="#react">React</a></li>
-    <li><a href="#react-data-grid">React Data Grid</a></li>
-    <li><a href="#react-native">React Native</a></li>
-    <li><a href="#react-typescript">React Typescript</a></li>
-    <li><a href="#regular-expressions">Regular Expressions</a></li>
-    <li><a href="#responsive-design">Responsive Design</a></li>
-    <li><a href="#seo">SEO</a></li>
-    <li><a href="#shadows">Shadows</a></li>
-    <li><a href="#sql">SQL</a></li>
-    <li><a href="#testing-end-to-end-test">Testing - End-To-End test</a></li>
-    <li><a href="#testing-jest">Testing - Jest</a></li>
-    <li><a href="#testing-react-testing-library">Testing - React Testing Library</a></li>
-    <li><a href="#testing-test-driven-development">Testing - Test Driven Development</a></li>
-    <li><a href="#text-placeholders">Text Placeholders</a></li>
-    <li><a href="#text-diff-checker">Text Diff Checker</a></li>
-    <li><a href="#typescript">TypeScript</a></li>
-    <li><a href="#typography">Typography</a></li>
-    <li><a href="#ui-kits-components">UI Kits Components</a></li>
-    <li><a href="#videos">Videos</a></li>
-    <li><a href="#visualize-code">Visualize Code</a></li>
-    <li><a href="#vite">Vite</a></li>
-    <li><a href="#web-design-tools">Web Design Tools</a></li>
-    <li><a href="#youtube-channels">Youtube Channels</a></li>
+<ul id="linkListByID">
+    <li id="#ai-tools"><a href="#ai-tools">AI Tools</a></li>
+    <li id="#animations"><a href="#animations">Animations</a></li>
+    <li id="#api-testing"><a href="#api-testing">API Testing</a></li>
+    <li id="#apis"><a href="#apis">API’s</a></li>
+    <li id="#avatars"><a href="#avatars">Avatars</a></li>
+    <li id="#backgrounds"><a href="#backgrounds">Backgrounds</a></li>
+    <li id="#background-remover"><a href="#background-remover">Background Remover</a></li>
+    <li id="#bug-report"><a href="#bug-report">Bug report</a></li>
+    <li id="#buttons"><a href="#buttons">Buttons</a></li>
+    <li id="#can-i-use"><a href="#can-i-use">Can I Use</a></li>
+    <li id="#capture-your-screen"><a href="#capture-your-screen">Capture Your Screen</a></li>
+    <li id="#charts"><a href="#charts">Charts</a></li>
+    <li id="#cheat-sheets"><a href="#cheat-sheets">Cheat Sheets</a></li>
+    <li id="#code-editors"><a href="#code-editors">Code Editors</a></li>
+    <li id="#code-editors-online"><a href="#code-editors-online">Code Editors Online</a></li>
+    <li id="#code-styling"><a href="#code-styling">Code Styling</a></li>
+    <li id="#coding-challenges"><a href="#coding-challenges">Coding Challenges</a></li>
+    <li id="#color-pickers"><a href="#color-pickers">Color Pickers</a></li>
+    <li id="#code-sample-to-image"><a href="#code-sample-to-image">Code Sample To Image</a></li>
+    <li id="#css"><a href="#css">CSS</a></li>
+    <li id="#css-frameworks"><a href="#css-frameworks">CSS Frameworks</a></li>
+    <li id="#css-flexbox"><a href="#css-flexbox">CSS Flexbox</a></li>
+    <li id="#css-grid"><a href="#css-grid">CSS Grid</a></li>
+    <li id="#css-loaders"><a href="#css-loaders">CSS Loaders</a></li>
+    <li id="#design-inspiration"><a href="#design-inspiration">Design Inspiration</a></li>
+    <li id="#design-patterns"><a href="#design-patterns">Design Patterns</a></li>
+    <li id="#dev-tools"><a href="#dev-tools">Dev Tools</a></li>
+    <li id="#docs"><a href="#docs">Docs</a></li>
+    <li id="#drawio-desktop"><a href="#drawio-desktop">Drawio Desktop</a></li>
+    <li id="#express"><a href="#express">Express</a></li>
+    <li id="#favicon-generator"><a href="#favicon-generator">Favicon Generator</a></li>
+    <li id="#figma"><a href="#figma">Figma</a></li>
+    <li id="#files-converters-editors"><a href="#files-converters-editors">Files Converters Editors</a></li>
+    <li id="#fonts"><a href="#fonts">Fonts</a></li>
+    <li id="#frontend-frameworks"><a href="#frontend-frameworks">Frontend Frameworks</a></li>
+    <li id="#git"><a href="#git">Git</a></li>
+    <li id="#hosting"><a href="#hosting">Hosting</a></li>
+    <li id="#how-to"><a href="#how-to">How To</a></li>
+    <li id="#how-to-clone-a-website"><a href="#how-to-clone-a-website">How To Clone a Website</a></li>
+    <li id="#icons"><a href="#icons">Icons</a></li>
+    <li id="#illustrations"><a href="#illustrations">Illustrations</a></li>
+    <li id="#image-resizer"><a href="#image-resizer">Image Resizer</a></li>
+    <li id="#image-compressors"><a href="#image-compressors">Image Compressors</a></li>
+    <li id="#image-editors"><a href="#image-editors">Image Editors</a></li>
+    <li id="#image-generator-online"><a href="#image-generator-online">Image Generator Online</a></li>
+    <li id="#image-optimization"><a href="#image-optimization">Image Optimization</a></li>
+    <li id="#image-sources"><a href="#image-sources">Image Sources</a></li>
+    <li id="#javascript"><a href="#javascript">JavaScript</a></li>
+    <li id="#javascript-frameworks"><a href="#javascript-frameworks">JavaScript Frameworks</a></li>
+    <li id="#json-tools"><a href="#json-tools">JSON Tools</a></li>
+    <li id="#learning-platforms"><a href="#learning-platforms">Learning Platforms</a></li>
+    <li id="#logos"><a href="#logos">Logos</a></li>
+    <li id="#markdown"><a href="#markdown">Markdown</a></li>
+    <li id="#markdown-editors"><a href="#markdown-editors">Markdown Editors</a></li>
+    <li id="#mern"><a href="#mern">MERN</a></li>
+    <li id="#mongodb"><a href="#mongodb">MongoDB</a></li>
+    <li id="#mongoose"><a href="#mongoose">Mongoose</a></li>
+    <li id="#mysql"><a href="#mysql">MySQL</a></li>
+    <li id="#mockup-tools"><a href="#mockup-tools">Mockup Tools</a></li>
+    <li id="#next"><a href="#next">Next</a></li>
+    <li id="#node"><a href="#node">Node</a></li>
+    <li id="#other-good-resources"><a href="#other-good-resources">Other Good Resources</a></li>
+    <li id="#pandoc-the-universal-markup-converter"><a href="#pandoc-the-universal-markup-converter">Pandoc The
+        Universal Markup Converter</a></li>
+    <li id="#performance-optimization"><a href="#performance-optimization">Performance Optimization</a></li>
+    <li id="#prototyping"><a href="#prototyping">Prototyping</a></li>
+    <li id="#python"><a href="#python">Python</a></li>
+    <li id="#qr-code-generator"><a href="#qr-code-generator">QR Code Generator</a></li>
+    <li id="#react"><a href="#react">React</a></li>
+    <li id="#react-native"><a href="#react-native">React Native</a></li>
+    <li id="#react-typescript"><a href="#react-typescript">React Typescript</a></li>
+    <li id="#regular-expressions"><a href="#regular-expressions">Regular Expressions</a></li>
+    <li id="#responsive-design"><a href="#responsive-design">Responsive Design</a></li>
+    <li id="#seo"><a href="#seo">SEO</a></li>
+    <li id="#shadows"><a href="#shadows">Shadows</a></li>
+    <li id="#sql"><a href="#sql">SQL</a></li>
+    <li id="#testing-end-to-end-test"><a href="#testing-end-to-end-test">Testing - End-To-End test</a></li>
+    <li id="#testing-jest"><a href="#testing-jest">Testing - Jest</a></li>
+    <li id="#testing-react-testing-library"><a href="#testing-react-testing-library">Testing - React Testing Library</a></li>
+    <li id="#testing-test-driven-development"><a href="#testing-test-driven-development">Testing - Test Driven Development</a></li>
+    <li id="#text-placeholders"><a href="#text-placeholders">Text Placeholders</a></li>
+    <li id="#text-diff-checker"><a href="#text-diff-checker">Text Diff Checker</a></li>
+    <li id="#typescript"><a href="#typescript">TypeScript</a></li>
+    <li id="#typography"><a href="#typography">Typography</a></li>
+    <li id="#ui-kits-components"><a href="#ui-kits-components">UI Kits Components</a></li>
+    <li id="#videos"><a href="#videos">Videos</a></li>
+    <li id="#visualize-code"><a href="#visualize-code">Visualize Code</a></li>
+    <li id="#vite"><a href="#vite">Vite</a></li>
+    <li id="#web-design-tools"><a href="#web-design-tools">Web Design Tools</a></li>
+    <li id="#youtube-channels"><a href="#youtube-channels">Youtube Channels</a></li>
+    <li><a href="#table-of-contents">⬆ back to top</a></li>
 </ul>
+
 <h2 id="ai-tools">AI Tools</h2>
-<table class="searchable-table">
-    <thead>
-    <tr class="header">
-        <th>Websites</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr class="odd">
-        <td><a href="https://www.blackbox.ai/">Blackbox</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://app.durable.co/website-builder/">Durable</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://ai.feathery.io/">Feathery</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://www.framer.com/features/ai/">Framer</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://www.fotor.com/images/create/">Fotor</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://jenni.ai/">Jenni</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://chat.openai.com/">OpenAI</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://otter.ai/">Otter</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://pi.ai/onboarding/">Pi AI</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://runwayml.com/ai-magic-tools/">Runway</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://www.sincode.ai/">SinCode</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://www.studyfetch.com/">Studyfetch</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://tinywow.com/">Tinywow</a></td>
-    </tr>
-    <tr>
-        <td><a href="https://topai.tools/">Topai</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://undetectable.ai/">Undetectable</a></td>
-    </tr>
-    <tr>
-        <td><a href="#table-of-contents">⬆ back to top</a></td>
-    </tr>
-    </tbody>
-</table>
+<ul class="linkListByClass">
+<li id="ai-tools-1"><a href="https://www.blackbox.ai/" target="_blank">Blackbox</a></li>
+<li id="ai-tools-2"><a href="https://app.durable.co/website-builder/" target="_blank">Durable</a></li>
+<li id="ai-tools-3"><a href="https://ai.feathery.io/" target="_blank">Feathery</a></li>
+<li id="ai-tools-4"><a href="https://www.framer.com/features/ai/" target="_blank">Framer</a></li>
+<li id="ai-tools-5"><a href="https://www.fotor.com/images/create/" target="_blank">Fotor</a></li>
+<li id="ai-tools-6"><a href="https://jenni.ai/" target="_blank">Jenni</a></li>
+<li id="ai-tools-7"><a href="https://chat.openai.com/" target="_blank">OpenAI</a></li>
+<li id="ai-tools-8"><a href="https://otter.ai/" target="_blank">Otter</a></li>
+<li id="ai-tools-9"><a href="https://pi.ai/onboarding/" target="_blank">Pi AI</a></li>
+<li id="ai-tools-10"><a href="https://runwayml.com/ai-magic-tools/" target="_blank">Runway</a></li>
+<li id="ai-tools-11"><a href="https://www.sincode.ai/" target="_blank">SinCode</a></li>
+<li id="ai-tools-12"><a href="https://www.studyfetch.com/" target="_blank">Studyfetch</a></li>
+<li id="ai-tools-13"><a href="https://tinywow.com/" target="_blank">Tinywow</a></li>
+<li id="ai-tools-14"><a href="https://topai.tools/" target="_blank">Topai</a></li>
+<li id="ai-tools-15"><a href="https://undetectable.ai/" target="_blank">Undetectable</a></li>
+<li><a href="#table-of-contents">⬆ back to top</a></li>
+</ul>
+
 <h2 id="animations">Animations</h2>
 <table class="searchable-table">
     <thead>
@@ -270,35 +241,22 @@
     </thead>
     <tbody>
     <tr>
-        <td><a
-                href="https://background-generator.com/">Background Generator</a></td>
-    </tr>
-    <tr>
         <td><a href="https://bansal.io/pattern-css/">Bansal Pattern CSS</a></td>
     </tr>
-    <tr class="odd">
+    <tr>
         <td><a href="https://bgjar.com/">Bgjar</a></td>
     </tr>
     <tr>
         <td><a href="https://devsnap.me/">Dev Snap</a></td>
     </tr>
     <tr>
-        <td><a href="https://doodad.dev/">Doodad</a></td>
-    </tr>
-    <tr class="odd">
         <td><a href="https://css-doodle.com/">Doodle</a></td>
     </tr>
     <tr>
         <td><a href="https://getwaves.io/">Get Waves</a></td>
     </tr>
-    <tr class="odd">
-        <td><a href="https://www.heropatterns.com/">HeroPatterns</a></td>
-    </tr>
     <tr>
-        <td><a href="https://patternico.com/">Patternico</a></td>
-    </tr>
-    <tr class="odd">
-        <td><a href="https://www.patternizer.com/">Patternizer</a></td>
+        <td><a href="https://www.heropatterns.com/">HeroPatterns</a></td>
     </tr>
     <tr>
         <td><a href="https://www.patternpad.com/">PatternPad</a></td>
@@ -306,7 +264,7 @@
     <tr>
         <td><a href="https://superdesigner.co/">Superdesigner</a></td>
     </tr>
-    <tr class="odd">
+    <tr>
         <td><a href="https://www.svgbackgrounds.com/">SVG Backgrounds</a></td>
     </tr>
     <tr>
@@ -602,7 +560,8 @@
     </thead>
     <tbody>
     <tr>
-        <td><a href="https://ray.so/#darkMode=falsebackground=truetheme=raindroplanguage=javascriptpadding=32/">Code Sample To Image - Ray</a></td>
+        <td><a href="https://ray.so/#darkMode=falsebackground=truetheme=raindroplanguage=javascriptpadding=32/">Code
+            Sample To Image - Ray</a></td>
     </tr>
     <tr>
         <td><a href="#table-of-contents">⬆ back to top</a></td>
@@ -1111,14 +1070,15 @@
     <tbody>
     <tr>
         <td><a
-                href="https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&amputm_medium=organic-social&amputm_content=li_05_23_23_website_clone/">How To Clone a Website</a></td>
+                href="https://www.codecademy.com/resources/blog/how-to-clone-a-website/?utm_source=linkedin&amputm_medium=organic-social&amputm_content=li_05_23_23_website_clone/">How
+            To Clone a Website</a></td>
     </tr>
     <tr>
         <td><a href="#table-of-contents">⬆ back to top</a></td>
     </tr>
     </tbody>
 </table>
-<h2 id="icons">Icons:</h2>
+<h2 id="icons">Icons</h2>
 <table class="searchable-table">
     <thead>
     <tr class="header">
@@ -1845,35 +1805,17 @@
 </table>
 
 <h2 id="react">React</h2>
-<a href="https://react.dev/learn/" target="_blank">React Dev</a><br>
-<a href="https://github.com/enaqx/awesome-react" target="_blank">Awesome React | GitHub</a><br>
-<a href="https://github.com/brillout/awesome-react-components" target="_blank">Awesome React Components | GitHub</a><br>
-<a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3" target="_blank">React Tutorial for Beginners | 1-118 | YT</a><br>
-<a href="https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR" target="_blank">Master React by Building Real Projects | 1-31 | YT</a><br>
-<a href="https://www.udemy.com/course/react-tutorial-and-projects-course/" target="_blank">React 18 Tutorial and Projects Course | 2024 Edition | Udemy</a><br>
-<a href="#table-of-contents">⬆ back to top</a><br>
+<ul class="linkListByClass">
+    <li id="react-1"><a href="https://react.dev/learn/" target="_blank">React Dev</a></li>
+    <li id="react-9"><a href="https://github.com/enaqx/awesome-react" target="_blank">Awesome React | GitHub</a></li>
+    <li id="react-8"><a href="https://github.com/brillout/awesome-react-components" target="_blank">Awesome React Components | GitHub</a></li>
+    <li id="react-3"><a href="https://www.ag-grid.com/react-data-grid/getting-started/" target="_blank">React Data Grid</a></li>
+    <li id="react-5"><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3" target="_blank">React Tutorial for Beginners | 1-118 | YT</a></li>
+    <li id="react-4"><a href="https://www.youtube.com/playlist?list=PL6QREj8te1P6wX9m5KnicnDVEucbOPsqR" target="_blank">Master React by Building Real Projects | 1-31 | YT</a></li>
+    <li id="react-7"><a href="https://www.udemy.com/course/react-tutorial-and-projects-course/" target="_blank">React 18 Tutorial and Projects Course | 2024 Edition | Udemy</a></li>
+    <li><a href="#table-of-contents">⬆ back to top</a></li>
+</ul>
 
-<h2 id="react-data-grid">React Data Grid</h2>
-<table class="searchable-table">
-    <colgroup>
-        <col style="width: 100%"/>
-    </colgroup>
-    <thead>
-    <tr class="header">
-        <th>Websites</th>
-    </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td><a
-                href="https://www.ag-grid.com/react-data-grid/getting-started/">React
-            Data Grid</a></td>
-    </tr>
-    <tr>
-        <td><a href="#table-of-contents">⬆ back to top</a></td>
-    </tr>
-    </tbody>
-</table>
 <h2 id="react-native">React Native</h2>
 <table class="searchable-table">
     <colgroup>
@@ -1886,13 +1828,10 @@
     </thead>
     <tbody>
     <tr>
-        <td><a
-                href="https://reactnative.dev/">React
-            Native</a></td>
+        <td><a href="https://reactnative.dev/">React Native</a></td>
     </tr>
     <tr>
-        <td><a
-                href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1">React
+        <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwhiQJD1di4eRVN30WWCXkg1">React
             Native Tutorial for Beginners 1-82 YT</a></td>
     </tr>
     <tr>
@@ -1915,8 +1854,7 @@
     </thead>
     <tbody>
     <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK">React
-            TypeScript Tutorial for Beginners 1-25 YT</a></td>
+        <td><a href="https://www.youtube.com/playlist?list=PLC3y8-rFHvwi1AXijGTKM0BKtHzVC-LSK">React TypeScript Tutorial for Beginners 1-25 YT</a></td>
     </tr>
     <tr>
         <td><a href="#table-of-contents">⬆ back to top</a></td>
@@ -2147,16 +2085,13 @@
         <td><a href="https://www.typescriptlang.org/">TypeScript</a></td>
     </tr>
     <tr>
-        <td><a href="https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgBu7g">TypeScript 1-20
-            YT</a></td>
+        <td><a href="https://www.youtube.com/playlist?list=PLZlA0Gpn_vH_z2fqIg50_POJrUkJgBu7g">TypeScript 1-20 YT</a></td>
     </tr>
     <tr>
-        <td><a href="https://www.youtube.com/watch?v=VGu1vDAWNTg&list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN">TypeScript
-            Crash Course 1-12 YT</a></td>
+        <td><a href="https://www.youtube.com/watch?v=VGu1vDAWNTg&list=PL4cUxeGkcC9gNhFQgS4edYLqP7LkZcFMN">TypeScript Crash Course 1-12 YT</a></td>
     </tr>
     <tr>
-        <td><a href="https://www.youtube.com/watch?v=gieEQFIfgYc">TypeScript Full Course for Beginners | Complete
-            All-in-One Tutorial | 8 Hours YT</a></td>
+        <td><a href="https://www.youtube.com/watch?v=gieEQFIfgYc">TypeScript Full Course for Beginners | Complete All-in-One Tutorial | 8 Hours YT</a></td>
     </tr>
     <tr>
         <td><a href="https://www.udemy.com/course/learn-typescript/">Mastering TypeScript - 2024 Edition Udemy</a>
@@ -2210,8 +2145,7 @@
         <td><a href="https://ant.design/">Ant Design</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/brillout/awesome-react-components?tab=readme-ov-file/">Awesome
-            React Components</a></td>
+        <td><a href="https://github.com/brillout/awesome-react-components?tab=readme-ov-file/">Awesome React Components</a></td>
     </tr>
     <tr>
         <td><a href="https://bootswatch.com/">Bootswatch</a></td>
@@ -2247,12 +2181,10 @@
         <td><a href="https://primefaces.org/primereact/">PrimeReact</a></td>
     </tr>
     <tr>
-        <td><a href="https://github.com/rcaferati/react-awesome-slider/">React
-            Awesome Slider</a></td>
+        <td><a href="https://github.com/rcaferati/react-awesome-slider/">React Awesome Slider</a></td>
     </tr>
     <tr>
-        <td><a href="https://react-bootstrap.github.io/">React
-            Bootstrap</a></td>
+        <td><a href="https://react-bootstrap.github.io/">React Bootstrap</a></td>
     </tr>
     <tr>
         <td><a href="https://react-toolbox.io/">React Toolbox</a></td>
@@ -2292,8 +2224,7 @@
         <td><a href="https://coverr.co/">Coverr Videos</a></td>
     </tr>
     <tr>
-        <td><a href="https://mixkit.co/free-sound-effects/">Mixkit Free Sound
-            Effects</a></td>
+        <td><a href="https://mixkit.co/free-sound-effects/">Mixkit Free Sound Effects</a></td>
     </tr>
     <tr>
         <td><a href="#table-of-contents">⬆ back to top</a></td>
@@ -2404,30 +2335,51 @@
 
 
 <script>
-    // Get the input element and link list
+    // Get the input element and link lists
     const searchInput = document.getElementById('searchInput');
-    const linkList = document.getElementById('linkList').getElementsByTagName('li');
+    const linkListByID = document.getElementById('linkListByID').getElementsByTagName('li');
+    const linkListByClass = document.getElementsByClassName('linkListByClass')[0].getElementsByTagName('li');
+
+    // Combine link lists into a single array
+    const allLinks = [...linkListByID, ...linkListByClass];
+    const searchResultsContainer = document.getElementById('searchResults');
 
     // Add event listener to input for keyup event
     searchInput.addEventListener('keyup', function () {
         // Get search term and convert to lowercase
         const searchTerm = searchInput.value.toLowerCase();
 
-        // Loop through each link in the list
-        for (let i = 0; i < linkList.length; i++) {
-            // Get the text content of the link and convert to lowercase
-            const linkText = linkList[i].textContent.toLowerCase();
+        // Clear previous search results
+        searchResultsContainer.innerHTML = '';
 
-            // Check if the search term is found in the link text
-            if (linkText.includes(searchTerm)) {
-                // If found, show the link
-                linkList[i].style.display = '';
-            } else {
-                // If not found, hide the link
-                linkList[i].style.display = 'none';
-            }
+        // If search term is empty, display a message
+        if (searchTerm.trim() === '') {
+            const message = document.createElement('p');
+            message.textContent = 'Please enter a search term...';
+            searchResultsContainer.appendChild(message);
+        } else {
+            // Loop through each link
+            allLinks.forEach(function (link) {
+                const linkText = link.textContent.toLowerCase();
+
+                // Check if the search term is found in the link text
+                if (linkText.includes(searchTerm)) {
+                    // If found, create a new anchor element to display the link
+                    const resultItem = document.createElement('a');
+                    resultItem.textContent = linkText;
+                    // Set the href attribute to link to the corresponding ID of the list item
+                    resultItem.setAttribute('href', '#' + link.id); // Each link has an ID
+                    resultItem.classList.add('searchResultLink'); //  Class for styling
+                    // Append the result item to the search results container
+                    searchResultsContainer.appendChild(resultItem);
+                    searchResultsContainer.appendChild(document.createElement('br')); // Add line break for separation
+                }
+            });
         }
     });
+
 </script>
+
 </body>
 </html>
+
