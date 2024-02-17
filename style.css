@@ -7,7 +7,7 @@ body {
 .container {
     max-width: 800px;
     margin: 50px auto;
-    padding: 30px;
+    padding: 20px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 74, 173, 0.1);
@@ -29,19 +29,11 @@ hr {
 
 input {
     font-size: 1.2em;
-    margin-top: 10px;
-    padding: 10px 10px;
+    margin-top: 25px;
+    padding: 0.5em 0.5em;
     border-radius: 4px;
     border-color: #004aad;
-}
-
-#searchResults {
     color: #666666;
-    font-size: 1.2em;
-}
-
-.searchResultsContainer {
-    margin-top: 20px;
 }
 
 h1 {
@@ -59,12 +51,18 @@ h1 {
     font-family: 'Georgia', serif;
 }
 
-p {
-    line-height: 1.5;
+.searchResultsContainer {
+    margin-top: 20px;
+    margin-bottom: 25px;
 }
 
-.btt {
-    margin-top: 0;
+#searchResults {
+    color: #666666;
+    font-size: 1.2em;
+}
+
+p {
+    line-height: 1.5;
 }
 
 ul {
@@ -83,11 +81,12 @@ a {
     line-height: 1.2;
 }
 
-td a {
-    text-decoration: none;
-    color: #004aad;
-    font-size: 1.2em;
-    line-height: 1.2;
+a:hover {
+    text-decoration: underline;
+}
+
+.btt {
+    margin-top: 0;
 }
 
 .footer p a {
@@ -96,11 +95,7 @@ td a {
     line-height: 1.2;
 }
 
-a:hover {
-    text-decoration: underline;
-}
-
-.with-love {
+.author {
     margin-top: 28px;
     font-size: 18px;
     color: #004aad;
@@ -108,6 +103,34 @@ a:hover {
 
 .github-logo:hover {
     translate: 1px 1px;
+}
+
+@media only screen and (max-width: 720px) {
+
+    h1 {
+        font-size: 2.5em;
+        text-align: left; /* Reset text alignment for smaller displays */
+        margin-bottom: 20px;
+    }
+
+    .container {
+        margin: 30px;
+    }
+
+}
+
+@media only screen and (max-width: 450px) {
+
+    h1 {
+        font-size: 2em;
+    }
+}
+
+@media only screen and (max-width: 360px) {
+
+    h1 {
+        font-size: 1.9em;
+    }
 }
 
 thead {
