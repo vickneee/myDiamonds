@@ -52,13 +52,19 @@ h1 {
 }
 
 .searchResultsContainer {
-    margin-top: 20px;
+    margin-top: 25px;
     margin-bottom: 25px;
 }
 
 #searchResults {
     color: #666666;
     font-size: 1.2em;
+}
+
+/* CSS for highlighted search result */
+.highlighted {
+    background-color: lightblue;
+    width: 100%;
 }
 
 p {
@@ -97,7 +103,7 @@ a:hover {
 
 .author {
     margin-top: 28px;
-    font-size: 18px;
+    font-size: 1.2em;
     color: #004aad;
 }
 
