@@ -1,6 +1,8 @@
 # myDiamonds 💎
 
-This is a small project about my web development resources. 
+To prevent losing my Diamonds, I created a basic website for my web development resources so they will be all in one place. 💎 
 
-Resources will be added from time to time.
+Resources will be added from time to time. 
+
+Responsive. 
 
