@@ -13,11 +13,7 @@ body {
     padding: 20px;
     background-color: #fff;
     border-radius: 8px;
-    box-shadow: 0 2px 5px rgba(0, 74, 173, 0.5);
-}
-
-.searchResultsContainer {
-    margin-top: 20px;
+    box-shadow: 0 2px 5px rgba(0, 74, 173, 0.1);
 }
 
 .footer {
@@ -35,7 +31,7 @@ hr {
 }
 
 input {
-    font-size: 18px;
+    font-size: 1.0em;
     margin-top: 10px;
     padding: 10px 10px;
     border-radius: 4px;
@@ -46,13 +42,10 @@ input {
     color: #666666;
 }
 
-thead {
-    display: none;
-}
-
 h1 {
     color: #333;
     text-align: center;
+    font-family: 'Georgia', serif;
 }
 
 .head, h2 {
@@ -60,6 +53,7 @@ h1 {
     font-size: 1.5em;
     font-weight: bold;
     margin-bottom: 1.2em;
+    font-family: 'Georgia', serif;
 }
 
 p {
@@ -98,5 +92,9 @@ a:hover {
 
 .github-logo:hover {
     translate: 1px 1px;
+}
+
+thead {
+    display: none;
 }
 
