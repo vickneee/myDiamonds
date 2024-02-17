@@ -59,7 +59,7 @@ h1 {
     color: #555;
     font-size: 1.5em;
     font-weight: bold;
-    margin-bottom: 1.4em;
+    margin-bottom: 1.2em;
 }
 
 p {
@@ -91,15 +91,12 @@ a:hover {
 }
 
 .with-love {
+    margin-top: 28px;
     font-size: 18px;
     color: #004aad;
 }
 
 .github-logo:hover {
     translate: 1px 1px;
-}
-
-.end-of-page-back-to-top {
-    font-size: 17px;
 }
 
