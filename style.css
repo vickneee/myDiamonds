@@ -102,7 +102,7 @@ a:hover {
 }
 
 .author {
-    margin-top: 28px;
+    /*margin-top: 1.8em;*/
     font-size: 1.2em;
     color: #004aad;
 }
@@ -130,22 +130,35 @@ a:hover {
     h1 {
         font-size: 2em;
     }
+
+    .author {
+        font-size: 0.9em;
+    }
 }
 
 @media only screen and (max-width: 360px) {
 
     h1 {
-        font-size: 1.3em;
+        font-size: 1.8em;
     }
 
     input {
         width: 85%;
-        font-size: 1.2em;
-        margin-top: 25px;
-        padding: 0.5em 0.5em;
-        border-radius: 4px;
-        border-color: #004aad;
-        color: #666666;
+    }
+
+    .author {
+        font-size: 0.9em;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+
+    h1 {
+        font-size: 1.3em;
+    }
+
+    .author {
+        font-size: 0.6em;
     }
 }
 
