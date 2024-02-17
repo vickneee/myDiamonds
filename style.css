@@ -2,9 +2,6 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    /*background-image: url("");*/
-    /*background-position: top;*/
-    /*background-attachment: fixed;*/
 }
 
 .container {
@@ -86,6 +83,13 @@ a {
 }
 
 td a {
+    text-decoration: none;
+    color: #004aad;
+    font-size: 1.2em;
+    line-height: 1.2;
+}
+
+.footer a {
     text-decoration: none;
     color: #004aad;
     font-size: 1.2em;
