@@ -28,7 +28,8 @@ hr {
 }
 
 input {
-    font-size: 1em;
+    width: 90%;
+    font-size: 1.2em;
     margin-top: 10px;
     padding: 10px 10px;
     border-radius: 4px;
@@ -37,6 +38,7 @@ input {
 
 #searchResults {
     color: #666666;
+    font-size: 1.2em;
 }
 
 .searchResultsContainer {
