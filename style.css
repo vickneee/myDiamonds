@@ -7,7 +7,7 @@ body {
 .container {
     max-width: 800px;
     margin: 50px auto;
-    padding: 20px;
+    padding: 30px;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 74, 173, 0.1);
@@ -90,7 +90,6 @@ td a {
 }
 
 .footer p a {
-    text-decoration: none;
     color: #004aad;
     font-size: 1.2em;
     line-height: 1.2;
