@@ -102,8 +102,7 @@ a:hover {
 }
 
 .author {
-    /*margin-top: 1.8em;*/
-    font-size: 1.2em;
+    font-size: 1em;
     color: #004aad;
 }
 
@@ -147,7 +146,7 @@ a:hover {
     }
 
     .author {
-        font-size: 0.9em;
+        font-size: 0.8em;
     }
 }
 
@@ -158,7 +157,7 @@ a:hover {
     }
 
     .author {
-        font-size: 0.6em;
+        font-size: 0.7em;
     }
 }
 
