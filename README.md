@@ -6,6 +6,11 @@ Resources will be added from time to time.
 
 ## deployment
 
-![Static Badge](https://img.shields.io/badge/Render-Success-green.svg)
+![Static Badge](https://img.shields.io/badge/render-success-green.svg)
 
+## tech used
+
+- HTML
+- CSS
+- JavaScript
 
