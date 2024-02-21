@@ -6,7 +6,6 @@ Resources will be added from time to time.
 
 ## deployment
 
-[![Render Status](https://render.com/badges/standard-white.svg)](https://dashboard.render.com/)
-![Static Badge](https://img.shields.io/badge/Render-%23181717)
+![Static Badge](https://img.shields.io/badge/Render-%23181717)(https://dashboard.render.com/)
 
 
