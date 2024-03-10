@@ -75,10 +75,6 @@ p {
     line-height: 1.5;
 }
 
-thead {
-    display: none;
-}
-
 ul {
     list-style: none;
     padding: 0;
@@ -104,6 +100,9 @@ a:hover {
     font-size: 1rem;
 }
 
+.head {
+    margin-top: 1rem;
+}
 .footer p a {
     color: #004aad;
     font-size: 1.2rem;
