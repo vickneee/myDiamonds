@@ -4,11 +4,12 @@ body {
     padding: 0;
 }
 
+body.dark {
+    background-color: #1a202c; /* Change this to the color you want for dark mode */
+}
+
 .container {
-    max-width: 800px;
-    margin: 50px auto;
-    padding: 20px;
-    background-color: #fff;
+    max-width: 820px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 74, 173, 0.1);
 }
@@ -18,7 +19,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    height: 50px;
+    height: 20px;
 }
 
 hr {
@@ -31,8 +32,8 @@ input {
     font-size: 1.2rem;
     margin-top: 25px;
     padding: 0.6rem 0.6rem;
-    border-radius: 4px;
-    border-color: #004aad;
+    border-radius: 7px;
+    border: 2px solid #004aad;
     color: #666666;
 }
 
@@ -41,6 +42,7 @@ h1 {
     color: #333;
     text-align: center;
     font-family: 'Georgia', serif;
+    margin-bottom: 1rem !important;
 }
 
 .head, h2 {
@@ -56,19 +58,34 @@ h1 {
     margin-bottom: 25px;
 }
 
+.font-weight-light {
+    font-weight: lighter;
+    font-size: 20px;
+}
+
 p {
-    font-size: 1.2rem;
+    font-size: 1.1rem;
 }
 
 #searchResults {
     color: #666666;
     font-size: 1.1rem;
+    margin-top: 2.3rem;
 }
 
 /* CSS for highlighted search result */
 .highlighted {
     background-color: lightblue;
     width: 100%;
+    color: #004aad;
+}
+
+.highlighted.head {
+    background-color: #004aad; /* Change this to the color you want for dark mode */
+}
+
+.highlighted a {
+    color: #004aad !important; /* Change this to the color you want for dark mode */
 }
 
 p {
@@ -89,6 +106,7 @@ a {
     color: #004aad;
     font-size: 1.2rem;
     line-height: 1.2;
+    margin-top: 5rem;
 }
 
 a:hover {
@@ -97,7 +115,7 @@ a:hover {
 
 .btt {
     margin-top: 0;
-    font-size: 1rem;
+    font-size: 0.6rem;
 }
 
 .head {
@@ -105,14 +123,18 @@ a:hover {
 }
 
 .footer p a {
-    color: #004aad;
     font-size: 1.2rem;
     line-height: 1.2;
 }
 
 .author {
-    font-size: 1rem;
-    color: #004aad;
+    font-size: 1.1rem;
+}
+
+.github-logo {
+    position: absolute;
+    bottom: 1.5rem;
+    right: 1.5rem;
 }
 
 .github-logo:hover {
@@ -122,18 +144,18 @@ a:hover {
 @media only screen and (max-width: 720px) {
 
     h1 {
+        padding-top: 1.5rem;
         font-size: 2.5rem;
-        text-align: left; /* Reset text alignment for smaller displays */
-        margin-bottom: 20px;
+        margin-bottom: 20px !important;
     }
 
     .container {
-        margin: 30px;
+        margin: 30px !important;
     }
 
 }
 
-@media only screen and (max-width: 450px) {
+@media only screen and (max-width: 470px) {
 
     h1 {
         font-size: 2rem;
@@ -144,7 +166,7 @@ a:hover {
     }
 }
 
-@media only screen and (max-width: 360px) {
+@media only screen and (max-width: 385px) {
 
     h1 {
         font-size: 1.7rem;
@@ -159,7 +181,7 @@ a:hover {
     }
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 350px) {
 
     h1 {
         font-size: 1.3rem;
