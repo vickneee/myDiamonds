@@ -668,8 +668,8 @@ Constrain images and videos to the parent width and preserve their intrinsic asp
 }
 
 :is(.dark .dark\:shadow-xl){
-    --tw-shadow: 0 2px 25px 0px rgba(255, 255, 255, 0.2), 0 2px 25px 6px rgba(255, 255, 255, 0.2);
-    --tw-shadow-colored: 0 2px 25px 5px rgba(255, 255, 255, 0.2), 0 2px 25px 6px rgba(255, 255, 255, 0.2);
+    --tw-shadow: 0 2px 25px -3px rgba(255, 255, 255, 0.2), 0 2px 25px -3px rgba(255, 255, 255, 0.2);
+    --tw-shadow-colored: 0 2px 25px -3px rgba(255, 255, 255, 0.2), 0 2px 25px -3px rgba(255, 255, 255, 0.2);
     box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow), var(--tw-shadow);
 }
 
