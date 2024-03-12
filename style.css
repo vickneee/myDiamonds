@@ -1,5 +1,6 @@
 body {
     font-family: Arial, sans-serif;
+    font-weight: lighter;
     margin: 0;
     padding: 0;
 }
@@ -75,7 +76,7 @@ p {
 #searchResults {
     color: #666666;
     font-size: 1.1rem;
-    margin-top: 2.3rem;
+    margin-top: 2rem;
 }
 
 /* CSS for highlighted search result */
@@ -144,6 +145,15 @@ a:hover {
 
 .github-logo:hover {
     translate: 1px 1px;
+}
+
+@media only screen and (max-width: 920px) {
+
+    h1 {
+        padding-top: 1.5rem;
+        font-size: 3rem;
+        margin-bottom: 20px !important;
+    }
 }
 
 @media only screen and (max-width: 720px) {
