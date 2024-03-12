@@ -475,6 +475,8 @@
 
     // Filter out elements with the class 'btt'
     allLinks = allLinks.filter(link => !link.classList.contains('btt'));
+    // Filter out elements with the class 'head'
+    allLinks = allLinks.filter(link => !link.classList.contains('head'));
 
     const searchResultsContainer = document.getElementById('searchResults');
 
