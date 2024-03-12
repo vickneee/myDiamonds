@@ -14,7 +14,41 @@
 <div class="container relative m-10 rounded-lg bg-white px-8 py-10 shadow-xl dark:shadow-xl ring-1 ring-slate-900/5 dark:bg-blue-950">
     <h1 id="my-web-development-resources " class="dark:text-gray-100">myDiamonds 💎</h1>
     <!-- Theme dark: -->
-    <button id="toggleDark" class="absolute top-4 right-4 mt-8 rounded-md bg-blue-100 px-4 py-2 text-sm font-medium text-blue-900" onclick="document.body.classList.toggle('dark')">🔆
+<!--    <button id="toggleDark" class="absolute top-4 right-4 mt-8 rounded-md bg-blue-100 px-4 py-2 text-sm font-medium text-blue-900" onclick="document.body.classList.toggle('dark')">🔆-->
+<!--    </button>-->
+
+    <button class="absolute top-4 right-4" onclick="document.body.classList.toggle('dark')">
+        <svg width="30" height="30" class="logo" id="light-icon">
+            <circle cx="15" cy="15" r="6" fill="currentColor" />
+
+            <line
+                    id="ray"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    x1="15"
+                    y1="1"
+                    x2="15"
+                    y2="4"
+            ></line>
+
+            <use href="#ray" transform="rotate(45 15 15)" />
+            <use href="#ray" transform="rotate(90 15 15)" />
+            <use href="#ray" transform="rotate(135 15 15)" />
+            <use href="#ray" transform="rotate(180 15 15)" />
+            <use href="#ray" transform="rotate(225 15 15)" />
+            <use href="#ray" transform="rotate(270 15 15)" />
+            <use href="#ray" transform="rotate(315 15 15)" />
+        </svg>
+        <svg width="30" height="30" class="dark" id="dark-icon">
+            <path
+                    fill="currentColor"
+                    d="
+          M 23, 5
+          A 12 12 0 1 0 23, 25
+          A 12 12 0 0 1 23, 5"
+            />
+        </svg>
     </button>
     <hr id="table-of-contents"/>
 
