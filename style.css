@@ -181,12 +181,6 @@ a:hover {
         margin: 0 !important;
         width: 100%;
     }
-
-    a {
-        font-size: 1rem;
-        overflow: hidden;
-    }
-
 }
 
 @media only screen and (max-width: 470px) {
