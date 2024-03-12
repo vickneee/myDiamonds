@@ -170,7 +170,7 @@ a:hover {
     }
 }
 
-@media only screen and (max-width: 720px) {
+@media only screen and (max-width: 770px) {
 
     h1 {
         padding-top: 1.5rem;
@@ -179,7 +179,13 @@ a:hover {
     }
 
     .container {
-        margin: 30px !important;
+        margin: 0 !important;
+        width: 100%;
+    }
+
+    a {
+        font-size: 1rem;
+        overflow: hidden;
     }
 
 }
@@ -206,7 +212,7 @@ a:hover {
     }
 
     .author {
-        font-size: 0.8rem;
+        font-size: 0.7rem;
     }
 }
 
@@ -216,7 +222,4 @@ a:hover {
         font-size: 1.3rem;
     }
 
-    .author {
-        font-size: 0.7rem;
-    }
 }
